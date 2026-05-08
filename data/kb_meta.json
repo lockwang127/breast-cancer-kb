@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "update_date": "2026-05-08",
-  "total_entries": 364,
+  "total_triplets": 364,
   "duplicates_removed": 0,
   "source_files": {
     "biomarkers.json": 17,
