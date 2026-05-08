@@ -1,0 +1,173 @@
+{
+  "_meta": {
+    "name": "CSCO 2024乳腺癌诊疗指南推荐",
+    "version": "2024版",
+    "updated_date": "2024-04",
+    "source": "CSCO乳腺癌诊疗指南2024"
+  },
+  "triplets": [
+    {
+      "head": "HR+早期乳腺癌",
+      "relation": "内分泌治疗推荐",
+      "tail": "芳香化酶抑制剂或他莫昔芬",
+      "source": "CSCO 2024指南",
+      "evidence": "绝经后患者推荐AI类药物，绝经前患者可使用他莫昔芬或OFS+AI/TAM",
+      "domain": "csco_2024",
+      "confidence": 0.95
+    },
+    {
+      "head": "HR+晚期乳腺癌",
+      "relation": "一线标准治疗",
+      "tail": "CDK4/6抑制剂+内分泌治疗",
+      "source": "CSCO 2024指南",
+      "evidence": "哌柏西利、瑞波西利、阿贝西利联合内分泌治疗为HR+ABC一线标准",
+      "domain": "csco_2024",
+      "confidence": 0.95
+    },
+    {
+      "head": "HER2+乳腺癌",
+      "relation": "一线标准治疗",
+      "tail": "曲妥珠单抗+帕妥珠单抗+紫杉类",
+      "source": "CSCO 2024指南/CLEOPATRA研究",
+      "evidence": "CLEOPATRA研究显示双靶联合紫杉类中位PFS 18.7月，OS 57.1月",
+      "domain": "csco_2024",
+      "confidence": 0.95,
+      "pmid": "22689808"
+    },
+    {
+      "head": "三阴性乳腺癌",
+      "relation": "化疗推荐",
+      "tail": "蒽环类+紫杉类",
+      "source": "CSCO 2024指南",
+      "evidence": "蒽环联合紫杉类为TNBC标准辅助化疗方案",
+      "domain": "csco_2024",
+      "confidence": 0.92
+    },
+    {
+      "head": "HR+/HER2-绝经后",
+      "relation": "初始内分泌治疗",
+      "tail": "AI类药物",
+      "source": "CSCO 2024指南",
+      "evidence": "来曲唑、阿那曲唑、依西美坦为绝经后HR+患者优选",
+      "domain": "csco_2024",
+      "confidence": 0.94
+    },
+    {
+      "head": "BRCA突变HER2-",
+      "relation": "靶向治疗推荐",
+      "tail": "PARP抑制剂",
+      "source": "CSCO 2024指南/OlympiAD研究",
+      "evidence": "奥拉帕利或talazoparib用于BRCA突变HER2-晚期乳腺癌",
+      "domain": "csco_2024",
+      "confidence": 0.92,
+      "pmid": "29975758"
+    },
+    {
+      "head": "HER2+晚期乳腺癌",
+      "relation": "二线及后线推荐",
+      "tail": "T-DM1或T-DXd",
+      "source": "CSCO 2024指南/DESTINY-Breast研究",
+      "evidence": "T-DXd在HER2+后线治疗中显示显著PFS获益",
+      "domain": "csco_2024",
+      "confidence": 0.92,
+      "pmid": "34000629"
+    },
+    {
+      "head": "HR+绝经前",
+      "relation": "高危患者推荐",
+      "tail": "OFS+AI或OFS+TAM",
+      "source": "CSCO 2024指南/SOFT研究",
+      "evidence": "OFS联合AI或TAM可显著改善绝经前高危患者预后",
+      "domain": "csco_2024",
+      "confidence": 0.92,
+      "pmid": "25975048"
+    },
+    {
+      "head": "三阴性乳腺癌",
+      "relation": "免疫治疗推荐",
+      "tail": "帕博利珠单抗+化疗",
+      "source": "CSCO 2024指南/KEYNOTE-522",
+      "evidence": "帕博利珠单抗联合化疗用于PD-L1 CPS≥10的TNBC新辅助/辅助治疗",
+      "domain": "csco_2024",
+      "confidence": 0.88,
+      "pmid": "33582491"
+    },
+    {
+      "head": "HR+HER2-早期",
+      "relation": "Ki-67高表达",
+      "tail": "可考虑化疗",
+      "source": "CSCO 2024指南",
+      "evidence": "Ki-67高表达（≥30%）提示需考虑化疗联合内分泌治疗",
+      "domain": "csco_2024",
+      "confidence": 0.85
+    },
+    {
+      "head": "PIK3CA突变HR+",
+      "relation": "靶向治疗推荐",
+      "tail": "阿培利司+内分泌",
+      "source": "CSCO 2024指南/SOLAR-1研究",
+      "evidence": "阿培利司联合氟维司群用于PIK3CA突变HR+HER2-乳腺癌",
+      "domain": "csco_2024",
+      "confidence": 0.88,
+      "pmid": "31658300"
+    },
+    {
+      "head": "HER2低表达",
+      "relation": "新型ADC推荐",
+      "tail": "T-DXd",
+      "source": "CSCO 2024指南/DESTINY-Breast04",
+      "evidence": "T-DXd在HER2低表达（IHC 1+/2+）乳腺癌中显示显著OS获益",
+      "domain": "csco_2024",
+      "confidence": 0.90,
+      "pmid": "35727979"
+    },
+    {
+      "head": "骨转移HR+",
+      "relation": "骨改良药物推荐",
+      "tail": "唑来膦酸或地舒单抗",
+      "source": "CSCO 2024指南",
+      "evidence": "骨改良药物可预防SREs，改善骨转移患者生活质量",
+      "domain": "csco_2024",
+      "confidence": 0.92
+    },
+    {
+      "head": "HR+绝经前年轻患者",
+      "relation": "生育保护",
+      "tail": "化疗前进行生育力保存",
+      "source": "CSCO 2024指南",
+      "evidence": "年轻乳腺癌患者应在治疗前咨询生育保护",
+      "domain": "csco_2024",
+      "confidence": 0.90
+    },
+    {
+      "head": "新辅助治疗后未pCR",
+      "relation": "TNBC强化治疗",
+      "tail": "卡培他滨辅助强化",
+      "source": "CSCO 2024指南/Create-X研究",
+      "evidence": "新辅助化疗后未达pCR的TNBC，卡培他滨辅助强化6-8周期",
+      "domain": "csco_2024",
+      "confidence": 0.90,
+      "pmid": "28645999"
+    },
+    {
+      "head": "新辅助治疗后未pCR",
+      "relation": "HER2+强化治疗",
+      "tail": "T-DM1",
+      "source": "CSCO 2024指南/KATHERINE研究",
+      "evidence": "新辅助抗HER2治疗未达pCR者，T-DM1辅助强化14周期",
+      "domain": "csco_2024",
+      "confidence": 0.92,
+      "pmid": "30504463"
+    },
+    {
+      "head": "gBRCA突变高危早期",
+      "relation": "辅助治疗推荐",
+      "tail": "奥拉帕利一年",
+      "source": "CSCO 2024指南/OlympiA研究",
+      "evidence": "gBRCA1/2突变高危HER2-早期乳腺癌，辅助奥拉帕利1年",
+      "domain": "csco_2024",
+      "confidence": 0.90,
+      "pmid": "33911091"
+    }
+  ]
+}

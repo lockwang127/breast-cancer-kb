@@ -1,0 +1,645 @@
+{
+  "triplets": [
+    {
+      "head": "乳腺癌",
+      "relation": "2022年中国新发病例数",
+      "tail": "35.72万",
+      "source": "GLOBOCAN 2022",
+      "evidence": "中国女性乳腺癌新发病例数占全部恶性肿瘤新发病例的9.1%",
+      "domain": "epidemiology",
+      "confidence": 0.95,
+      "pmid": "35622778"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "2022年中国死亡人数",
+      "tail": "约8万",
+      "source": "国家癌症中心2022年报",
+      "evidence": "乳腺癌死亡人数占女性恶性肿瘤死亡总数的4.4%",
+      "domain": "epidemiology",
+      "confidence": 0.95,
+      "pmid": "35622778"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "病死比",
+      "tail": "约22%",
+      "source": "GLOBOCAN 2022计算",
+      "evidence": "死亡人数与新发病例数之比约为22%",
+      "domain": "epidemiology",
+      "confidence": 0.9
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "发病率趋势",
+      "tail": "上升",
+      "source": "中国肿瘤登记年报",
+      "evidence": "2000-2016年间中国女性乳腺癌发病率呈上升趋势，年均增长3.6%",
+      "domain": "epidemiology",
+      "confidence": 0.92,
+      "pmid": "34723931"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "高发年龄",
+      "tail": "45-55岁",
+      "source": "中国肿瘤登记数据",
+      "evidence": "中国女性乳腺癌发病高峰年龄集中在45-55岁",
+      "domain": "epidemiology",
+      "confidence": 0.9
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "城市发病率",
+      "tail": "高于农村",
+      "source": "中国卫生统计年鉴",
+      "evidence": "城市地区乳腺癌发病率约为农村的1.5-2倍",
+      "domain": "epidemiology",
+      "confidence": 0.88
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "五年生存率",
+      "tail": "83.2%",
+      "source": "CONCORD-3研究",
+      "evidence": "中国乳腺癌五年生存率已提升至83.2%",
+      "domain": "epidemiology",
+      "confidence": 0.92,
+      "pmid": "30527443"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "全球新发病例排名",
+      "tail": "第一",
+      "source": "GLOBOCAN 2020",
+      "evidence": "乳腺癌已超越肺癌成为全球最常见恶性肿瘤",
+      "domain": "epidemiology",
+      "confidence": 0.95,
+      "pmid": "33538338"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "女性恶性肿瘤占比",
+      "tail": "24.5%",
+      "source": "GLOBOCAN 2022",
+      "evidence": "女性乳腺癌病例占所有女性恶性肿瘤的24.5%",
+      "domain": "epidemiology",
+      "confidence": 0.94,
+      "pmid": "35622778"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "发病率与月经初潮年龄关系",
+      "tail": "负相关",
+      "source": "流行病学研究",
+      "evidence": "月经初潮年龄越早，乳腺癌发病风险越高",
+      "domain": "epidemiology",
+      "confidence": 0.85
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "绝经后风险因素",
+      "tail": "BMI增加",
+      "source": "WHO/IARC",
+      "evidence": "绝经后BMI增加与乳腺癌风险升高相关",
+      "domain": "epidemiology",
+      "confidence": 0.88
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "生育保护因素",
+      "tail": "母乳喂养",
+      "source": "Lancet 2022",
+      "evidence": "母乳喂养可降低乳腺癌发病风险约4.3%",
+      "domain": "epidemiology",
+      "confidence": 0.85,
+      "pmid": "35394189"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "遗传性比例",
+      "tail": "5-10%",
+      "source": "NCCN指南",
+      "evidence": "约5-10%的乳腺癌与遗传基因突变相关",
+      "domain": "epidemiology",
+      "confidence": 0.9
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "BRCA1/2突变携带者终生风险",
+      "tail": "60-80%",
+      "source": "国际BRCA携带者研究",
+      "evidence": "BRCA1/2突变携带者终生乳腺癌发病风险为60-80%",
+      "domain": "epidemiology",
+      "confidence": 0.88,
+      "pmid": "24788364"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "地区分布特征",
+      "tail": "东部沿海高于西部内陆",
+      "source": "中国肿瘤登记数据",
+      "evidence": "东部沿海地区乳腺癌发病率明显高于西部内陆地区",
+      "domain": "epidemiology",
+      "confidence": 0.87
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "死亡率趋势",
+      "tail": "略有下降",
+      "source": "国家癌症中心",
+      "evidence": "近年来中国乳腺癌死亡率呈缓慢下降趋势",
+      "domain": "epidemiology",
+      "confidence": 0.85
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "筛查项目覆盖",
+      "tail": "两癌筛查",
+      "source": "国家卫健委",
+      "evidence": "农村妇女两癌筛查项目已覆盖全国",
+      "domain": "epidemiology",
+      "confidence": 0.92
+    },
+    {
+      "head": "HR+/HER2-",
+      "relation": "占全部乳腺癌比例",
+      "tail": "约70%",
+      "source": "St. Gallen共识",
+      "evidence": "HR阳性HER2阴性为最常见的分子亚型，占全部乳腺癌约70%",
+      "domain": "biomarkers",
+      "confidence": 0.95
+    },
+    {
+      "head": "HER2+",
+      "relation": "占全部乳腺癌比例",
+      "tail": "约15-20%",
+      "source": "流行病学数据",
+      "evidence": "HER2过表达型乳腺癌占全部病例的15-20%",
+      "domain": "biomarkers",
+      "confidence": 0.92
+    },
+    {
+      "head": "三阴性乳腺癌",
+      "relation": "占全部乳腺癌比例",
+      "tail": "约15%",
+      "source": "NCCN指南",
+      "evidence": "三阴性乳腺癌占全部乳腺癌的10-20%",
+      "domain": "biomarkers",
+      "confidence": 0.9
+    },
+    {
+      "head": "Ki-67",
+      "relation": "高表达阈值",
+      "tail": "≥30%",
+      "source": "CSCO 2024指南",
+      "evidence": "Ki-67≥30%定义为高表达，可作为分子分型参考",
+      "domain": "biomarkers",
+      "confidence": 0.88
+    },
+    {
+      "head": "Ki-67",
+      "relation": "低表达阈值",
+      "tail": "<13%",
+      "source": "St. Gallen 2023",
+      "evidence": "Ki-67<13%定义为低表达",
+      "domain": "biomarkers",
+      "confidence": 0.85
+    },
+    {
+      "head": "BRCA1突变",
+      "relation": "相关乳腺癌亚型",
+      "tail": "三阴性乳腺癌",
+      "source": "NCCN遗传性乳腺癌指南",
+      "evidence": "BRCA1突变与三阴性乳腺癌密切相关",
+      "domain": "biomarkers",
+      "confidence": 0.92,
+      "pmid": "24788364"
+    },
+    {
+      "head": "BRCA2突变",
+      "relation": "相关乳腺癌亚型",
+      "tail": "管腔型乳腺癌",
+      "source": "NCCN遗传性乳腺癌指南",
+      "evidence": "BRCA2突变更多与HR阳性乳腺癌相关",
+      "domain": "biomarkers",
+      "confidence": 0.9,
+      "pmid": "24788364"
+    },
+    {
+      "head": "ER",
+      "relation": "阳性阈值",
+      "tail": "≥1%",
+      "source": "ASCO/CAP指南",
+      "evidence": "ER≥1%肿瘤细胞核着色定义为ER阳性",
+      "domain": "biomarkers",
+      "confidence": 0.95,
+      "pmid": "24523737"
+    },
+    {
+      "head": "PR",
+      "relation": "阳性阈值",
+      "tail": "≥1%",
+      "source": "ASCO/CAP指南",
+      "evidence": "PR≥1%肿瘤细胞核着色定义为PR阳性",
+      "domain": "biomarkers",
+      "confidence": 0.95,
+      "pmid": "24523737"
+    },
+    {
+      "head": "HER2",
+      "relation": "阳性判定标准",
+      "tail": "IHC 3+或FISH扩增",
+      "source": "ASCO/CAP HER2检测指南",
+      "evidence": "HER2 IHC 3+或FISH扩增定义为HER2阳性",
+      "domain": "biomarkers",
+      "confidence": 0.95,
+      "pmid": "27535145"
+    },
+    {
+      "head": "HR阳性",
+      "relation": "判定标准",
+      "tail": "ER≥1%或PR≥1%",
+      "source": "CSCO 2024指南",
+      "evidence": "ER或PR任一≥1%即可判定为激素受体阳性",
+      "domain": "biomarkers",
+      "confidence": 0.95
+    },
+    {
+      "head": "TP53突变",
+      "relation": "常见于",
+      "tail": "三阴性乳腺癌",
+      "source": "TCGA数据库分析",
+      "evidence": "TP53突变在三阴性乳腺癌中最为常见",
+      "domain": "biomarkers",
+      "confidence": 0.88,
+      "pmid": "22437870"
+    },
+    {
+      "head": "PIK3CA突变",
+      "relation": "常见于",
+      "tail": "HR+/HER2-乳腺癌",
+      "source": "TCGA/BIG 1-98研究",
+      "evidence": "PIK3CA突变在HR阳性乳腺癌中发生率约40%",
+      "domain": "biomarkers",
+      "confidence": 0.88,
+      "pmid": "26603265"
+    },
+    {
+      "head": "PARP抑制剂",
+      "relation": "适应证",
+      "tail": "BRCA突变乳腺癌",
+      "source": "FDA批准适应证",
+      "evidence": "奥拉帕利、talazoparib适用于BRCA突变的HER2阴性乳腺癌",
+      "domain": "biomarkers",
+      "confidence": 0.92,
+      "pmid": "29975758"
+    },
+    {
+      "head": "HR+/HER2-",
+      "relation": "常用治疗药物",
+      "tail": "CDK4/6抑制剂",
+      "source": "CSCO 2024指南",
+      "evidence": "哌柏西利、瑞波西利、阿贝西利等CDK4/6抑制剂用于HR+/HER2-",
+      "domain": "biomarkers",
+      "confidence": 0.95
+    },
+    {
+      "head": "HER2+",
+      "relation": "一线治疗基石",
+      "tail": "曲妥珠单抗+帕妥珠单抗",
+      "source": "CSCO 2024指南/APHINITY研究",
+      "evidence": "CLEOPATRA研究确立曲帕双靶为HER2+一线标准",
+      "domain": "biomarkers",
+      "confidence": 0.95,
+      "pmid": "22689808"
+    },
+    {
+      "head": "NGS基因检测",
+      "relation": "临床意义",
+      "tail": "指导靶向治疗选择",
+      "source": "CSCO指南推荐",
+      "evidence": "NGS检测可发现可靶向治疗的基因突变",
+      "domain": "biomarkers",
+      "confidence": 0.9
+    },
+    {
+      "head": "HR+早期乳腺癌",
+      "relation": "内分泌治疗推荐",
+      "tail": "芳香化酶抑制剂或他莫昔芬",
+      "source": "CSCO 2024指南",
+      "evidence": "绝经后患者推荐AI类药物，绝经前患者可使用他莫昔芬或OFS+AI/TAM",
+      "domain": "csco_2024",
+      "confidence": 0.95
+    },
+    {
+      "head": "HR+晚期乳腺癌",
+      "relation": "一线标准治疗",
+      "tail": "CDK4/6抑制剂+内分泌治疗",
+      "source": "CSCO 2024指南",
+      "evidence": "哌柏西利、瑞波西利、阿贝西利联合内分泌治疗为HR+ABC一线标准",
+      "domain": "csco_2024",
+      "confidence": 0.95
+    },
+    {
+      "head": "HER2+乳腺癌",
+      "relation": "一线标准治疗",
+      "tail": "曲妥珠单抗+帕妥珠单抗+紫杉类",
+      "source": "CSCO 2024指南/CLEOPATRA研究",
+      "evidence": "CLEOPATRA研究显示双靶联合紫杉类中位PFS 18.7月，OS 57.1月",
+      "domain": "csco_2024",
+      "confidence": 0.95,
+      "pmid": "22689808"
+    },
+    {
+      "head": "三阴性乳腺癌",
+      "relation": "化疗推荐",
+      "tail": "蒽环类+紫杉类",
+      "source": "CSCO 2024指南",
+      "evidence": "蒽环联合紫杉类为TNBC标准辅助化疗方案",
+      "domain": "csco_2024",
+      "confidence": 0.92
+    },
+    {
+      "head": "HR+/HER2-绝经后",
+      "relation": "初始内分泌治疗",
+      "tail": "AI类药物",
+      "source": "CSCO 2024指南",
+      "evidence": "来曲唑、阿那曲唑、依西美坦为绝经后HR+患者优选",
+      "domain": "csco_2024",
+      "confidence": 0.94
+    },
+    {
+      "head": "BRCA突变HER2-",
+      "relation": "靶向治疗推荐",
+      "tail": "PARP抑制剂",
+      "source": "CSCO 2024指南/OlympiAD研究",
+      "evidence": "奥拉帕利或talazoparib用于BRCA突变HER2-晚期乳腺癌",
+      "domain": "csco_2024",
+      "confidence": 0.92,
+      "pmid": "29975758"
+    },
+    {
+      "head": "HER2+晚期乳腺癌",
+      "relation": "二线及后线推荐",
+      "tail": "T-DM1或T-DXd",
+      "source": "CSCO 2024指南/DESTINY-Breast研究",
+      "evidence": "T-DXd在HER2+后线治疗中显示显著PFS获益",
+      "domain": "csco_2024",
+      "confidence": 0.92,
+      "pmid": "34000629"
+    },
+    {
+      "head": "HR+绝经前",
+      "relation": "高危患者推荐",
+      "tail": "OFS+AI或OFS+TAM",
+      "source": "CSCO 2024指南/SOFT研究",
+      "evidence": "OFS联合AI或TAM可显著改善绝经前高危患者预后",
+      "domain": "csco_2024",
+      "confidence": 0.92,
+      "pmid": "25975048"
+    },
+    {
+      "head": "三阴性乳腺癌",
+      "relation": "免疫治疗推荐",
+      "tail": "帕博利珠单抗+化疗",
+      "source": "CSCO 2024指南/KEYNOTE-522",
+      "evidence": "帕博利珠单抗联合化疗用于PD-L1 CPS≥10的TNBC新辅助/辅助治疗",
+      "domain": "csco_2024",
+      "confidence": 0.88,
+      "pmid": "33582491"
+    },
+    {
+      "head": "HR+HER2-早期",
+      "relation": "Ki-67高表达",
+      "tail": "可考虑化疗",
+      "source": "CSCO 2024指南",
+      "evidence": "Ki-67高表达（≥30%）提示需考虑化疗联合内分泌治疗",
+      "domain": "csco_2024",
+      "confidence": 0.85
+    },
+    {
+      "head": "PIK3CA突变HR+",
+      "relation": "靶向治疗推荐",
+      "tail": "阿培利司+内分泌",
+      "source": "CSCO 2024指南/SOLAR-1研究",
+      "evidence": "阿培利司联合氟维司群用于PIK3CA突变HR+HER2-乳腺癌",
+      "domain": "csco_2024",
+      "confidence": 0.88,
+      "pmid": "31658300"
+    },
+    {
+      "head": "HER2低表达",
+      "relation": "新型ADC推荐",
+      "tail": "T-DXd",
+      "source": "CSCO 2024指南/DESTINY-Breast04",
+      "evidence": "T-DXd在HER2低表达（IHC 1+/2+）乳腺癌中显示显著OS获益",
+      "domain": "csco_2024",
+      "confidence": 0.9,
+      "pmid": "35727979"
+    },
+    {
+      "head": "骨转移HR+",
+      "relation": "骨改良药物推荐",
+      "tail": "唑来膦酸或地舒单抗",
+      "source": "CSCO 2024指南",
+      "evidence": "骨改良药物可预防SREs，改善骨转移患者生活质量",
+      "domain": "csco_2024",
+      "confidence": 0.92
+    },
+    {
+      "head": "HR+绝经前年轻患者",
+      "relation": "生育保护",
+      "tail": "化疗前进行生育力保存",
+      "source": "CSCO 2024指南",
+      "evidence": "年轻乳腺癌患者应在治疗前咨询生育保护",
+      "domain": "csco_2024",
+      "confidence": 0.9
+    },
+    {
+      "head": "新辅助治疗后未pCR",
+      "relation": "TNBC强化治疗",
+      "tail": "卡培他滨辅助强化",
+      "source": "CSCO 2024指南/Create-X研究",
+      "evidence": "新辅助化疗后未达pCR的TNBC，卡培他滨辅助强化6-8周期",
+      "domain": "csco_2024",
+      "confidence": 0.9,
+      "pmid": "28645999"
+    },
+    {
+      "head": "新辅助治疗后未pCR",
+      "relation": "HER2+强化治疗",
+      "tail": "T-DM1",
+      "source": "CSCO 2024指南/KATHERINE研究",
+      "evidence": "新辅助抗HER2治疗未达pCR者，T-DM1辅助强化14周期",
+      "domain": "csco_2024",
+      "confidence": 0.92,
+      "pmid": "30504463"
+    },
+    {
+      "head": "gBRCA突变高危早期",
+      "relation": "辅助治疗推荐",
+      "tail": "奥拉帕利一年",
+      "source": "CSCO 2024指南/OlympiA研究",
+      "evidence": "gBRCA1/2突变高危HER2-早期乳腺癌，辅助奥拉帕利1年",
+      "domain": "csco_2024",
+      "confidence": 0.9,
+      "pmid": "33911091"
+    },
+    {
+      "head": "保乳手术",
+      "relation": "适应证",
+      "tail": "单发肿瘤、肿瘤/乳房比例适宜、切缘阴性可实现",
+      "source": "CSCO/NCCN指南",
+      "evidence": "保乳手术需满足肿瘤可完整切除且切缘阴性",
+      "domain": "treatment",
+      "confidence": 0.95
+    },
+    {
+      "head": "前哨淋巴结活检",
+      "relation": "适应证",
+      "tail": "临床腋窝淋巴结阴性",
+      "source": "CSCO 2024指南",
+      "evidence": "临床体检及影像学提示腋窝淋巴结阴性者可行SLNB",
+      "domain": "treatment",
+      "confidence": 0.95
+    },
+    {
+      "head": "新辅助治疗",
+      "relation": "适应证",
+      "tail": "不可手术降期为可手术、创造保乳机会、评估药物敏感性",
+      "source": "CSCO 2024指南",
+      "evidence": "局部晚期或需要降期的乳腺癌可考虑新辅助治疗",
+      "domain": "treatment",
+      "confidence": 0.92
+    },
+    {
+      "head": "辅助治疗",
+      "relation": "分层依据",
+      "tail": "分子分型、淋巴结状态、肿瘤大小、分级",
+      "source": "CSCO 2024指南",
+      "evidence": "根据分子分型和分期进行辅助治疗分层决策",
+      "domain": "treatment",
+      "confidence": 0.95
+    },
+    {
+      "head": "全乳切除术",
+      "relation": "适应证",
+      "tail": "多中心病灶、BRCA突变高危、无法保乳切缘阴性",
+      "source": "NCCN指南",
+      "evidence": "多灶性病变或BRCA突变携带者可能需要全切",
+      "domain": "treatment",
+      "confidence": 0.9
+    },
+    {
+      "head": "放疗",
+      "relation": "保乳术后必须",
+      "tail": "全乳放疗±瘤床加量",
+      "source": "CSCO 2024指南",
+      "evidence": "保乳手术后必须进行全乳放疗以降低局部复发",
+      "domain": "treatment",
+      "confidence": 0.95
+    },
+    {
+      "head": "放疗",
+      "relation": "改良根治术后适应证",
+      "tail": "T3-4或淋巴结≥4枚阳性",
+      "source": "CSCO 2024指南",
+      "evidence": "改良根治术后具有高危因素者应考虑胸壁放疗",
+      "domain": "treatment",
+      "confidence": 0.92
+    },
+    {
+      "head": "AC方案",
+      "relation": "组成",
+      "tail": "蒽环类+环磷酰胺",
+      "source": "CSCO 2024指南",
+      "evidence": "AC方案为常见蒽环类化疗方案",
+      "domain": "treatment",
+      "confidence": 0.95
+    },
+    {
+      "head": "TC方案",
+      "relation": "组成",
+      "tail": "多西他赛+环磷酰胺",
+      "source": "CSCO 2024指南",
+      "evidence": "TC方案是常用的不含蒽环类化疗方案",
+      "domain": "treatment",
+      "confidence": 0.95
+    },
+    {
+      "head": "紫杉醇",
+      "relation": "给药方式",
+      "tail": "每周或每三周",
+      "source": "CSCO 2024指南",
+      "evidence": "紫杉醇可采用每周或每三周给药方案",
+      "domain": "treatment",
+      "confidence": 0.92
+    },
+    {
+      "head": "HR+绝经后早期",
+      "relation": "内分泌治疗疗程",
+      "tail": "5-10年",
+      "source": "CSCO 2024指南",
+      "evidence": "AI类药物可延长治疗至10年以降低复发风险",
+      "domain": "treatment",
+      "confidence": 0.92
+    },
+    {
+      "head": "曲妥珠单抗",
+      "relation": "疗程",
+      "tail": "1年",
+      "source": "CSCO 2024指南/HERA研究",
+      "evidence": "曲妥珠单抗标准辅助治疗疗程为1年",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "pmid": "17452696"
+    },
+    {
+      "head": "双靶向治疗",
+      "relation": "药物组合",
+      "tail": "曲妥珠单抗+帕妥珠单抗",
+      "source": "CSCO 2024指南",
+      "evidence": "曲帕双靶联合为HER2+乳腺癌标准治疗方案",
+      "domain": "treatment",
+      "confidence": 0.95
+    },
+    {
+      "head": "心功能监测",
+      "relation": "蒽环类/曲妥珠单抗使用要求",
+      "tail": "治疗前及治疗中定期监测LVEF",
+      "source": "CSCO 2024指南",
+      "evidence": "蒽环类和曲妥珠单抗均可能引起心脏毒性，需监测LVEF",
+      "domain": "treatment",
+      "confidence": 0.95
+    },
+    {
+      "head": "戈舍瑞林",
+      "relation": "作用机制",
+      "tail": "促性腺激素释放激素激动剂",
+      "source": "CSCO 2024指南",
+      "evidence": "戈舍瑞林通过抑制卵巢功能发挥去势作用",
+      "domain": "treatment",
+      "confidence": 0.92
+    },
+    {
+      "head": "OFS",
+      "relation": "适应人群",
+      "tail": "绝经前高危HR+患者",
+      "source": "CSCO 2024指南/SOFT研究",
+      "evidence": "OFS联合内分泌治疗适用于绝经前高危HR+患者",
+      "domain": "treatment",
+      "confidence": 0.9,
+      "pmid": "25975048"
+    },
+    {
+      "head": "CDK4/6抑制剂",
+      "relation": "代表药物",
+      "tail": "哌柏西利、瑞波西利、阿贝西利",
+      "source": "CSCO 2024指南",
+      "evidence": "三种CDK4/6抑制剂均已获批用于HR+/HER2-乳腺癌",
+      "domain": "treatment",
+      "confidence": 0.95
+    }
+  ]
+}

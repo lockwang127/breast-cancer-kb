@@ -1,0 +1,171 @@
+{
+  "_meta": {
+    "name": "乳腺癌流行病学数据",
+    "version": "1.0.0",
+    "updated_date": "2025-01-15",
+    "source": "国家癌症中心/GLOBOCAN 2022"
+  },
+  "triplets": [
+    {
+      "head": "乳腺癌",
+      "relation": "2022年中国新发病例数",
+      "tail": "35.72万",
+      "source": "GLOBOCAN 2022",
+      "evidence": "中国女性乳腺癌新发病例数占全部恶性肿瘤新发病例的9.1%",
+      "domain": "epidemiology",
+      "confidence": 0.95,
+      "pmid": "35622778"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "2022年中国死亡人数",
+      "tail": "约8万",
+      "source": "国家癌症中心2022年报",
+      "evidence": "乳腺癌死亡人数占女性恶性肿瘤死亡总数的4.4%",
+      "domain": "epidemiology",
+      "confidence": 0.95,
+      "pmid": "35622778"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "病死比",
+      "tail": "约22%",
+      "source": "GLOBOCAN 2022计算",
+      "evidence": "死亡人数与新发病例数之比约为22%",
+      "domain": "epidemiology",
+      "confidence": 0.90
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "发病率趋势",
+      "tail": "上升",
+      "source": "中国肿瘤登记年报",
+      "evidence": "2000-2016年间中国女性乳腺癌发病率呈上升趋势，年均增长3.6%",
+      "domain": "epidemiology",
+      "confidence": 0.92,
+      "pmid": "34723931"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "高发年龄",
+      "tail": "45-55岁",
+      "source": "中国肿瘤登记数据",
+      "evidence": "中国女性乳腺癌发病高峰年龄集中在45-55岁",
+      "domain": "epidemiology",
+      "confidence": 0.90
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "城市发病率",
+      "tail": "高于农村",
+      "source": "中国卫生统计年鉴",
+      "evidence": "城市地区乳腺癌发病率约为农村的1.5-2倍",
+      "domain": "epidemiology",
+      "confidence": 0.88
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "五年生存率",
+      "tail": "83.2%",
+      "source": "CONCORD-3研究",
+      "evidence": "中国乳腺癌五年生存率已提升至83.2%",
+      "domain": "epidemiology",
+      "confidence": 0.92,
+      "pmid": "30527443"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "全球新发病例排名",
+      "tail": "第一",
+      "source": "GLOBOCAN 2020",
+      "evidence": "乳腺癌已超越肺癌成为全球最常见恶性肿瘤",
+      "domain": "epidemiology",
+      "confidence": 0.95,
+      "pmid": "33538338"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "女性恶性肿瘤占比",
+      "tail": "24.5%",
+      "source": "GLOBOCAN 2022",
+      "evidence": "女性乳腺癌病例占所有女性恶性肿瘤的24.5%",
+      "domain": "epidemiology",
+      "confidence": 0.94,
+      "pmid": "35622778"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "发病率与月经初潮年龄关系",
+      "tail": "负相关",
+      "source": "流行病学研究",
+      "evidence": "月经初潮年龄越早，乳腺癌发病风险越高",
+      "domain": "epidemiology",
+      "confidence": 0.85
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "绝经后风险因素",
+      "tail": "BMI增加",
+      "source": "WHO/IARC",
+      "evidence": "绝经后BMI增加与乳腺癌风险升高相关",
+      "domain": "epidemiology",
+      "confidence": 0.88
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "生育保护因素",
+      "tail": "母乳喂养",
+      "source": "Lancet 2022",
+      "evidence": "母乳喂养可降低乳腺癌发病风险约4.3%",
+      "domain": "epidemiology",
+      "confidence": 0.85,
+      "pmid": "35394189"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "遗传性比例",
+      "tail": "5-10%",
+      "source": "NCCN指南",
+      "evidence": "约5-10%的乳腺癌与遗传基因突变相关",
+      "domain": "epidemiology",
+      "confidence": 0.90
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "BRCA1/2突变携带者终生风险",
+      "tail": "60-80%",
+      "source": "国际BRCA携带者研究",
+      "evidence": "BRCA1/2突变携带者终生乳腺癌发病风险为60-80%",
+      "domain": "epidemiology",
+      "confidence": 0.88,
+      "pmid": "24788364"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "地区分布特征",
+      "tail": "东部沿海高于西部内陆",
+      "source": "中国肿瘤登记数据",
+      "evidence": "东部沿海地区乳腺癌发病率明显高于西部内陆地区",
+      "domain": "epidemiology",
+      "confidence": 0.87
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "死亡率趋势",
+      "tail": "略有下降",
+      "source": "国家癌症中心",
+      "evidence": "近年来中国乳腺癌死亡率呈缓慢下降趋势",
+      "domain": "epidemiology",
+      "confidence": 0.85
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "筛查项目覆盖",
+      "tail": "两癌筛查",
+      "source": "国家卫健委",
+      "evidence": "农村妇女两癌筛查项目已覆盖全国",
+      "domain": "epidemiology",
+      "confidence": 0.92
+    }
+  ]
+}

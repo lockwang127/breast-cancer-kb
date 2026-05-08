@@ -1,0 +1,75 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "乳腺癌知识库三元组",
+  "description": "乳腺癌知识库中单个知识三元组的JSON Schema定义",
+  "type": "object",
+  "required": ["head", "relation", "tail", "source", "evidence", "domain", "confidence"],
+  "properties": {
+    "head": {
+      "type": "string",
+      "description": "三元组头实体，通常是疾病、症状、基因、药物等概念",
+      "examples": ["乳腺癌", "HR+/HER2-", "Ki-67", "曲妥珠单抗"],
+      "minLength": 1
+    },
+    "relation": {
+      "type": "string",
+      "description": "关系类型，描述头尾之间的关联",
+      "examples": [
+        "2022年中国新发病例数",
+        "占全部乳腺癌比例",
+        "阳性判定标准",
+        "一线标准治疗",
+        "适应证"
+      ],
+      "minLength": 1
+    },
+    "tail": {
+      "type": "string",
+      "description": "三元组尾实体，关系的取值或对象",
+      "examples": [
+        "35.72万",
+        "约70%",
+        "≥1%",
+        "曲妥珠单抗+帕妥珠单抗+紫杉类",
+        "BRCA突变乳腺癌"
+      ]
+    },
+    "source": {
+      "type": "string",
+      "description": "信息来源来源，如指南名称、研究名称等",
+      "examples": [
+        "GLOBOCAN 2022",
+        "CSCO 2024指南",
+        "NCCN指南",
+        "CLEOPATRA研究"
+      ],
+      "minLength": 1
+    },
+    "evidence": {
+      "type": "string",
+      "description": "证据描述，说明数据的来源或依据",
+      "examples": [
+        "中国女性乳腺癌新发病例数占全部恶性肿瘤新发病例的9.1%",
+        "HR阳性HER2阴性为最常见的分子亚型，占全部乳腺癌约70%"
+      ],
+      "minLength": 1
+    },
+    "domain": {
+      "type": "string",
+      "enum": ["epidemiology", "biomarkers", "csco_2024", "treatment"],
+      "description": "知识域分类"
+    },
+    "confidence": {
+      "type": "number",
+      "description": "置信度，0到1之间的数值",
+      "minimum": 0.0,
+      "maximum": 1.0
+    },
+    "pmid": {
+      "type": "string",
+      "description": "PubMed文献ID（可选）",
+      "pattern": "^[0-9]{6,8}$"
+    }
+  },
+  "additionalProperties": false
+}

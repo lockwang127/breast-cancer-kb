@@ -1,0 +1,165 @@
+{
+  "_meta": {
+    "name": "乳腺癌治疗方案",
+    "version": "1.0.0",
+    "updated_date": "2025-01-15",
+    "source": "CSCO 2024指南/NCCN 2024"
+  },
+  "triplets": [
+    {
+      "head": "保乳手术",
+      "relation": "适应证",
+      "tail": "单发肿瘤、肿瘤/乳房比例适宜、切缘阴性可实现",
+      "source": "CSCO/NCCN指南",
+      "evidence": "保乳手术需满足肿瘤可完整切除且切缘阴性",
+      "domain": "treatment",
+      "confidence": 0.95
+    },
+    {
+      "head": "前哨淋巴结活检",
+      "relation": "适应证",
+      "tail": "临床腋窝淋巴结阴性",
+      "source": "CSCO 2024指南",
+      "evidence": "临床体检及影像学提示腋窝淋巴结阴性者可行SLNB",
+      "domain": "treatment",
+      "confidence": 0.95
+    },
+    {
+      "head": "新辅助治疗",
+      "relation": "适应证",
+      "tail": "不可手术降期为可手术、创造保乳机会、评估药物敏感性",
+      "source": "CSCO 2024指南",
+      "evidence": "局部晚期或需要降期的乳腺癌可考虑新辅助治疗",
+      "domain": "treatment",
+      "confidence": 0.92
+    },
+    {
+      "head": "辅助治疗",
+      "relation": "分层依据",
+      "tail": "分子分型、淋巴结状态、肿瘤大小、分级",
+      "source": "CSCO 2024指南",
+      "evidence": "根据分子分型和分期进行辅助治疗分层决策",
+      "domain": "treatment",
+      "confidence": 0.95
+    },
+    {
+      "head": "全乳切除术",
+      "relation": "适应证",
+      "tail": "多中心病灶、BRCA突变高危、无法保乳切缘阴性",
+      "source": "NCCN指南",
+      "evidence": "多灶性病变或BRCA突变携带者可能需要全切",
+      "domain": "treatment",
+      "confidence": 0.90
+    },
+    {
+      "head": "放疗",
+      "relation": "保乳术后必须",
+      "tail": "全乳放疗±瘤床加量",
+      "source": "CSCO 2024指南",
+      "evidence": "保乳手术后必须进行全乳放疗以降低局部复发",
+      "domain": "treatment",
+      "confidence": 0.95
+    },
+    {
+      "head": "放疗",
+      "relation": "改良根治术后适应证",
+      "tail": "T3-4或淋巴结≥4枚阳性",
+      "source": "CSCO 2024指南",
+      "evidence": "改良根治术后具有高危因素者应考虑胸壁放疗",
+      "domain": "treatment",
+      "confidence": 0.92
+    },
+    {
+      "head": "AC方案",
+      "relation": "组成",
+      "tail": "蒽环类+环磷酰胺",
+      "source": "CSCO 2024指南",
+      "evidence": "AC方案为常见蒽环类化疗方案",
+      "domain": "treatment",
+      "confidence": 0.95
+    },
+    {
+      "head": "TC方案",
+      "relation": "组成",
+      "tail": "多西他赛+环磷酰胺",
+      "source": "CSCO 2024指南",
+      "evidence": "TC方案是常用的不含蒽环类化疗方案",
+      "domain": "treatment",
+      "confidence": 0.95
+    },
+    {
+      "head": "紫杉醇",
+      "relation": "给药方式",
+      "tail": "每周或每三周",
+      "source": "CSCO 2024指南",
+      "evidence": "紫杉醇可采用每周或每三周给药方案",
+      "domain": "treatment",
+      "confidence": 0.92
+    },
+    {
+      "head": "HR+绝经后早期",
+      "relation": "内分泌治疗疗程",
+      "tail": "5-10年",
+      "source": "CSCO 2024指南",
+      "evidence": "AI类药物可延长治疗至10年以降低复发风险",
+      "domain": "treatment",
+      "confidence": 0.92
+    },
+    {
+      "head": "曲妥珠单抗",
+      "relation": "疗程",
+      "tail": "1年",
+      "source": "CSCO 2024指南/HERA研究",
+      "evidence": "曲妥珠单抗标准辅助治疗疗程为1年",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "pmid": "17452696"
+    },
+    {
+      "head": "双靶向治疗",
+      "relation": "药物组合",
+      "tail": "曲妥珠单抗+帕妥珠单抗",
+      "source": "CSCO 2024指南",
+      "evidence": "曲帕双靶联合为HER2+乳腺癌标准治疗方案",
+      "domain": "treatment",
+      "confidence": 0.95
+    },
+    {
+      "head": "心功能监测",
+      "relation": "蒽环类/曲妥珠单抗使用要求",
+      "tail": "治疗前及治疗中定期监测LVEF",
+      "source": "CSCO 2024指南",
+      "evidence": "蒽环类和曲妥珠单抗均可能引起心脏毒性，需监测LVEF",
+      "domain": "treatment",
+      "confidence": 0.95
+    },
+    {
+      "head": "戈舍瑞林",
+      "relation": "作用机制",
+      "tail": "促性腺激素释放激素激动剂",
+      "source": "CSCO 2024指南",
+      "evidence": "戈舍瑞林通过抑制卵巢功能发挥去势作用",
+      "domain": "treatment",
+      "confidence": 0.92
+    },
+    {
+      "head": "OFS",
+      "relation": "适应人群",
+      "tail": "绝经前高危HR+患者",
+      "source": "CSCO 2024指南/SOFT研究",
+      "evidence": "OFS联合内分泌治疗适用于绝经前高危HR+患者",
+      "domain": "treatment",
+      "confidence": 0.90,
+      "pmid": "25975048"
+    },
+    {
+      "head": "CDK4/6抑制剂",
+      "relation": "代表药物",
+      "tail": "哌柏西利、瑞波西利、阿贝西利",
+      "source": "CSCO 2024指南",
+      "evidence": "三种CDK4/6抑制剂均已获批用于HR+/HER2-乳腺癌",
+      "domain": "treatment",
+      "confidence": 0.95
+    }
+  ]
+}

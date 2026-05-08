@@ -1,0 +1,172 @@
+{
+  "_meta": {
+    "name": "乳腺癌分子分型与生物标志物",
+    "version": "1.0.0",
+    "updated_date": "2025-01-15",
+    "source": "CSCO 2024指南/ASCO/CAP指南"
+  },
+  "triplets": [
+    {
+      "head": "HR+/HER2-",
+      "relation": "占全部乳腺癌比例",
+      "tail": "约70%",
+      "source": "St. Gallen共识",
+      "evidence": "HR阳性HER2阴性为最常见的分子亚型，占全部乳腺癌约70%",
+      "domain": "biomarkers",
+      "confidence": 0.95
+    },
+    {
+      "head": "HER2+",
+      "relation": "占全部乳腺癌比例",
+      "tail": "约15-20%",
+      "source": "流行病学数据",
+      "evidence": "HER2过表达型乳腺癌占全部病例的15-20%",
+      "domain": "biomarkers",
+      "confidence": 0.92
+    },
+    {
+      "head": "三阴性乳腺癌",
+      "relation": "占全部乳腺癌比例",
+      "tail": "约15%",
+      "source": "NCCN指南",
+      "evidence": "三阴性乳腺癌占全部乳腺癌的10-20%",
+      "domain": "biomarkers",
+      "confidence": 0.90
+    },
+    {
+      "head": "Ki-67",
+      "relation": "高表达阈值",
+      "tail": "≥30%",
+      "source": "CSCO 2024指南",
+      "evidence": "Ki-67≥30%定义为高表达，可作为分子分型参考",
+      "domain": "biomarkers",
+      "confidence": 0.88
+    },
+    {
+      "head": "Ki-67",
+      "relation": "低表达阈值",
+      "tail": "<13%",
+      "source": "St. Gallen 2023",
+      "evidence": "Ki-67<13%定义为低表达",
+      "domain": "biomarkers",
+      "confidence": 0.85
+    },
+    {
+      "head": "BRCA1突变",
+      "relation": "相关乳腺癌亚型",
+      "tail": "三阴性乳腺癌",
+      "source": "NCCN遗传性乳腺癌指南",
+      "evidence": "BRCA1突变与三阴性乳腺癌密切相关",
+      "domain": "biomarkers",
+      "confidence": 0.92,
+      "pmid": "24788364"
+    },
+    {
+      "head": "BRCA2突变",
+      "relation": "相关乳腺癌亚型",
+      "tail": "管腔型乳腺癌",
+      "source": "NCCN遗传性乳腺癌指南",
+      "evidence": "BRCA2突变更多与HR阳性乳腺癌相关",
+      "domain": "biomarkers",
+      "confidence": 0.90,
+      "pmid": "24788364"
+    },
+    {
+      "head": "ER",
+      "relation": "阳性阈值",
+      "tail": "≥1%",
+      "source": "ASCO/CAP指南",
+      "evidence": "ER≥1%肿瘤细胞核着色定义为ER阳性",
+      "domain": "biomarkers",
+      "confidence": 0.95,
+      "pmid": "24523737"
+    },
+    {
+      "head": "PR",
+      "relation": "阳性阈值",
+      "tail": "≥1%",
+      "source": "ASCO/CAP指南",
+      "evidence": "PR≥1%肿瘤细胞核着色定义为PR阳性",
+      "domain": "biomarkers",
+      "confidence": 0.95,
+      "pmid": "24523737"
+    },
+    {
+      "head": "HER2",
+      "relation": "阳性判定标准",
+      "tail": "IHC 3+或FISH扩增",
+      "source": "ASCO/CAP HER2检测指南",
+      "evidence": "HER2 IHC 3+或FISH扩增定义为HER2阳性",
+      "domain": "biomarkers",
+      "confidence": 0.95,
+      "pmid": "27535145"
+    },
+    {
+      "head": "HR阳性",
+      "relation": "判定标准",
+      "tail": "ER≥1%或PR≥1%",
+      "source": "CSCO 2024指南",
+      "evidence": "ER或PR任一≥1%即可判定为激素受体阳性",
+      "domain": "biomarkers",
+      "confidence": 0.95
+    },
+    {
+      "head": "TP53突变",
+      "relation": "常见于",
+      "tail": "三阴性乳腺癌",
+      "source": "TCGA数据库分析",
+      "evidence": "TP53突变在三阴性乳腺癌中最为常见",
+      "domain": "biomarkers",
+      "confidence": 0.88,
+      "pmid": "22437870"
+    },
+    {
+      "head": "PIK3CA突变",
+      "relation": "常见于",
+      "tail": "HR+/HER2-乳腺癌",
+      "source": "TCGA/BIG 1-98研究",
+      "evidence": "PIK3CA突变在HR阳性乳腺癌中发生率约40%",
+      "domain": "biomarkers",
+      "confidence": 0.88,
+      "pmid": "26603265"
+    },
+    {
+      "head": "PARP抑制剂",
+      "relation": "适应证",
+      "tail": "BRCA突变乳腺癌",
+      "source": "FDA批准适应证",
+      "evidence": "奥拉帕利、talazoparib适用于BRCA突变的HER2阴性乳腺癌",
+      "domain": "biomarkers",
+      "confidence": 0.92,
+      "pmid": "29975758"
+    },
+    {
+      "head": "HR+/HER2-",
+      "relation": "常用治疗药物",
+      "tail": "CDK4/6抑制剂",
+      "source": "CSCO 2024指南",
+      "evidence": "哌柏西利、瑞波西利、阿贝西利等CDK4/6抑制剂用于HR+/HER2-",
+      "domain": "biomarkers",
+      "confidence": 0.95
+    },
+    {
+      "head": "HER2+",
+      "relation": "一线治疗基石",
+      "tail": "曲妥珠单抗+帕妥珠单抗",
+      "source": "CSCO 2024指南/APHINITY研究",
+      "evidence": "CLEOPATRA研究确立曲帕双靶为HER2+一线标准",
+      "domain": "biomarkers",
+      "confidence": 0.95,
+      "pmid": "22689808"
+    },
+    {
+      "head": "NGS基因检测",
+      "relation": "临床意义",
+      "tail": "指导靶向治疗选择",
+      "source": "CSCO指南推荐",
+      "evidence": "NGS检测可发现可靶向治疗的基因突变",
+      "domain": "biomarkers",
+      "confidence": 0.90
+    }
+  ]
+}
