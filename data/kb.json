@@ -1,174 +1,14 @@
 {
   "triplets": [
     {
-      "head": "乳腺癌",
-      "relation": "2022年中国新发病例数",
-      "tail": "35.72万",
-      "source": "GLOBOCAN 2022",
-      "evidence": "中国女性乳腺癌新发病例数占全部恶性肿瘤新发病例的9.1%",
-      "domain": "epidemiology",
-      "confidence": 0.95,
-      "pmid": "35622778"
-    },
-    {
-      "head": "乳腺癌",
-      "relation": "2022年中国死亡人数",
-      "tail": "约8万",
-      "source": "国家癌症中心2022年报",
-      "evidence": "乳腺癌死亡人数占女性恶性肿瘤死亡总数的4.4%",
-      "domain": "epidemiology",
-      "confidence": 0.95,
-      "pmid": "35622778"
-    },
-    {
-      "head": "乳腺癌",
-      "relation": "病死比",
-      "tail": "约22%",
-      "source": "GLOBOCAN 2022计算",
-      "evidence": "死亡人数与新发病例数之比约为22%",
-      "domain": "epidemiology",
-      "confidence": 0.9
-    },
-    {
-      "head": "乳腺癌",
-      "relation": "发病率趋势",
-      "tail": "上升",
-      "source": "中国肿瘤登记年报",
-      "evidence": "2000-2016年间中国女性乳腺癌发病率呈上升趋势，年均增长3.6%",
-      "domain": "epidemiology",
-      "confidence": 0.92,
-      "pmid": "34723931"
-    },
-    {
-      "head": "乳腺癌",
-      "relation": "高发年龄",
-      "tail": "45-55岁",
-      "source": "中国肿瘤登记数据",
-      "evidence": "中国女性乳腺癌发病高峰年龄集中在45-55岁",
-      "domain": "epidemiology",
-      "confidence": 0.9
-    },
-    {
-      "head": "乳腺癌",
-      "relation": "城市发病率",
-      "tail": "高于农村",
-      "source": "中国卫生统计年鉴",
-      "evidence": "城市地区乳腺癌发病率约为农村的1.5-2倍",
-      "domain": "epidemiology",
-      "confidence": 0.88
-    },
-    {
-      "head": "乳腺癌",
-      "relation": "五年生存率",
-      "tail": "83.2%",
-      "source": "CONCORD-3研究",
-      "evidence": "中国乳腺癌五年生存率已提升至83.2%",
-      "domain": "epidemiology",
-      "confidence": 0.92,
-      "pmid": "30527443"
-    },
-    {
-      "head": "乳腺癌",
-      "relation": "全球新发病例排名",
-      "tail": "第一",
-      "source": "GLOBOCAN 2020",
-      "evidence": "乳腺癌已超越肺癌成为全球最常见恶性肿瘤",
-      "domain": "epidemiology",
-      "confidence": 0.95,
-      "pmid": "33538338"
-    },
-    {
-      "head": "乳腺癌",
-      "relation": "女性恶性肿瘤占比",
-      "tail": "24.5%",
-      "source": "GLOBOCAN 2022",
-      "evidence": "女性乳腺癌病例占所有女性恶性肿瘤的24.5%",
-      "domain": "epidemiology",
-      "confidence": 0.94,
-      "pmid": "35622778"
-    },
-    {
-      "head": "乳腺癌",
-      "relation": "发病率与月经初潮年龄关系",
-      "tail": "负相关",
-      "source": "流行病学研究",
-      "evidence": "月经初潮年龄越早，乳腺癌发病风险越高",
-      "domain": "epidemiology",
-      "confidence": 0.85
-    },
-    {
-      "head": "乳腺癌",
-      "relation": "绝经后风险因素",
-      "tail": "BMI增加",
-      "source": "WHO/IARC",
-      "evidence": "绝经后BMI增加与乳腺癌风险升高相关",
-      "domain": "epidemiology",
-      "confidence": 0.88
-    },
-    {
-      "head": "乳腺癌",
-      "relation": "生育保护因素",
-      "tail": "母乳喂养",
-      "source": "Lancet 2022",
-      "evidence": "母乳喂养可降低乳腺癌发病风险约4.3%",
-      "domain": "epidemiology",
-      "confidence": 0.85,
-      "pmid": "35394189"
-    },
-    {
-      "head": "乳腺癌",
-      "relation": "遗传性比例",
-      "tail": "5-10%",
-      "source": "NCCN指南",
-      "evidence": "约5-10%的乳腺癌与遗传基因突变相关",
-      "domain": "epidemiology",
-      "confidence": 0.9
-    },
-    {
-      "head": "乳腺癌",
-      "relation": "BRCA1/2突变携带者终生风险",
-      "tail": "60-80%",
-      "source": "国际BRCA携带者研究",
-      "evidence": "BRCA1/2突变携带者终生乳腺癌发病风险为60-80%",
-      "domain": "epidemiology",
-      "confidence": 0.88,
-      "pmid": "24788364"
-    },
-    {
-      "head": "乳腺癌",
-      "relation": "地区分布特征",
-      "tail": "东部沿海高于西部内陆",
-      "source": "中国肿瘤登记数据",
-      "evidence": "东部沿海地区乳腺癌发病率明显高于西部内陆地区",
-      "domain": "epidemiology",
-      "confidence": 0.87
-    },
-    {
-      "head": "乳腺癌",
-      "relation": "死亡率趋势",
-      "tail": "略有下降",
-      "source": "国家癌症中心",
-      "evidence": "近年来中国乳腺癌死亡率呈缓慢下降趋势",
-      "domain": "epidemiology",
-      "confidence": 0.85
-    },
-    {
-      "head": "乳腺癌",
-      "relation": "筛查项目覆盖",
-      "tail": "两癌筛查",
-      "source": "国家卫健委",
-      "evidence": "农村妇女两癌筛查项目已覆盖全国",
-      "domain": "epidemiology",
-      "confidence": 0.92
-    },
-    {
       "head": "HR+/HER2-",
       "relation": "占全部乳腺癌比例",
       "tail": "约70%",
       "source": "St. Gallen共识",
       "evidence": "HR阳性HER2阴性为最常见的分子亚型，占全部乳腺癌约70%",
       "domain": "biomarkers",
-      "confidence": 0.95
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
     },
     {
       "head": "HER2+",
@@ -177,7 +17,8 @@
       "source": "流行病学数据",
       "evidence": "HER2过表达型乳腺癌占全部病例的15-20%",
       "domain": "biomarkers",
-      "confidence": 0.92
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
     },
     {
       "head": "三阴性乳腺癌",
@@ -186,7 +27,8 @@
       "source": "NCCN指南",
       "evidence": "三阴性乳腺癌占全部乳腺癌的10-20%",
       "domain": "biomarkers",
-      "confidence": 0.9
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
     },
     {
       "head": "Ki-67",
@@ -195,7 +37,8 @@
       "source": "CSCO 2024指南",
       "evidence": "Ki-67≥30%定义为高表达，可作为分子分型参考",
       "domain": "biomarkers",
-      "confidence": 0.88
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
     },
     {
       "head": "Ki-67",
@@ -204,7 +47,8 @@
       "source": "St. Gallen 2023",
       "evidence": "Ki-67<13%定义为低表达",
       "domain": "biomarkers",
-      "confidence": 0.85
+      "confidence": 0.85,
+      "update_date": "2026-05-08"
     },
     {
       "head": "BRCA1突变",
@@ -214,6 +58,7 @@
       "evidence": "BRCA1突变与三阴性乳腺癌密切相关",
       "domain": "biomarkers",
       "confidence": 0.92,
+      "update_date": "2026-05-08",
       "pmid": "24788364"
     },
     {
@@ -224,6 +69,7 @@
       "evidence": "BRCA2突变更多与HR阳性乳腺癌相关",
       "domain": "biomarkers",
       "confidence": 0.9,
+      "update_date": "2026-05-08",
       "pmid": "24788364"
     },
     {
@@ -234,6 +80,7 @@
       "evidence": "ER≥1%肿瘤细胞核着色定义为ER阳性",
       "domain": "biomarkers",
       "confidence": 0.95,
+      "update_date": "2026-05-08",
       "pmid": "24523737"
     },
     {
@@ -244,6 +91,7 @@
       "evidence": "PR≥1%肿瘤细胞核着色定义为PR阳性",
       "domain": "biomarkers",
       "confidence": 0.95,
+      "update_date": "2026-05-08",
       "pmid": "24523737"
     },
     {
@@ -254,6 +102,7 @@
       "evidence": "HER2 IHC 3+或FISH扩增定义为HER2阳性",
       "domain": "biomarkers",
       "confidence": 0.95,
+      "update_date": "2026-05-08",
       "pmid": "27535145"
     },
     {
@@ -263,7 +112,8 @@
       "source": "CSCO 2024指南",
       "evidence": "ER或PR任一≥1%即可判定为激素受体阳性",
       "domain": "biomarkers",
-      "confidence": 0.95
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
     },
     {
       "head": "TP53突变",
@@ -273,6 +123,7 @@
       "evidence": "TP53突变在三阴性乳腺癌中最为常见",
       "domain": "biomarkers",
       "confidence": 0.88,
+      "update_date": "2026-05-08",
       "pmid": "22437870"
     },
     {
@@ -283,6 +134,7 @@
       "evidence": "PIK3CA突变在HR阳性乳腺癌中发生率约40%",
       "domain": "biomarkers",
       "confidence": 0.88,
+      "update_date": "2026-05-08",
       "pmid": "26603265"
     },
     {
@@ -293,6 +145,7 @@
       "evidence": "奥拉帕利、talazoparib适用于BRCA突变的HER2阴性乳腺癌",
       "domain": "biomarkers",
       "confidence": 0.92,
+      "update_date": "2026-05-08",
       "pmid": "29975758"
     },
     {
@@ -302,7 +155,8 @@
       "source": "CSCO 2024指南",
       "evidence": "哌柏西利、瑞波西利、阿贝西利等CDK4/6抑制剂用于HR+/HER2-",
       "domain": "biomarkers",
-      "confidence": 0.95
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
     },
     {
       "head": "HER2+",
@@ -312,6 +166,7 @@
       "evidence": "CLEOPATRA研究确立曲帕双靶为HER2+一线标准",
       "domain": "biomarkers",
       "confidence": 0.95,
+      "update_date": "2026-05-08",
       "pmid": "22689808"
     },
     {
@@ -321,7 +176,8 @@
       "source": "CSCO指南推荐",
       "evidence": "NGS检测可发现可靶向治疗的基因突变",
       "domain": "biomarkers",
-      "confidence": 0.9
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
     },
     {
       "head": "HR+早期乳腺癌",
@@ -330,7 +186,8 @@
       "source": "CSCO 2024指南",
       "evidence": "绝经后患者推荐AI类药物，绝经前患者可使用他莫昔芬或OFS+AI/TAM",
       "domain": "csco_2024",
-      "confidence": 0.95
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
     },
     {
       "head": "HR+晚期乳腺癌",
@@ -339,7 +196,8 @@
       "source": "CSCO 2024指南",
       "evidence": "哌柏西利、瑞波西利、阿贝西利联合内分泌治疗为HR+ABC一线标准",
       "domain": "csco_2024",
-      "confidence": 0.95
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
     },
     {
       "head": "HER2+乳腺癌",
@@ -349,6 +207,7 @@
       "evidence": "CLEOPATRA研究显示双靶联合紫杉类中位PFS 18.7月，OS 57.1月",
       "domain": "csco_2024",
       "confidence": 0.95,
+      "update_date": "2026-05-08",
       "pmid": "22689808"
     },
     {
@@ -358,7 +217,8 @@
       "source": "CSCO 2024指南",
       "evidence": "蒽环联合紫杉类为TNBC标准辅助化疗方案",
       "domain": "csco_2024",
-      "confidence": 0.92
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
     },
     {
       "head": "HR+/HER2-绝经后",
@@ -367,7 +227,8 @@
       "source": "CSCO 2024指南",
       "evidence": "来曲唑、阿那曲唑、依西美坦为绝经后HR+患者优选",
       "domain": "csco_2024",
-      "confidence": 0.94
+      "confidence": 0.94,
+      "update_date": "2026-05-08"
     },
     {
       "head": "BRCA突变HER2-",
@@ -377,6 +238,7 @@
       "evidence": "奥拉帕利或talazoparib用于BRCA突变HER2-晚期乳腺癌",
       "domain": "csco_2024",
       "confidence": 0.92,
+      "update_date": "2026-05-08",
       "pmid": "29975758"
     },
     {
@@ -387,6 +249,7 @@
       "evidence": "T-DXd在HER2+后线治疗中显示显著PFS获益",
       "domain": "csco_2024",
       "confidence": 0.92,
+      "update_date": "2026-05-08",
       "pmid": "34000629"
     },
     {
@@ -397,6 +260,7 @@
       "evidence": "OFS联合AI或TAM可显著改善绝经前高危患者预后",
       "domain": "csco_2024",
       "confidence": 0.92,
+      "update_date": "2026-05-08",
       "pmid": "25975048"
     },
     {
@@ -407,6 +271,7 @@
       "evidence": "帕博利珠单抗联合化疗用于PD-L1 CPS≥10的TNBC新辅助/辅助治疗",
       "domain": "csco_2024",
       "confidence": 0.88,
+      "update_date": "2026-05-08",
       "pmid": "33582491"
     },
     {
@@ -416,7 +281,8 @@
       "source": "CSCO 2024指南",
       "evidence": "Ki-67高表达（≥30%）提示需考虑化疗联合内分泌治疗",
       "domain": "csco_2024",
-      "confidence": 0.85
+      "confidence": 0.85,
+      "update_date": "2026-05-08"
     },
     {
       "head": "PIK3CA突变HR+",
@@ -426,6 +292,7 @@
       "evidence": "阿培利司联合氟维司群用于PIK3CA突变HR+HER2-乳腺癌",
       "domain": "csco_2024",
       "confidence": 0.88,
+      "update_date": "2026-05-08",
       "pmid": "31658300"
     },
     {
@@ -436,6 +303,7 @@
       "evidence": "T-DXd在HER2低表达（IHC 1+/2+）乳腺癌中显示显著OS获益",
       "domain": "csco_2024",
       "confidence": 0.9,
+      "update_date": "2026-05-08",
       "pmid": "35727979"
     },
     {
@@ -445,7 +313,8 @@
       "source": "CSCO 2024指南",
       "evidence": "骨改良药物可预防SREs，改善骨转移患者生活质量",
       "domain": "csco_2024",
-      "confidence": 0.92
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
     },
     {
       "head": "HR+绝经前年轻患者",
@@ -454,7 +323,8 @@
       "source": "CSCO 2024指南",
       "evidence": "年轻乳腺癌患者应在治疗前咨询生育保护",
       "domain": "csco_2024",
-      "confidence": 0.9
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
     },
     {
       "head": "新辅助治疗后未pCR",
@@ -464,6 +334,7 @@
       "evidence": "新辅助化疗后未达pCR的TNBC，卡培他滨辅助强化6-8周期",
       "domain": "csco_2024",
       "confidence": 0.9,
+      "update_date": "2026-05-08",
       "pmid": "28645999"
     },
     {
@@ -474,6 +345,7 @@
       "evidence": "新辅助抗HER2治疗未达pCR者，T-DM1辅助强化14周期",
       "domain": "csco_2024",
       "confidence": 0.92,
+      "update_date": "2026-05-08",
       "pmid": "30504463"
     },
     {
@@ -484,7 +356,3210 @@
       "evidence": "gBRCA1/2突变高危HER2-早期乳腺癌，辅助奥拉帕利1年",
       "domain": "csco_2024",
       "confidence": 0.9,
+      "update_date": "2026-05-08",
       "pmid": "33911091"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "2022年中国新发病例数",
+      "tail": "35.72万",
+      "source": "GLOBOCAN 2022",
+      "evidence": "中国女性乳腺癌新发病例数占全部恶性肿瘤新发病例的9.1%",
+      "domain": "epidemiology",
+      "confidence": 0.95,
+      "update_date": "2026-05-08",
+      "pmid": "35622778"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "2022年中国死亡人数",
+      "tail": "约8万",
+      "source": "国家癌症中心2022年报",
+      "evidence": "乳腺癌死亡人数占女性恶性肿瘤死亡总数的4.4%",
+      "domain": "epidemiology",
+      "confidence": 0.95,
+      "update_date": "2026-05-08",
+      "pmid": "35622778"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "病死比",
+      "tail": "约22%",
+      "source": "GLOBOCAN 2022计算",
+      "evidence": "死亡人数与新发病例数之比约为22%",
+      "domain": "epidemiology",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "发病率趋势",
+      "tail": "上升",
+      "source": "中国肿瘤登记年报",
+      "evidence": "2000-2016年间中国女性乳腺癌发病率呈上升趋势，年均增长3.6%",
+      "domain": "epidemiology",
+      "confidence": 0.92,
+      "update_date": "2026-05-08",
+      "pmid": "34723931"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "高发年龄",
+      "tail": "45-55岁",
+      "source": "中国肿瘤登记数据",
+      "evidence": "中国女性乳腺癌发病高峰年龄集中在45-55岁",
+      "domain": "epidemiology",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "城市发病率",
+      "tail": "高于农村",
+      "source": "中国卫生统计年鉴",
+      "evidence": "城市地区乳腺癌发病率约为农村的1.5-2倍",
+      "domain": "epidemiology",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "五年生存率",
+      "tail": "83.2%",
+      "source": "CONCORD-3研究",
+      "evidence": "中国乳腺癌五年生存率已提升至83.2%",
+      "domain": "epidemiology",
+      "confidence": 0.92,
+      "update_date": "2026-05-08",
+      "pmid": "30527443"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "全球新发病例排名",
+      "tail": "第一",
+      "source": "GLOBOCAN 2020",
+      "evidence": "乳腺癌已超越肺癌成为全球最常见恶性肿瘤",
+      "domain": "epidemiology",
+      "confidence": 0.95,
+      "update_date": "2026-05-08",
+      "pmid": "33538338"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "女性恶性肿瘤占比",
+      "tail": "24.5%",
+      "source": "GLOBOCAN 2022",
+      "evidence": "女性乳腺癌病例占所有女性恶性肿瘤的24.5%",
+      "domain": "epidemiology",
+      "confidence": 0.94,
+      "update_date": "2026-05-08",
+      "pmid": "35622778"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "发病率与月经初潮年龄关系",
+      "tail": "负相关",
+      "source": "流行病学研究",
+      "evidence": "月经初潮年龄越早，乳腺癌发病风险越高",
+      "domain": "epidemiology",
+      "confidence": 0.85,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "绝经后风险因素",
+      "tail": "BMI增加",
+      "source": "WHO/IARC",
+      "evidence": "绝经后BMI增加与乳腺癌风险升高相关",
+      "domain": "epidemiology",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "生育保护因素",
+      "tail": "母乳喂养",
+      "source": "Lancet 2022",
+      "evidence": "母乳喂养可降低乳腺癌发病风险约4.3%",
+      "domain": "epidemiology",
+      "confidence": 0.85,
+      "update_date": "2026-05-08",
+      "pmid": "35394189"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "遗传性比例",
+      "tail": "5-10%",
+      "source": "NCCN指南",
+      "evidence": "约5-10%的乳腺癌与遗传基因突变相关",
+      "domain": "epidemiology",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "BRCA1/2突变携带者终生风险",
+      "tail": "60-80%",
+      "source": "国际BRCA携带者研究",
+      "evidence": "BRCA1/2突变携带者终生乳腺癌发病风险为60-80%",
+      "domain": "epidemiology",
+      "confidence": 0.88,
+      "update_date": "2026-05-08",
+      "pmid": "24788364"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "地区分布特征",
+      "tail": "东部沿海高于西部内陆",
+      "source": "中国肿瘤登记数据",
+      "evidence": "东部沿海地区乳腺癌发病率明显高于西部内陆地区",
+      "domain": "epidemiology",
+      "confidence": 0.87,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "死亡率趋势",
+      "tail": "略有下降",
+      "source": "国家癌症中心",
+      "evidence": "近年来中国乳腺癌死亡率呈缓慢下降趋势",
+      "domain": "epidemiology",
+      "confidence": 0.85,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "筛查项目覆盖",
+      "tail": "两癌筛查",
+      "source": "国家卫健委",
+      "evidence": "农村妇女两癌筛查项目已覆盖全国",
+      "domain": "epidemiology",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HR+/HER2-",
+      "relation": "氟维司群用法",
+      "tail": "500mg d1, d15, 之后每月1次",
+      "source": "CSCO 2025指南 / CONFIRM研究",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HR+HER2-晚期",
+      "relation": "CDK4/6i经治后",
+      "tail": "可选elacestrant或化疗",
+      "source": "CSCO 2025指南 / EMERALD研究",
+      "evidence": "II级",
+      "domain": "clinical_trials",
+      "confidence": 0.85,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HER2+晚期",
+      "relation": "马吉妥昔单抗",
+      "tail": "SOPHIA研究显示OS改善趋势",
+      "source": "SOPHIA (NCT02492711) / JCO",
+      "evidence": "II级",
+      "domain": "clinical_trials",
+      "confidence": 0.82,
+      "update_date": "2026-05-08",
+      "pmid": "34647974"
+    },
+    {
+      "head": "HR+/HER2-",
+      "relation": "SHR6390（瑞波西利类似物）",
+      "tail": "DAWNA-1研究显示PFS改善",
+      "source": "DAWNA-1 (NCT03971440)",
+      "evidence": "II级",
+      "domain": "clinical_trials",
+      "confidence": 0.8,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "PARP抑制剂",
+      "relation": "血液学毒性监测",
+      "tail": "每周期前监测血常规，必要时减量",
+      "source": "CSCO/NCCN PARP抑制剂安全指南",
+      "evidence": "I级",
+      "domain": "support_care",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "CDK4/6抑制剂",
+      "relation": "不良反应",
+      "tail": "中性粒细胞减少/肝毒性/QT间期延长（哌柏西利）",
+      "source": "CSCO/NCCN CDK4/6i安全指南",
+      "evidence": "I级",
+      "domain": "support_care",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "ADC药物治疗",
+      "relation": "输注反应预防",
+      "tail": "T-DM1/T-DXd输注前预用药",
+      "source": "CSCO/NCCN ADC安全指南",
+      "evidence": "I级",
+      "domain": "support_care",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌患者",
+      "relation": "癌症疲劳管理",
+      "tail": "运动疗法/心理治疗/必要时药物干预",
+      "source": "NCCN癌因性疲劳指南",
+      "evidence": "I级专家共识",
+      "domain": "support_care",
+      "confidence": 0.85,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌术后",
+      "relation": "肩关节功能锻炼",
+      "tail": "术后第1天开始渐进式上肢功能锻炼",
+      "source": "CSCO康复指南",
+      "evidence": "I级专家共识",
+      "domain": "support_care",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌患者",
+      "relation": "性健康咨询",
+      "tail": "推荐转诊至性健康专科",
+      "source": "NCCN survivorship指南",
+      "evidence": "II级专家共识",
+      "domain": "support_care",
+      "confidence": 0.8,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "肿瘤突变负荷(TMB)",
+      "tail": "TMB-H（≥10 mut/Mb）可考虑免疫治疗",
+      "source": "KEYNOTE-158",
+      "evidence": "II级",
+      "domain": "biomarkers",
+      "confidence": 0.78,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌预后",
+      "relation": "肿瘤浸润淋巴细胞(TILs)",
+      "tail": "TNBC中TILs高提示预后较好、对免疫治疗敏感",
+      "source": "KEYNOTE-522 TILs分析",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "液体活检临床应用",
+      "tail": "可辅助早期复发监测、晚期耐药机制分析",
+      "source": "NCCN液体活检专家共识",
+      "evidence": "II级专家共识",
+      "domain": "biomarkers",
+      "confidence": 0.82,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌脑转移",
+      "relation": "HER2+脑转移预后",
+      "tail": "T-DXd和图卡替尼显示颅内活性",
+      "source": "DESTINY-Breast12 / HER2CLIMB研究",
+      "evidence": "I级",
+      "domain": "clinical_trials",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "炎性乳腺癌特点",
+      "tail": "病程进展快、预后差、多为HR-/HER2-",
+      "source": "NCCN炎性乳腺癌指南",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "妊娠期乳腺癌发病率",
+      "tail": "约1/3000妊娠",
+      "source": "NCCN妊娠期肿瘤指南",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "BRCA1/2突变家族史",
+      "tail": "建议进行遗传咨询和多基因检测",
+      "source": "NCCN遗传性乳腺癌指南",
+      "evidence": "I级专家共识",
+      "domain": "genetic_counseling",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "PALB2突变筛查指征",
+      "tail": "有家族史/FDR有BRCA阴性但有多例乳腺癌",
+      "source": "NCCN遗传性乳腺癌指南",
+      "evidence": "I级专家共识",
+      "domain": "genetic_counseling",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HER2+乳腺癌",
+      "relation": "曲妥珠单抗清除率",
+      "tail": "与体重相关，需按 loading dose 8mg/kg, 维持 6mg/kg Q3W",
+      "source": "CSCO 2025指南 / 赫赛汀说明书",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HER2+乳腺癌",
+      "relation": "帕妥珠单抗用法",
+      "tail": "负荷剂量840mg, 维持420mg Q3W",
+      "source": "CSCO 2025指南 / 帕捷特说明书",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌辅助放疗",
+      "relation": "中度分割方案",
+      "tail": "40Gy/15次/3周 可替代常规分割",
+      "source": "START B / FAST研究",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "大分割放疗适应证",
+      "tail": "适用于保乳术后和全切术后大部分患者",
+      "source": "ASTRO保乳放疗指南更新",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "术中放疗(IORT)",
+      "tail": "特定低危患者可考虑",
+      "source": "ELIOT/TARGIT-A研究",
+      "evidence": "II级",
+      "domain": "treatment",
+      "confidence": 0.8,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "部分乳腺照射(APBI)",
+      "tail": "经选择的低危患者可接受APBI",
+      "source": "RTOG 0413 / NSABP B-39",
+      "evidence": "II级",
+      "domain": "treatment",
+      "confidence": 0.82,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "放射野设计原则",
+      "tail": "保乳术后包括全部乳腺实质，全切术后包括胸壁和锁骨上区",
+      "source": "CSCO/NCCN放疗指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HER2低表达",
+      "relation": "T-DXd颅内活性",
+      "tail": "DESTINY-Breast03/04 CNS分析显示颅内活性",
+      "source": "DESTINY-Breast CNS分析",
+      "evidence": "II级",
+      "domain": "clinical_trials",
+      "confidence": 0.85,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HR+/HER2-晚期",
+      "relation": "CAPltello研究",
+      "tail": "卡皮伐他汀+氟维司群",
+      "source": "CAPltello (NCT03128614)",
+      "evidence": "II级",
+      "domain": "clinical_trials",
+      "confidence": 0.8,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "三阴性乳腺癌",
+      "relation": "Sacituzumab govitecan耐药后",
+      "tail": "可选化疗或参加临床试验",
+      "source": "CSCO 2025指南",
+      "evidence": "II级专家共识",
+      "domain": "treatment",
+      "confidence": 0.82,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HER2+乳腺癌",
+      "relation": "Margetuximab",
+      "tail": "SOPHIA研究，用于抗HER2治疗经治患者",
+      "source": "SOPHIA (NCT02492711)",
+      "evidence": "II级",
+      "domain": "clinical_trials",
+      "confidence": 0.8,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "pet-ct在 staging中的应用",
+      "tail": "可用于评估远处转移，优于常规影像",
+      "source": "NCCN staging指南",
+      "evidence": "II级",
+      "domain": "epidemiology",
+      "confidence": 0.85,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌骨转移",
+      "relation": "地舒单抗 vs 唑来膦酸",
+      "tail": "地舒单抗推迟SRE发生时间优于唑来膦酸",
+      "source": "NCCN骨转移指南 / 地舒单抗说明书",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "免疫组化质控要求",
+      "tail": "每批次需有阳性和阴性对照",
+      "source": "ASCO/CAP指南更新",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "多基因风险评分(PRS)",
+      "tail": "可用于评估健康女性乳腺癌风险",
+      "source": "NCCN预防指南 / Nature Genetics 2021",
+      "evidence": "II级",
+      "domain": "biomarkers",
+      "confidence": 0.78,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌患者",
+      "relation": "康复运动推荐",
+      "tail": "术后即可开始上肢功能锻炼+有氧运动",
+      "source": "ACS运动指南",
+      "evidence": "I级专家共识",
+      "domain": "support_care",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "COPD/心血管病风险",
+      "tail": "蒽环类和曲妥珠单抗增加心血管事件风险",
+      "source": "CSCO/NCCN心血管毒性指南",
+      "evidence": "I级",
+      "domain": "support_care",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌患者",
+      "relation": "焦虑/抑郁筛查",
+      "tail": "推荐使用PHQ-9/GAD-7等工具进行筛查",
+      "source": "NCCN心理痛苦管理指南",
+      "evidence": "II级专家共识",
+      "domain": "support_care",
+      "confidence": 0.85,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "继发恶性肿瘤风险",
+      "tail": "放疗可增加对侧乳腺癌/肉瘤风险",
+      "source": "NCCN survivorship指南",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "随访中肿瘤标志物意义",
+      "tail": "仅在有症状或影像学怀疑复发时使用",
+      "source": "NCCN随访指南",
+      "evidence": "I级专家共识",
+      "domain": "support_care",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "HR阳性定义",
+      "tail": "ER≥1%或PR≥1%即为HR阳性",
+      "source": "ASCO/CAP ER/PR指南",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "HER2阳性定义",
+      "tail": "IHC 3+或IHC 2+且FISH扩增",
+      "source": "ASCO/CAP HER2指南",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "Ki-67评估要求",
+      "tail": "报告hot spot区域的平均阳性率",
+      "source": "St. Gallen共识",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "BRCA1突变",
+      "relation": "乳腺癌风险",
+      "tail": "终生风险约55-72%",
+      "source": "BCNC / NCCN遗传性乳腺癌指南",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "BRCA2突变",
+      "relation": "乳腺癌风险",
+      "tail": "终生风险约45-69%",
+      "source": "BCNC / NCCN遗传性乳腺癌指南",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "BRCA突变携带者",
+      "tail": "建议生育前完成遗传咨询",
+      "source": "NCCN遗传性乳腺癌指南",
+      "evidence": "I级专家共识",
+      "domain": "genetic_counseling",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "基因检测时机",
+      "tail": "初诊时即应评估是否需要遗传咨询",
+      "source": "CSCO/NCCN遗传性乳腺癌指南",
+      "evidence": "I级专家共识",
+      "domain": "genetic_counseling",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "HR+/HER2-高危定义",
+      "tail": "≥4枚淋巴结阳性或1-3枚伴高危因素",
+      "source": "CSCO 2025指南 / monarchE研究",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "CDK4/6i辅助治疗",
+      "tail": "阿贝西利150mg bid持续2年",
+      "source": "monarchE研究 / CSCO 2025指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "TNBC",
+      "relation": "新辅助治疗标准方案",
+      "tail": "帕博利珠单抗+紫杉醇+卡铂→AC（KEYNOTE-522）",
+      "source": "KEYNOTE-522 / CSCO 2025指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "TNBC",
+      "relation": "PD-L1检测",
+      "tail": "CPS≥10为免疫治疗优势人群",
+      "source": "KEYNOTE-522/355 / CSCO指南",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HER2+",
+      "relation": "新辅助治疗",
+      "tail": "TCbHP方案（多西他赛+卡铂+曲帕双靶）",
+      "source": "CSCO 2025指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HER2+新辅助后",
+      "relation": "未达pCR",
+      "tail": "T-DM1辅助强化14周期",
+      "source": "KATHERINE研究 / CSCO 2025指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HER2+",
+      "relation": "辅助靶向治疗",
+      "tail": "紫杉类+曲妥珠单抗1年(AC-TH)或TCbH",
+      "source": "CSCO/NCCN 2025指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "BRCA突变HER2-",
+      "relation": "辅助奥拉帕利",
+      "tail": "gBRCA1/2突变高危患者可获益",
+      "source": "OlympiA研究 / CSCO 2025指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HR+/HER2-绝经后",
+      "relation": "辅助内分泌",
+      "tail": "AI类5年，高危可延长至10年",
+      "source": "CSCO 2025指南 / MA.17R",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HR+绝经前高危",
+      "relation": "OFS+内分泌",
+      "tail": "SOFT-TEXT研究支持",
+      "source": "SOFT-TEXT / CSCO 2025指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "BRCA突变HER2-晚期",
+      "relation": "PARP抑制剂",
+      "tail": "奥拉帕利或talazoparib",
+      "source": "OlympiAD/EMBRACA / CSCO指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "PIK3CA突变HR+",
+      "relation": "靶向治疗",
+      "tail": "阿培利司+氟维司群",
+      "source": "SOLAR-1 / CSCO 2025指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HER2低表达",
+      "relation": "ADC治疗",
+      "tail": "T-DXd（DESTINY-Breast04）",
+      "source": "DESTINY-Breast04 / CSCO 2025指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "TNBC经治晚期",
+      "relation": "戈沙妥珠单抗",
+      "tail": "SG用于≥2线化疗后",
+      "source": "ASCENT / CSCO 2025指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HER2+晚期二线",
+      "relation": "T-DXd",
+      "tail": "DB-03研究支持",
+      "source": "DESTINY-Breast03 / CSCO 2025指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HR+/HER2-",
+      "relation": "CDK4/6i一线",
+      "tail": "哌柏西利/瑞波西利/阿贝西利均可选",
+      "source": "PALOMA/MONALEESA/monarchE / CSCO指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌骨转移",
+      "relation": "骨改良药",
+      "tail": "地舒单抗120mg SC q4w或唑来膦酸4mg q3-4w",
+      "source": "CSCO 2025指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌脑转移",
+      "relation": "治疗原则",
+      "tail": "寡转移可SRS，多发考虑WBRT",
+      "source": "NCCN CNS / CSCO指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HER2+脑转移",
+      "relation": "图卡替尼",
+      "tail": "HER2CLIMB研究支持颅内获益",
+      "source": "HER2CLIMB / CSCO指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "保乳手术",
+      "tail": "切缘无瘤（no ink on tumor）",
+      "source": "SSO/ASTRO指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "前哨淋巴结活检",
+      "tail": "cN0患者可行SLNB",
+      "source": "CSCO/NCCN指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "保乳术后放疗",
+      "tail": "全乳放疗±瘤床加量",
+      "source": "CSCO/NCCN放疗指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "大分割放疗",
+      "tail": "40-42.5Gy/15-16次可替代常规分割",
+      "source": "START/IMPORT研究",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HR+/HER2-早期高危乳腺癌",
+      "relation": "辅助CDK4/6抑制剂推荐",
+      "tail": "阿贝西利1年辅助治疗（monarchE研究）",
+      "source": "CSCO 2025指南 / monarchE研究 (NCT03155997)",
+      "evidence": "I级",
+      "domain": "csco_2025",
+      "confidence": 0.95,
+      "update_date": "2026-05-08",
+      "pmid": "33196156"
+    },
+    {
+      "head": "HR+/HER2-绝经后晚期",
+      "relation": "一线标准治疗",
+      "tail": "AI类+CDK4/6抑制剂（哌柏西利/瑞波西利/阿贝西利）",
+      "source": "CSCO 2025指南 / PALOMA-2等研究",
+      "evidence": "I级",
+      "domain": "csco_2025",
+      "confidence": 0.95,
+      "update_date": "2026-05-08",
+      "pmid": "27406346"
+    },
+    {
+      "head": "HR+/HER2-绝经前晚期",
+      "relation": "一线推荐",
+      "tail": "OFS+AI/TAM+CDK4/6抑制剂",
+      "source": "CSCO 2025指南 / MONALEESA-7研究",
+      "evidence": "I级",
+      "domain": "csco_2025",
+      "confidence": 0.92,
+      "update_date": "2026-05-08",
+      "pmid": "29658936"
+    },
+    {
+      "head": "HR+/HER2-内分泌耐药",
+      "relation": "后续治疗选择",
+      "tail": "氟维司群±阿培利司（SOLAR-1）",
+      "source": "CSCO 2025指南 / SOLAR-1研究",
+      "evidence": "I级",
+      "domain": "csco_2025",
+      "confidence": 0.88,
+      "update_date": "2026-05-08",
+      "pmid": "31658300"
+    },
+    {
+      "head": "HER2+晚期乳腺癌",
+      "relation": "一线标准治疗",
+      "tail": "曲妥珠单抗+帕妥珠单抗+紫杉类",
+      "source": "CSCO 2025指南 / CLEOPATRA研究",
+      "evidence": "I级",
+      "domain": "csco_2025",
+      "confidence": 0.95,
+      "update_date": "2026-05-08",
+      "pmid": "22689808"
+    },
+    {
+      "head": "HER2+晚期乳腺癌",
+      "relation": "二线标准治疗",
+      "tail": "T-DXd（德曲妥珠单抗）",
+      "source": "CSCO 2025指南 / DESTINY-Breast03",
+      "evidence": "I级",
+      "domain": "csco_2025",
+      "confidence": 0.95,
+      "update_date": "2026-05-08",
+      "pmid": "34000629"
+    },
+    {
+      "head": "HER2低表达晚期乳腺癌",
+      "relation": "ADC治疗推荐",
+      "tail": "T-DXd（DESTINY-Breast04）",
+      "source": "CSCO 2025指南 / DESTINY-Breast04 (NCT03734029)",
+      "evidence": "I级",
+      "domain": "csco_2025",
+      "confidence": 0.92,
+      "update_date": "2026-05-08",
+      "pmid": "35727979"
+    },
+    {
+      "head": "三阴性乳腺癌晚期",
+      "relation": "ADC治疗推荐",
+      "tail": "戈沙妥珠单抗（Sacituzumab govitecan）",
+      "source": "CSCO 2025指南 / TROPiCS-02研究",
+      "evidence": "I级",
+      "domain": "csco_2025",
+      "confidence": 0.88,
+      "update_date": "2026-05-08",
+      "pmid": "35636684"
+    },
+    {
+      "head": "三阴性乳腺癌",
+      "relation": "新辅助/辅助免疫治疗",
+      "tail": "帕博利珠单抗+化疗（KEYNOTE-522）",
+      "source": "CSCO 2025指南 / KEYNOTE-522 (NCT03036488)",
+      "evidence": "I级",
+      "domain": "csco_2025",
+      "confidence": 0.92,
+      "update_date": "2026-05-08",
+      "pmid": "33582491"
+    },
+    {
+      "head": "TNBC新辅助后未达pCR",
+      "relation": "强化治疗",
+      "tail": "卡培他滨6-8周期辅助治疗",
+      "source": "CSCO 2025指南 / CREATE-X研究",
+      "evidence": "I级",
+      "domain": "csco_2025",
+      "confidence": 0.92,
+      "update_date": "2026-05-08",
+      "pmid": "28645999"
+    },
+    {
+      "head": "HER2+新辅助后未达pCR",
+      "relation": "强化治疗",
+      "tail": "T-DM1 14周期辅助治疗",
+      "source": "CSCO 2025指南 / KATHERINE研究",
+      "evidence": "I级",
+      "domain": "csco_2025",
+      "confidence": 0.95,
+      "update_date": "2026-05-08",
+      "pmid": "30504463"
+    },
+    {
+      "head": "gBRCA1/2突变高危早期HER2-",
+      "relation": "辅助靶向治疗",
+      "tail": "奥拉帕利1年辅助治疗",
+      "source": "CSCO 2025指南 / OlympiA研究 (NCT02032823)",
+      "evidence": "I级",
+      "domain": "csco_2025",
+      "confidence": 0.92,
+      "update_date": "2026-05-08",
+      "pmid": "33911091"
+    },
+    {
+      "head": "gBRCA突变HER2-晚期",
+      "relation": "靶向治疗",
+      "tail": "奥拉帕利或talazoparib（PARP抑制剂）",
+      "source": "CSCO 2025指南 / OlympiAD / EMBRACA研究",
+      "evidence": "I级",
+      "domain": "csco_2025",
+      "confidence": 0.92,
+      "update_date": "2026-05-08",
+      "pmid": "29975758"
+    },
+    {
+      "head": "HR+/HER2-绝经后",
+      "relation": "5年辅助内分泌治疗",
+      "tail": "AI类（来曲唑/阿那曲唑/依西美坦）",
+      "source": "CSCO 2025指南 / ATAC/BIG 1-98研究",
+      "evidence": "I级",
+      "domain": "csco_2025",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HR+/HER2-高危",
+      "relation": "延长内分泌治疗",
+      "tail": "可延长AI至7-10年",
+      "source": "CSCO 2025指南 / MA.17R等研究",
+      "evidence": "I级",
+      "domain": "csco_2025",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HR+绝经前高危",
+      "relation": "强化内分泌治疗",
+      "tail": "OFS+AI或OFS+TAM（SOFT/TEXT研究）",
+      "source": "CSCO 2025指南 / SOFT-TEXT联合分析",
+      "evidence": "I级",
+      "domain": "csco_2025",
+      "confidence": 0.92,
+      "update_date": "2026-05-08",
+      "pmid": "25975048"
+    },
+    {
+      "head": "HER2+绝经前",
+      "relation": "辅助靶向治疗",
+      "tail": "AC-TH或TCbH方案1年曲妥珠单抗",
+      "source": "CSCO 2025指南 / HERA/NCCTG N9831/NSABP B-31",
+      "evidence": "I级",
+      "domain": "csco_2025",
+      "confidence": 0.95,
+      "update_date": "2026-05-08",
+      "pmid": "17452696"
+    },
+    {
+      "head": "HER2+绝经前高危",
+      "relation": "双靶辅助治疗",
+      "tail": "TCbHP方案（曲帕双靶）",
+      "source": "CSCO 2025指南 / APHINITY研究",
+      "evidence": "I级",
+      "domain": "csco_2025",
+      "confidence": 0.92,
+      "update_date": "2026-05-08",
+      "pmid": "28678982"
+    },
+    {
+      "head": "BRCA1/2突变携带者",
+      "relation": "预防性乳腺切除",
+      "tail": "可降低约90-95%乳腺癌风险",
+      "source": "NCCN遗传性乳腺癌指南",
+      "evidence": "I级",
+      "domain": "csco_2025",
+      "confidence": 0.9,
+      "update_date": "2026-05-08",
+      "pmid": "24788364"
+    },
+    {
+      "head": "BRCA突变携带者",
+      "relation": "监测筛查",
+      "tail": "每年乳腺MRI+钼靶（6月交替）",
+      "source": "NCCN遗传性乳腺癌指南 / CSCO指南",
+      "evidence": "I级",
+      "domain": "csco_2025",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "PIK3CA突变HR+HER2-",
+      "relation": "靶向治疗",
+      "tail": "阿培利司+氟维司群",
+      "source": "SOLAR-1研究 / CSCO 2025指南",
+      "evidence": "I级",
+      "domain": "csco_2025",
+      "confidence": 0.88,
+      "update_date": "2026-05-08",
+      "pmid": "31658300"
+    },
+    {
+      "head": "HR+HER2-晚期",
+      "relation": "内脏危象定义",
+      "tail": "肝/肺等多器官转移伴症状",
+      "source": "CSCO 2025指南",
+      "evidence": "I级专家共识",
+      "domain": "csco_2025",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HR+HER2-内脏危象",
+      "relation": "治疗选择",
+      "tail": "化疗±靶向，非单纯内分泌治疗",
+      "source": "CSCO 2025指南",
+      "evidence": "I级专家共识",
+      "domain": "csco_2025",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌骨转移",
+      "relation": "骨改良药物",
+      "tail": "唑来膦酸或地舒单抗（每3-6月）",
+      "source": "CSCO 2025指南 / NCCN指南",
+      "evidence": "I级",
+      "domain": "csco_2025",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌脑转移",
+      "relation": "治疗原则",
+      "tail": "手术/SRS/WBRT±全身治疗",
+      "source": "CSCO/NCCN指南",
+      "evidence": "I级",
+      "domain": "csco_2025",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HER2+脑转移",
+      "relation": "全身治疗",
+      "tail": "T-DXd和图卡替尼显示脑部活性",
+      "source": "DESTINY-Breast12 / HER2CLIMB研究",
+      "evidence": "II级",
+      "domain": "csco_2025",
+      "confidence": 0.85,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "生育力保护",
+      "tail": "化疗前OFS或卵母细胞/胚胎冻存",
+      "source": "CSCO 2025指南 / NCCN Fertility Preservation",
+      "evidence": "I级",
+      "domain": "csco_2025",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "妊娠期乳腺癌",
+      "relation": "治疗原则",
+      "tail": "根据孕周制定个体化方案",
+      "source": "CSCO/NCCN妊娠期乳腺癌指南",
+      "evidence": "I级专家共识",
+      "domain": "csco_2025",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "老年乳腺癌",
+      "relation": "治疗决策",
+      "tail": "根据体能状态和合并症综合考虑",
+      "source": "CSCO 2025指南 / NCCN Senior Adult Oncology",
+      "evidence": "I级专家共识",
+      "domain": "csco_2025",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "炎性乳腺癌",
+      "relation": "治疗原则",
+      "tail": "新辅助化疗为主，多学科综合治疗",
+      "source": "CSCO/NCCN指南",
+      "evidence": "I级",
+      "domain": "csco_2025",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "Paget病",
+      "relation": "治疗原则",
+      "tail": "根据underlying tumor制定治疗方案",
+      "source": "CSCO/NCCN指南",
+      "evidence": "I级",
+      "domain": "csco_2025",
+      "confidence": 0.85,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "双侧乳腺癌",
+      "relation": "治疗原则",
+      "tail": "可同时或分期手术，全身治疗根据分期",
+      "source": "CSCO指南",
+      "evidence": "I级专家共识",
+      "domain": "csco_2025",
+      "confidence": 0.85,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "隐匿性乳腺癌",
+      "relation": "定义",
+      "tail": "腋窝淋巴结转移为首发，乳腺影像学未发现原发灶",
+      "source": "CSCO指南",
+      "evidence": "I级",
+      "domain": "csco_2025",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "隐匿性乳腺癌",
+      "relation": "治疗原则",
+      "tail": "腋窝清扫+全乳放疗±化疗/内分泌治疗",
+      "source": "CSCO/NCCN指南",
+      "evidence": "I级专家共识",
+      "domain": "csco_2025",
+      "confidence": 0.85,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "叶状肿瘤",
+      "relation": "治疗原则",
+      "tail": "广泛局部切除，切缘≥1cm",
+      "source": "CSCO/NCCN指南",
+      "evidence": "I级",
+      "domain": "csco_2025",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "叶状肿瘤恶性",
+      "relation": "辅助治疗",
+      "tail": "根据分期和危险因素决定",
+      "source": "CSCO指南",
+      "evidence": "I级专家共识",
+      "domain": "csco_2025",
+      "confidence": 0.82,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "小叶癌",
+      "relation": "特点",
+      "tail": "多灶/双侧常见，ER阳性多见",
+      "source": "WHO乳腺肿瘤分类",
+      "evidence": "I级",
+      "domain": "csco_2025",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HR+/HER2-",
+      "relation": "分子分型参考",
+      "tail": "Luminal A型：ER+/PR≥20%，HER2-，Ki-67低",
+      "source": "St. Gallen 2023共识",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HR+/HER2-",
+      "relation": "分子分型参考",
+      "tail": "Luminal B型：ER+/HER2-，Ki-67高或PR低",
+      "source": "St. Gallen 2023共识",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HR+/HER2+",
+      "relation": "分子分型参考",
+      "tail": "Luminal HER2型：ER+，HER2+",
+      "source": "St. Gallen共识",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HER2低表达",
+      "relation": "定义",
+      "tail": "IHC 1+或IHC 2+/FISH-",
+      "source": "ASCO/CAP HER2检测指南更新",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.95,
+      "update_date": "2026-05-08",
+      "pmid": "27535145"
+    },
+    {
+      "head": "HER2零表达",
+      "relation": "定义",
+      "tail": "IHC 0",
+      "source": "ASCO/CAP HER2检测指南",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "Ki-67",
+      "relation": "中表达阈值",
+      "tail": "14-30%为中间表达",
+      "source": "St. Gallen 2023",
+      "evidence": "I级专家共识",
+      "domain": "biomarkers",
+      "confidence": 0.85,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "BRCA1突变",
+      "relation": "相关乳腺癌亚型",
+      "tail": "三阴性/基底样型为主（60-80%）",
+      "source": "流行病学研究 / NCCN指南",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.92,
+      "update_date": "2026-05-08",
+      "pmid": "24788364"
+    },
+    {
+      "head": "BRCA2突变",
+      "relation": "相关乳腺癌亚型",
+      "tail": "Luminal型为主（70-80%）",
+      "source": "流行病学研究 / NCCN指南",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.9,
+      "update_date": "2026-05-08",
+      "pmid": "24788364"
+    },
+    {
+      "head": "PALB2突变",
+      "relation": "乳腺癌终生风险",
+      "tail": "约33-58%",
+      "source": "NCCN遗传性乳腺癌指南",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.88,
+      "update_date": "2026-05-08",
+      "pmid": "24788364"
+    },
+    {
+      "head": "CHEK2突变",
+      "relation": "乳腺癌终生风险",
+      "tail": "约20-40%",
+      "source": "NCCN遗传性乳腺癌指南",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.88,
+      "update_date": "2026-05-08",
+      "pmid": "24788364"
+    },
+    {
+      "head": "ATM突变",
+      "relation": "乳腺癌终生风险",
+      "tail": "约15-40%",
+      "source": "NCCN遗传性乳腺癌指南",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.88,
+      "update_date": "2026-05-08",
+      "pmid": "24788364"
+    },
+    {
+      "head": "TP53突变",
+      "relation": "Li-Fraumeni综合征",
+      "tail": "乳腺癌终生风险约50-80%",
+      "source": "NCCN/ASCO指南",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.88,
+      "update_date": "2026-05-08",
+      "pmid": "24788364"
+    },
+    {
+      "head": "NGS基因检测",
+      "relation": "遗传性乳腺癌检测",
+      "tail": "多基因panel包括BRCA1/2、PALB2、CHEK2等",
+      "source": "CSCO/NCCN遗传性乳腺癌指南",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "BRCA1突变相关TNBC",
+      "relation": "分子特征",
+      "tail": "基底样型、BRCA1甲基化相关",
+      "source": "TCGA数据 / 分子病理研究",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "Claudin-low型",
+      "relation": "分子特征",
+      "tail": "间质样型，预后较差，免疫浸润高",
+      "source": "TCGA / Perou教授分型",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.85,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "Claudin-low型",
+      "relation": "常见于",
+      "tail": "TNBC亚型",
+      "source": "TCGA分子分型",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.85,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "PD-L1检测",
+      "relation": "三阴性乳腺癌",
+      "tail": "CPS评分≥10可考虑免疫治疗",
+      "source": "KEYNOTE-522/355定义",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "Trop-2",
+      "relation": "表达与戈沙妥珠单抗疗效",
+      "tail": "Trop-2高表达患者获益更大",
+      "source": "ASCENT / TROPiCS-02研究",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.88,
+      "update_date": "2026-05-08",
+      "pmid": "33839994"
+    },
+    {
+      "head": "ctDNA",
+      "relation": "在转移性乳腺癌中应用",
+      "tail": "可辅助动态监测和耐药机制分析",
+      "source": "CSCO ctDNA专家共识",
+      "evidence": "II级专家共识",
+      "domain": "biomarkers",
+      "confidence": 0.82,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "CTC",
+      "relation": "在乳腺癌中预后价值",
+      "tail": "转移性乳腺癌CTC≥5/7.5ml预后不良",
+      "source": "CSCO/CTCs专家共识",
+      "evidence": "I级专家共识",
+      "domain": "biomarkers",
+      "confidence": 0.85,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "Oncotype DX",
+      "relation": "21基因复发评分",
+      "tail": "RS<26低危，26-30中危，≥31高危",
+      "source": "TAILORx研究 (NCT00310180)",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.92,
+      "update_date": "2026-05-08",
+      "pmid": "29438927"
+    },
+    {
+      "head": "MammaPrint",
+      "relation": "70基因标签",
+      "tail": "可评估早期乳腺癌复发风险",
+      "source": "MINDACT研究",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "Ki-67",
+      "relation": "预后标志物",
+      "tail": "高Ki-67提示预后较差、化疗可能获益",
+      "source": "St. Gallen共识 / CSCO指南",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HR+乳腺癌",
+      "relation": "ESR1突变",
+      "tail": "AI治疗耐药机制之一",
+      "source": "PALOMA-3 / CSCO指南",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HER2+乳腺癌",
+      "relation": "PIK3CA突变率",
+      "tail": "约15-30%",
+      "source": "SOLAR-1等研究",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.85,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "TNBC",
+      "relation": "分子分型",
+      "tail": "BL1(免疫激活)/BL2(基底免疫抑制)/M(间质)/LAR(管腔雄激素)",
+      "source": "Lehmann's TNBC分类",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "TNBC BL1亚型",
+      "relation": "特点",
+      "tail": "免疫浸润高，PD-L1表达高，对免疫治疗敏感",
+      "source": "Lehmann分类 / TNBC研究",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "TNBC LAR亚型",
+      "relation": "特点",
+      "tail": "AR阳性，可能从AR靶向治疗获益",
+      "source": "Lehmann分类 / TNBC研究",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.85,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "ER",
+      "relation": "低表达阈值",
+      "tail": "1-9%为低表达，需综合考虑治疗决策",
+      "source": "ASCO/CAP指南更新",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.9,
+      "update_date": "2026-05-08",
+      "pmid": "24523737"
+    },
+    {
+      "head": "PR",
+      "relation": "判定标准",
+      "tail": "≥1%阳性为HR阳性，但PR<20%可能预后较差",
+      "source": "St. Gallen共识 / CSCO指南",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HR+HER2-",
+      "relation": "CDK4/6抑制剂耐药机制",
+      "tail": "RB1突变/失活、CCNE1扩增、PIK3CA/AKT通路激活",
+      "source": "CDK4/6i耐药研究",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.85,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "gBRCA突变",
+      "relation": "检测指征",
+      "tail": "家族史/早发/双侧/男性乳腺癌等",
+      "source": "CSCO/NCCN遗传咨询指南",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HR+/HER2-",
+      "relation": "PIK3CA突变",
+      "tail": "约40%患者存在突变",
+      "source": "SOLAR-1 / TCGA数据",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.88,
+      "update_date": "2026-05-08",
+      "pmid": "31658300"
+    },
+    {
+      "head": "HER2低表达",
+      "relation": "比例",
+      "tail": "占全部乳腺癌约45-55%",
+      "source": "DESTINY-Breast04研究数据",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "TILs",
+      "relation": "在三阴性乳腺癌中预后价值",
+      "tail": "高TILs提示预后较好、免疫治疗可能获益",
+      "source": "KEYNOTE-522 / 免疫治疗研究",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "NGS",
+      "relation": "晚期乳腺癌应用",
+      "tail": "可发现可靶向治疗突变，指导后线治疗",
+      "source": "CSCO指南 / NCCN 2025",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HR+/HER2-早期高危",
+      "relation": "阿贝西利辅助治疗",
+      "tail": "monarchE研究：浸润性癌无复发生存率提升",
+      "source": "monarchE (NCT03155997) / NEJM",
+      "evidence": "I级",
+      "domain": "clinical_trials",
+      "confidence": 0.95,
+      "update_date": "2026-05-08",
+      "pmid": "33196156"
+    },
+    {
+      "head": "HR+/HER2-绝经后晚期",
+      "relation": "哌柏西利一线研究",
+      "tail": "PALOMA-2：中位PFS 24.8月 vs 14.5月",
+      "source": "PALOMA-2 (NCT01740427) / Lancet Oncol",
+      "evidence": "I级",
+      "domain": "clinical_trials",
+      "confidence": 0.95,
+      "update_date": "2026-05-08",
+      "pmid": "27406346"
+    },
+    {
+      "head": "HR+/HER2-绝经前晚期",
+      "relation": "瑞波西利一线研究",
+      "tail": "MONALEESA-7：中位OS 58.7月 vs 48.0月",
+      "source": "MONALEESA-7 (NCT02278120) / NEJM",
+      "evidence": "I级",
+      "domain": "clinical_trials",
+      "confidence": 0.95,
+      "update_date": "2026-05-08",
+      "pmid": "29658936"
+    },
+    {
+      "head": "HR+/HER2-绝经后晚期",
+      "relation": "阿贝西利+氟维司群研究",
+      "tail": "MONARCH-2：中位PFS 16.4月 vs 9.3月",
+      "source": "MONARCH-2 (NCT02107703) / JCO",
+      "evidence": "I级",
+      "domain": "clinical_trials",
+      "confidence": 0.95,
+      "update_date": "2026-05-08",
+      "pmid": "28476741"
+    },
+    {
+      "head": "PIK3CA突变HR+HER2-",
+      "relation": "阿培利司研究",
+      "tail": "SOLAR-1：中位PFS 11.0月 vs 5.7月",
+      "source": "SOLAR-1 (NCT02437318) / NEJM",
+      "evidence": "I级",
+      "domain": "clinical_trials",
+      "confidence": 0.9,
+      "update_date": "2026-05-08",
+      "pmid": "31658300"
+    },
+    {
+      "head": "HER2+晚期二线",
+      "relation": "T-DXd vs T-DM1研究",
+      "tail": "DESTINY-Breast03：中位PFS 28.8月 vs 6.8月",
+      "source": "DESTINY-Breast03 (NCT03529110) / NEJM",
+      "evidence": "I级",
+      "domain": "clinical_trials",
+      "confidence": 0.95,
+      "update_date": "2026-05-08",
+      "pmid": "34000629"
+    },
+    {
+      "head": "HER2低表达晚期",
+      "relation": "T-DXd研究",
+      "tail": "DESTINY-Breast04：中位OS 23.4月 vs 16.5月",
+      "source": "DESTINY-Breast04 (NCT03734029) / NEJM",
+      "evidence": "I级",
+      "domain": "clinical_trials",
+      "confidence": 0.95,
+      "update_date": "2026-05-08",
+      "pmid": "35727979"
+    },
+    {
+      "head": "HR+/HER2-经治晚期",
+      "relation": "戈沙妥珠单抗研究",
+      "tail": "TROPiCS-02：中位PFS 7.4月 vs 4.0月",
+      "source": "TROPiCS-02 (NCT04601351) / JCO",
+      "evidence": "I级",
+      "domain": "clinical_trials",
+      "confidence": 0.88,
+      "update_date": "2026-05-08",
+      "pmid": "35636684"
+    },
+    {
+      "head": "TNBC新辅助+辅助",
+      "relation": "帕博利珠单抗研究",
+      "tail": "KEYNOTE-522：pCR率64.8% vs 51.2%，3年EFS 84.5% vs 76.8%",
+      "source": "KEYNOTE-522 (NCT03036488) / NEJM",
+      "evidence": "I级",
+      "domain": "clinical_trials",
+      "confidence": 0.95,
+      "update_date": "2026-05-08",
+      "pmid": "33582491"
+    },
+    {
+      "head": "gBRCA突变高危早期",
+      "relation": "奥拉帕利辅助研究",
+      "tail": "OlympiA：3年iDFS 85.9% vs 77.1%",
+      "source": "OlympiA (NCT02032823) / NEJM",
+      "evidence": "I级",
+      "domain": "clinical_trials",
+      "confidence": 0.95,
+      "update_date": "2026-05-08",
+      "pmid": "33911091"
+    },
+    {
+      "head": "gBRCA突变HER2-晚期",
+      "relation": "奥拉帕利研究",
+      "tail": "OlympiAD：中位PFS 7.0月 vs 4.2月",
+      "source": "OlympiAD (NCT02000622) / NEJM",
+      "evidence": "I级",
+      "domain": "clinical_trials",
+      "confidence": 0.92,
+      "update_date": "2026-05-08",
+      "pmid": "29975758"
+    },
+    {
+      "head": "gBRCA突变HER2-晚期",
+      "relation": "Talazoparib研究",
+      "tail": "EMBRACA：中位PFS 8.6月 vs 5.6月",
+      "source": "EMBRACA (NCT01945775) / NEJM",
+      "evidence": "I级",
+      "domain": "clinical_trials",
+      "confidence": 0.92,
+      "update_date": "2026-05-08",
+      "pmid": "30128415"
+    },
+    {
+      "head": "HER2+新辅助后未pCR",
+      "relation": "T-DM1辅助研究",
+      "tail": "KATHERINE：3年iDFS 88.3% vs 77.0%",
+      "source": "KATHERINE (NCT01772472) / NEJM",
+      "evidence": "I级",
+      "domain": "clinical_trials",
+      "confidence": 0.95,
+      "update_date": "2026-05-08",
+      "pmid": "30504463"
+    },
+    {
+      "head": "TNBC新辅助后未pCR",
+      "relation": "卡培他滨辅助研究",
+      "tail": "CREATE-X：5年DFS 74.8% vs 70.3%",
+      "source": "CREATE-X (UMIN000001843) / NEJM",
+      "evidence": "I级",
+      "domain": "clinical_trials",
+      "confidence": 0.92,
+      "update_date": "2026-05-08",
+      "pmid": "28645999"
+    },
+    {
+      "head": "HER2+辅助双靶",
+      "relation": "APHINITY研究",
+      "tail": "6年iDFS 90.6% vs 87.8%（ITT）",
+      "source": "APHINITY (NCT01358869) / JCO",
+      "evidence": "I级",
+      "domain": "clinical_trials",
+      "confidence": 0.92,
+      "update_date": "2026-05-08",
+      "pmid": "28678982"
+    },
+    {
+      "head": "HR+/HER2-绝经后辅助",
+      "relation": "AI辅助疗效",
+      "tail": "ATAC/BIG 1-98：5年DFS改善，绝对获益2.8%",
+      "source": "ATAC/BIG 1-98研究 / Lancet",
+      "evidence": "I级",
+      "domain": "clinical_trials",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HR+绝经前高危",
+      "relation": "OFS强化研究",
+      "tail": "SOFT-TEXT：8年无乳腺癌复发率77.0% vs 71.3%",
+      "source": "SOFT-TEXT联合分析 / NEJM",
+      "evidence": "I级",
+      "domain": "clinical_trials",
+      "confidence": 0.92,
+      "update_date": "2026-05-08",
+      "pmid": "25975048"
+    },
+    {
+      "head": "HER2+晚期一线",
+      "relation": "CLEOPATRA研究更新",
+      "tail": "中位OS 57.1月 vs 40.8月",
+      "source": "CLEOPATRA (NCT00567190) / Lancet Oncol",
+      "evidence": "I级",
+      "domain": "clinical_trials",
+      "confidence": 0.95,
+      "update_date": "2026-05-08",
+      "pmid": "22689808"
+    },
+    {
+      "head": "HR+/HER2-内分泌耐药",
+      "relation": "图卡替尼+卡培他滨+赫赛汀",
+      "tail": "HER2CLIMB：中位OS 24.7月 vs 19.2月",
+      "source": "HER2CLIMB (NCT03104717) / NEJM",
+      "evidence": "I级",
+      "domain": "clinical_trials",
+      "confidence": 0.88,
+      "update_date": "2026-05-08",
+      "pmid": "31825569"
+    },
+    {
+      "head": "HR+/HER2-早期高危",
+      "relation": "哌柏西利辅助研究",
+      "tail": "PALLAS：未达iDFS终点",
+      "source": "PALLAS (NCT02513394) / JCO",
+      "evidence": "III级（阴性）",
+      "domain": "clinical_trials",
+      "confidence": 0.78,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HR+/HER2-早期高危",
+      "relation": "瑞波西利辅助研究",
+      "tail": "NATALEE：3年iDFS 90.4% vs 87.1%",
+      "source": "NATALEE (NCT03701334) / ESMO 2023",
+      "evidence": "I级",
+      "domain": "clinical_trials",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "TNBC一线",
+      "relation": "阿替利珠单抗+化疗研究",
+      "tail": "IMpassion130：PD-L1阳性中位OS 25.4月 vs 17.9月",
+      "source": "IMpassion130 (NCT03125902) / NEJM",
+      "evidence": "I级",
+      "domain": "clinical_trials",
+      "confidence": 0.9,
+      "update_date": "2026-05-08",
+      "pmid": "30865788"
+    },
+    {
+      "head": "TNBC一线",
+      "relation": "帕博利珠单抗+化疗研究",
+      "tail": "KEYNOTE-355：中位OS 23.0月 vs 16.1月（CPS≥10）",
+      "source": "KEYNOTE-355 (NCT02819518) / ESMO 2023",
+      "evidence": "I级",
+      "domain": "clinical_trials",
+      "confidence": 0.9,
+      "update_date": "2026-05-08",
+      "pmid": "32846055"
+    },
+    {
+      "head": "HER2+脑转移",
+      "relation": "图卡替尼研究",
+      "tail": "HER2CLIMB脑转移队列：OS改善",
+      "source": "HER2CLIMB (NCT03104717)",
+      "evidence": "II级",
+      "domain": "clinical_trials",
+      "confidence": 0.85,
+      "update_date": "2026-05-08",
+      "pmid": "31825569"
+    },
+    {
+      "head": "HR+/HER2-经治晚期",
+      "relation": "戈沙妥珠单抗序贯研究",
+      "tail": "ASCENT：中位OS 11.1月 vs 6.9月（Trop-2高表达TNBC）",
+      "source": "ASCENT (NCT02574455) / NEJM",
+      "evidence": "I级",
+      "domain": "clinical_trials",
+      "confidence": 0.92,
+      "update_date": "2026-05-08",
+      "pmid": "33839994"
+    },
+    {
+      "head": "HER2+晚期三线及以后",
+      "relation": "T-DXd研究",
+      "tail": "DESTINY-Breast01：ORR 62%，中位PFS 19.4月",
+      "source": "DESTINY-Breast01 (NCT03248492) / NEJM",
+      "evidence": "I级",
+      "domain": "clinical_trials",
+      "confidence": 0.95,
+      "update_date": "2026-05-08",
+      "pmid": "31933894"
+    },
+    {
+      "head": "HR+/HER2-绝经后辅助",
+      "relation": "CDK4/6辅助延长研究",
+      "tail": "MA.17R：来曲唑延长5年vs安慰剂，DFS改善",
+      "source": "MA.17R (NCT008540309)",
+      "evidence": "I级",
+      "domain": "clinical_trials",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "BRCA突变乳腺癌",
+      "relation": "对侧预防性手术",
+      "tail": "BRCA1/2突变者对侧乳腺癌风险显著降低",
+      "source": "多项大型回顾性研究",
+      "evidence": "I级",
+      "domain": "clinical_trials",
+      "confidence": 0.9,
+      "update_date": "2026-05-08",
+      "pmid": "24788364"
+    },
+    {
+      "head": "HR+/HER2-绝经前",
+      "relation": "CDK4/6抑制剂一线",
+      "tail": "MONALEESA-3：中位OS 53.7月 vs 41.5月",
+      "source": "MONALEESA-3 (NCT02422615) / JCO",
+      "evidence": "I级",
+      "domain": "clinical_trials",
+      "confidence": 0.92,
+      "update_date": "2026-05-08",
+      "pmid": "31577366"
+    },
+    {
+      "head": "HER2低表达",
+      "relation": "戈沙妥珠单抗研究",
+      "tail": "TROPiCS-02 HER2低表达亚组获益",
+      "source": "TROPiCS-02 (NCT04601351)",
+      "evidence": "I级",
+      "domain": "clinical_trials",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "三阴性乳腺癌",
+      "relation": "SGARDI研究",
+      "tail": "戈沙妥珠单抗+ pembrolizumab一线显示活性",
+      "source": "NCT04448856",
+      "evidence": "II级",
+      "domain": "clinical_trials",
+      "confidence": 0.82,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HR+/HER2-",
+      "relation": "elacestrant研究",
+      "tail": "EMERALD：中位PFS 2.8月 vs 1.9月（既往CDK4/6i）",
+      "source": "EMERALD (NCT03778931) / JCO",
+      "evidence": "I级",
+      "domain": "clinical_trials",
+      "confidence": 0.85,
+      "update_date": "2026-05-08",
+      "pmid": "36637204"
+    },
+    {
+      "head": "HER2+晚期",
+      "relation": "图卡替尼一线研究",
+      "tail": "HER2CLIMB-002：图卡替尼+化疗+赫赛汀",
+      "source": "HER2CLIMB-002 (NCT03975647)",
+      "evidence": "II级",
+      "domain": "clinical_trials",
+      "confidence": 0.82,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "BRCA突变HER2-/HR+",
+      "relation": "PARP抑制剂联合",
+      "tail": "BROCADE3：维利帕尼+化疗",
+      "source": "BROCADE3 (NCT01506609)",
+      "evidence": "II级",
+      "domain": "clinical_trials",
+      "confidence": 0.8,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HR+/HER2-晚期",
+      "relation": "PI3K/AKT通路抑制",
+      "tail": "BYL719+氟维司群（AKT抑制剂在研）",
+      "source": "NCT02423603",
+      "evidence": "II级",
+      "domain": "clinical_trials",
+      "confidence": 0.8,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HER2+新辅助",
+      "relation": "T-DXd vs THP研究",
+      "tail": "DESTINY-Breast11：T-DXd vs HP+pCR率比较",
+      "source": "DESTINY-Breast11 (NCT05113290)",
+      "evidence": "I级",
+      "domain": "clinical_trials",
+      "confidence": 0.85,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HR+/HER2-",
+      "relation": "新辅助内分泌治疗",
+      "tail": "绝经后患者可选AI类新辅助治疗",
+      "source": "CSCO/NCCN新辅助治疗指南",
+      "evidence": "I级专家共识",
+      "domain": "treatment",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "TNBC新辅助",
+      "relation": "标准方案",
+      "tail": "dd AC-T（剂量密集蒽环+紫杉）或TAC",
+      "source": "CSCO 2025指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HER2+新辅助",
+      "relation": "标准方案",
+      "tail": "TCbHP或AC-THP",
+      "source": "CSCO 2025指南 / NCCN",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "保乳手术",
+      "relation": "绝对适应证",
+      "tail": "单发肿瘤、肿瘤/乳房比例适宜、切缘阴性可实现、术后可放疗",
+      "source": "CSCO/NCCN保乳手术指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "保乳手术",
+      "relation": "切缘要求",
+      "tail": "浸润性癌无瘤切缘（no ink on tumor）",
+      "source": "SSO/ASTRO指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "保乳手术",
+      "relation": "相对禁忌证",
+      "tail": "多中心病变、BRCA突变高危、妊娠期（可延期）",
+      "source": "CSCO/NCCN指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "前哨淋巴结活检",
+      "relation": "适应证",
+      "tail": "临床腋窝淋巴结阴性（cN0）",
+      "source": "CSCO/NCCN SLNB指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "前哨淋巴结阳性",
+      "relation": "SLNB后处理",
+      "tail": "1-2枚宏转移可不行腋窝清扫（ACOSOG Z0011条件）",
+      "source": "ACOSOG Z0011 / CSCO指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "腋窝淋巴结清扫",
+      "relation": "适应证",
+      "tail": "≥3枚前哨淋巴结阳性或肉眼可见融合",
+      "source": "CSCO/NCCN腋窝处理指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "全乳切除术",
+      "relation": "适应证",
+      "tail": "多中心病变、BRCA突变高危、无法保乳、拒绝保乳",
+      "source": "CSCO/NCCN手术指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "即刻乳房重建",
+      "relation": "适应证",
+      "tail": "全切且有重建意愿者可考虑",
+      "source": "CSCO/NCCN乳房重建指南",
+      "evidence": "I级专家共识",
+      "domain": "treatment",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "保乳术后放疗",
+      "relation": "必须性",
+      "tail": "全乳放疗±瘤床加量可降低局部复发",
+      "source": "CSCO/NCCN放疗指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "保乳术后放疗",
+      "relation": "大分割方案",
+      "tail": "40-42.5Gy/15-16次可替代常规分割",
+      "source": "START/IMPORT研究",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "改良根治术后放疗",
+      "relation": "适应证",
+      "tail": "T3-4或N≥4枚阳性或切缘阳性/近阳性",
+      "source": "CSCO/NCCN放疗指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "区域淋巴结放疗",
+      "relation": "适应证",
+      "tail": "≥4枚淋巴结阳性或1-3枚高危因素",
+      "source": "MA.20 / EORTC 22922研究",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "AC-T方案",
+      "relation": "组成与疗程",
+      "tail": "阿霉素60mg/m²+环磷酰胺600mg/m² q3w×4→紫杉醇80mg/m² weekly×12",
+      "source": "CSCO 2025指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "TC方案",
+      "relation": "组成与疗程",
+      "tail": "多西他赛75mg/m²+环磷酰胺600mg/m² q3w×4",
+      "source": "CSCO 2025指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "CMF方案",
+      "relation": "组成与疗程",
+      "tail": "环磷酰胺+甲氨蝶呤+氟尿嘧啶×4-6周期",
+      "source": "CSCO/NCCN指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "dd AC-T方案",
+      "relation": "优势",
+      "tail": "剂量密集方案（2周方案）优于3周方案",
+      "source": "CALGB 9741研究",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.92,
+      "update_date": "2026-05-08",
+      "pmid": "12860940"
+    },
+    {
+      "head": "TCbHP方案",
+      "relation": "组成",
+      "tail": "多西他赛+卡铂+曲妥珠单抗+帕妥珠单抗",
+      "source": "CSCO 2025指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "T-DM1",
+      "relation": "适应证",
+      "tail": "HER2+新辅助后未达pCR的辅助治疗",
+      "source": "CSCO/NCCN指南 / KATHERINE研究",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "update_date": "2026-05-08",
+      "pmid": "30504463"
+    },
+    {
+      "head": "T-DXd",
+      "relation": "适应证",
+      "tail": "HER2+晚期二线及HER2低表达晚期",
+      "source": "CSCO 2025指南 / DESTINY系列研究",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "戈沙妥珠单抗",
+      "relation": "适应证",
+      "tail": "TNBC或HR+/HER2-经治转移性乳腺癌",
+      "source": "CSCO 2025指南 / TROPiCS-02 / ASCENT",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "戈舍瑞林",
+      "relation": "OFS代表药物",
+      "tail": "3.6mg q4w或10.8mg q12w皮下注射",
+      "source": "CSCO内分泌治疗指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "OFS",
+      "relation": "去势方式",
+      "tail": "药物去势（戈舍瑞林/亮丙瑞林）、手术去势、放疗去势",
+      "source": "CSCO/NCCN内分泌治疗指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "芳香化酶抑制剂",
+      "relation": "代表药物",
+      "tail": "来曲唑2.5mg/阿那曲唑1mg/依西美坦25mg qd",
+      "source": "CSCO内分泌治疗指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "他莫昔芬",
+      "relation": "适应证",
+      "tail": "绝经前/后HR+乳腺癌",
+      "source": "CSCO内分泌治疗指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "氟维司群",
+      "relation": "适应证",
+      "tail": "绝经后HR+绝经后乳腺癌内分泌治疗",
+      "source": "CSCO/NCCN内分泌治疗指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "CDK4/6抑制剂",
+      "relation": "哌柏西利用法",
+      "tail": "125mg d1-21 q28d，服药3周停1周",
+      "source": "PALOMA系列研究 / CSCO指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "CDK4/6抑制剂",
+      "relation": "瑞波西利用法",
+      "tail": "600mg d1-21 q28d",
+      "source": "MONALEESA系列研究 / CSCO指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "CDK4/6抑制剂",
+      "relation": "阿贝西利用法",
+      "tail": "150mg bid连续服用",
+      "source": "MONARCH系列研究 / CSCO指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "PARP抑制剂",
+      "relation": "奥拉帕利用法",
+      "tail": "300mg bid",
+      "source": "OlympiAD / OlympiA / CSCO指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "PARP抑制剂",
+      "relation": "Talazoparib用法",
+      "tail": "1mg qd（骨髓抑制较重）",
+      "source": "EMBRACA / CSCO指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "阿培利司",
+      "relation": "用法",
+      "tail": "300mg qd口服",
+      "source": "SOLAR-1 / CSCO指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "卡培他滨维持治疗",
+      "relation": "TNBC",
+      "tail": "新辅助后未pCR可辅助强化6-8周期",
+      "source": "CREATE-X研究 / CSCO指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.92,
+      "update_date": "2026-05-08",
+      "pmid": "28645999"
+    },
+    {
+      "head": "TNBC免疫治疗",
+      "relation": "PD-1抑制剂",
+      "tail": "帕博利珠单抗200mg q3w或400mg q6w",
+      "source": "KEYNOTE-522/355 / CSCO指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "中国女性乳腺癌",
+      "relation": "发病趋势",
+      "tail": "发病率持续上升，年均增长3-4%",
+      "source": "国家癌症中心数据",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "中国女性乳腺癌",
+      "relation": "死亡率趋势",
+      "tail": "城市略有下降，农村仍在上升",
+      "source": "国家癌症中心数据",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "中国女性乳腺癌",
+      "relation": "5年生存率",
+      "tail": "83.2%（CONCORD-3），部分发达地区达90%以上",
+      "source": "CONCORD-3研究",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.92,
+      "update_date": "2026-05-08",
+      "pmid": "30527443"
+    },
+    {
+      "head": "中国女性乳腺癌",
+      "relation": "10年生存率",
+      "tail": "约70%",
+      "source": "中国癌症生存数据",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "遗传性比例",
+      "tail": "约5-10%",
+      "source": "NCCN/CSCO指南",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "BRCA1/2突变携带者",
+      "relation": "乳腺癌终生风险",
+      "tail": "BRCA1约55-72%，BRCA2约45-69%",
+      "source": "BCNC / NCCN指南",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.92,
+      "update_date": "2026-05-08",
+      "pmid": "24788364"
+    },
+    {
+      "head": "BRCA1/2突变携带者",
+      "relation": "卵巢癌终生风险",
+      "tail": "BRCA1约36-53%，BRCA2约11-23%",
+      "source": "BCNC / NCCN指南",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.92,
+      "update_date": "2026-05-08",
+      "pmid": "24788364"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "BRCA突变携带者对侧风险",
+      "tail": "BRCA1约33%，BRCA2约27%",
+      "source": "大型前瞻性队列研究",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.9,
+      "update_date": "2026-05-08",
+      "pmid": "24788364"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "月经初潮年龄",
+      "tail": "初潮年龄越早，发病风险越高",
+      "source": "流行病学研究",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "绝经年龄",
+      "tail": "绝经年龄越晚，发病风险越高",
+      "source": "流行病学研究",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.85,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "生育因素",
+      "tail": "未育/首胎>30岁风险增加",
+      "source": "流行病学研究",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "哺乳",
+      "tail": "每哺乳12月，风险降低约4.3%",
+      "source": "Lancet 2022",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.88,
+      "update_date": "2026-05-08",
+      "pmid": "35394189"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "肥胖",
+      "tail": "绝经后BMI>30风险约1.5-2倍",
+      "source": "WHO/IARC",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "饮酒",
+      "tail": "每日饮酒10g，风险增加约7-10%",
+      "source": "IARC / WCRF",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "吸烟",
+      "tail": "长期吸烟者风险增加约1.1-1.3倍",
+      "source": "IARC / WCRF",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.85,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "体力活动",
+      "tail": "每周中等强度运动150分钟可降低风险",
+      "source": "WCRF/AICR",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.85,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "地区差异",
+      "tail": "东部沿海>中部>西部",
+      "source": "中国肿瘤登记数据",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "城市vs农村",
+      "tail": "城市发病率约为农村1.5-2倍",
+      "source": "中国肿瘤登记年报",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "年轻乳腺癌",
+      "relation": "定义",
+      "tail": "发病年龄<35岁或<40岁",
+      "source": "CSCO/ESMO指南",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "年轻乳腺癌",
+      "relation": "特点",
+      "tail": "分化差、Ki-67高、BRCA突变比例高",
+      "source": "CSCO年轻乳腺癌专家共识",
+      "evidence": "I级专家共识",
+      "domain": "epidemiology",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "老年乳腺癌",
+      "relation": "特点",
+      "tail": "HR阳性比例高、HER2阳性比例低、生物学行为相对惰性",
+      "source": "CSCO老年肿瘤指南",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "男性乳腺癌",
+      "relation": "比例",
+      "tail": "约占全部乳腺癌<1%",
+      "source": "SEER数据库",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "男性乳腺癌",
+      "relation": "BRCA2突变比例",
+      "tail": "约10-15%",
+      "source": "NCCN遗传性乳腺癌指南",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "男性乳腺癌",
+      "relation": "HR阳性比例",
+      "tail": "约90%为ER阳性",
+      "source": "SEER / 流行病学研究",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "TNBC",
+      "relation": "比例",
+      "tail": "占全部乳腺癌约10-15%",
+      "source": "GLOBOCAN / NCCN",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "TNBC",
+      "relation": "特点",
+      "tail": "侵袭性强、预后差、易复发转移",
+      "source": "NCCN/CSCO TNBC指南",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "TNBC",
+      "relation": "脑转移风险",
+      "tail": "高于非TNBC",
+      "source": "NCCN脑转移指南",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "TNBC",
+      "relation": "肺/肝转移风险",
+      "tail": "高于Luminal型",
+      "source": "临床研究数据",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "早期乳腺癌",
+      "relation": "局部复发率",
+      "tail": "规范治疗后5年局部复发率<5%",
+      "source": "EBCTCG meta分析",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "早期乳腺癌",
+      "relation": "远处转移率",
+      "tail": "约20-30%最终出现远处转移",
+      "source": "EBCTCG / 临床研究",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "转移性乳腺癌",
+      "relation": "中位OS",
+      "tail": "约2-3年（HR+/HER2-），TNBC约1-2年",
+      "source": "CSCO/ESMO转移性乳腺癌指南",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.85,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "中国乳腺癌筛查",
+      "relation": "推荐年龄",
+      "tail": "40-69岁女性每1-2年钼靶筛查",
+      "source": "国家卫健委两癌筛查方案",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "高危女性",
+      "relation": "筛查方式",
+      "tail": "每年钼靶+乳腺超声，必要时MRI",
+      "source": "CSCO/NCCN高危筛查指南",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "BRCA突变携带者",
+      "relation": "乳腺癌筛查起始年龄",
+      "tail": "25岁或家族最早发病年龄前5年",
+      "source": "NCCN遗传性乳腺癌指南",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "BRCA突变携带者",
+      "relation": "预防性输卵管卵巢切除",
+      "tail": "BRCA1建议35-40岁，BRCA2建议40-45岁",
+      "source": "NCCN/ESMO预防指南",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌患者",
+      "relation": "支持性护理需求",
+      "tail": "疼痛管理/心理支持/淋巴水肿管理/生育咨询",
+      "source": "CSCO支持治疗指南/NCCN Survivorship指南",
+      "evidence": "I级专家共识",
+      "domain": "support_care",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌术后",
+      "relation": "淋巴水肿风险",
+      "tail": "腋窝淋巴结清扫后约20-30%发生淋巴水肿",
+      "source": "CSCO/NCCN survivorship指南",
+      "evidence": "I级",
+      "domain": "support_care",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌术后淋巴水肿",
+      "relation": "管理",
+      "tail": "综合消肿治疗(CDT)：手法淋巴引流+加压包扎+功能锻炼",
+      "source": "CSCO/NCCN survivorship指南",
+      "evidence": "I级",
+      "domain": "support_care",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "化疗后",
+      "relation": "认知功能障碍",
+      "tail": "约30-70%患者出现化疗相关认知功能障碍",
+      "source": "CSCO/NCCN survivorship指南",
+      "evidence": "I级专家共识",
+      "domain": "support_care",
+      "confidence": 0.85,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌治疗",
+      "relation": "骨质疏松风险",
+      "tail": "内分泌治疗(尤其是OFS+AI)显著增加骨质疏松风险",
+      "source": "CSCO/NCCN survivorship指南",
+      "evidence": "I级",
+      "domain": "support_care",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌患者",
+      "relation": "骨密度监测",
+      "tail": "内分泌治疗期间每年监测BMD",
+      "source": "CSCO/NCCN survivorship指南",
+      "evidence": "I级专家共识",
+      "domain": "support_care",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌治疗后",
+      "relation": "性功能影响",
+      "tail": "手术/内分泌治疗/化疗可导致性功能障碍",
+      "source": "CSCO/NCCN survivorship指南",
+      "evidence": "I级专家共识",
+      "domain": "support_care",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌患者",
+      "relation": "心理支持需求",
+      "tail": "约30-40%患者出现焦虑/抑郁症状",
+      "source": "CSCO/NCCN survivorship指南",
+      "evidence": "I级专家共识",
+      "domain": "support_care",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "体力活动推荐",
+      "tail": "每周至少150分钟中等强度有氧运动",
+      "source": "WCRF/AICR / ACS指南",
+      "evidence": "I级",
+      "domain": "support_care",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌患者",
+      "relation": "体重管理",
+      "tail": "维持BMI 18.5-25，避免肥胖",
+      "source": "WCRF/AICR / ACS指南",
+      "evidence": "I级",
+      "domain": "support_care",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌患者",
+      "relation": "戒烟建议",
+      "tail": "确诊后戒烟可降低复发风险和死亡率",
+      "source": "ACS/ESMO survivorship指南",
+      "evidence": "I级",
+      "domain": "support_care",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌治疗",
+      "relation": "更年期症状管理",
+      "tail": "非激素治疗优先，必要时在严格监测下使用激素治疗",
+      "source": "CSCO/NCCN survivorship指南",
+      "evidence": "I级专家共识",
+      "domain": "support_care",
+      "confidence": 0.85,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌患者",
+      "relation": "随访频率",
+      "tail": "前2-3年每3-6个月，之后每6-12个月",
+      "source": "CSCO/NCCN随访指南",
+      "evidence": "I级专家共识",
+      "domain": "support_care",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌患者",
+      "relation": "随访检查",
+      "tail": "病史+体格检查±影像学检查(根据分期和症状)",
+      "source": "CSCO/NCCN随访指南",
+      "evidence": "I级专家共识",
+      "domain": "support_care",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌患者",
+      "relation": "肿瘤标志物监测",
+      "tail": "CA15-3/CEA可辅助监测，但不能替代影像学",
+      "source": "CSCO/NCCN随访指南",
+      "evidence": "I级专家共识",
+      "domain": "support_care",
+      "confidence": 0.85,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "遗传咨询指征",
+      "tail": "≤50岁发病/双侧/男性/家族史/BRCA相关肿瘤史",
+      "source": "NCCN遗传性乳腺癌指南",
+      "evidence": "I级",
+      "domain": "genetic_counseling",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "遗传检测前咨询",
+      "tail": "应充分告知检测意义、局限性和潜在心理影响",
+      "source": "NCCN遗传性乳腺癌指南",
+      "evidence": "I级专家共识",
+      "domain": "genetic_counseling",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "多学科团队(MDT)",
+      "tail": "推荐所有乳腺癌患者经MDT讨论后制定治疗方案",
+      "source": "CSCO/NCCN指南",
+      "evidence": "I级专家共识",
+      "domain": "multidisciplinary",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌MDT",
+      "relation": "参与学科",
+      "tail": "乳腺外科/肿瘤内科/放疗科/病理科/影像科/心理科等",
+      "source": "CSCO/NCCN指南",
+      "evidence": "I级专家共识",
+      "domain": "multidisciplinary",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "生活质量评估工具",
+      "tail": "EORTC QLQ-BR23/FACT-B等",
+      "source": "CSCO/NCCN QoL评估指南",
+      "evidence": "II级专家共识",
+      "domain": "support_care",
+      "confidence": 0.82,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "TNBC",
+      "relation": "PD-L1检测",
+      "tail": "CPS≥10可考虑免疫治疗(KEYNOTE-522/355)",
+      "source": "CSCO 2025指南",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "钆塞健(Goserelin)用法",
+      "tail": "3.6mg皮下注射，每28天一次",
+      "source": "CSCO内分泌治疗指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "化疗相关恶心呕吐预防",
+      "tail": "5-HT3拮抗剂+地塞米松+NK-1拮抗剂等",
+      "source": "CSCO/NCCN止吐指南",
+      "evidence": "I级",
+      "domain": "support_care",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "化疗相关骨髓抑制",
+      "tail": "粒细胞集落刺激因子(G-CSF)预防性使用",
+      "source": "CSCO/NCCN骨髓抑制管理指南",
+      "evidence": "I级",
+      "domain": "support_care",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "免疫治疗相关不良反应",
+      "tail": "肺炎/肝炎/结肠炎/内分泌疾病等",
+      "source": "CSCO/NCCN免疫治疗毒性管理指南",
+      "evidence": "I级",
+      "domain": "support_care",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌ADC药物治疗",
+      "relation": "间质性肺病风险",
+      "tail": "T-DXd可引起间质性肺病(ILD)，需密切监测",
+      "source": "DESTINY系列研究安全性数据",
+      "evidence": "I级",
+      "domain": "support_care",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌ADC药物治疗",
+      "relation": "中性粒细胞减少症",
+      "tail": "戈沙妥珠单抗可引起3-4级中性粒细胞减少",
+      "source": "TROPiCS-02/ASCENT研究",
+      "evidence": "I级",
+      "domain": "support_care",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌ADC药物治疗",
+      "relation": "腹泻不良反应",
+      "tail": "戈沙妥珠单抗可引起中重度腹泻，需预处理用药",
+      "source": "TROPiCS-02/ASCENT研究",
+      "evidence": "I级",
+      "domain": "support_care",
+      "confidence": 0.85,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "中医中药治疗",
+      "tail": "可辅助改善症状、减轻放化疗不良反应",
+      "source": "CSCO中西医结合指南",
+      "evidence": "II级专家共识",
+      "domain": "support_care",
+      "confidence": 0.75,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌远处转移",
+      "relation": "常见转移部位",
+      "tail": "骨(约70%)>肺>肝>脑>远处淋巴结",
+      "source": "CSCO/NCCN MBC指南",
+      "evidence": "I级",
+      "domain": "epidemiology",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌骨转移",
+      "relation": "治疗",
+      "tail": "骨改良药物每3-6月一次，持续至疾病进展或不可耐受毒性",
+      "source": "CSCO/NCCN骨转移指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌骨转移",
+      "relation": "骨相关事件(SRE)",
+      "tail": "病理性骨折/脊髓压迫/骨放疗/骨手术",
+      "source": "CSCO/NCCN骨转移指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌肺转移",
+      "relation": "治疗原则",
+      "tail": "根据分子分型和既往治疗史制定全身治疗方案",
+      "source": "CSCO/NCCN MBC指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌肝转移",
+      "relation": "预后",
+      "tail": "中位OS约6-12月(HR+)，TNBC约3-6月",
+      "source": "CSCO/NCCN MBC指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.85,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌脑转移",
+      "relation": "治疗",
+      "tail": "局部治疗(手术/放疗)+全身治疗",
+      "source": "CSCO/NCCN CNS转移指南",
+      "evidence": "I级",
+      "domain": "treatment",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HR+/HER2-晚期",
+      "relation": "CDK4/6抑制剂耐药后",
+      "tail": "换用另一种CDK4/6抑制剂可能获益(CDK4/6i rechallenge)",
+      "source": "MAINTAIN/PACE研究",
+      "evidence": "II级",
+      "domain": "clinical_trials",
+      "confidence": 0.82,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HR+/HER2-晚期",
+      "relation": "CDK4/6抑制剂耐药后",
+      "tail": "可选化疗/内分泌单药/ADC类药物",
+      "source": "CSCO 2025指南",
+      "evidence": "I级专家共识",
+      "domain": "treatment",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "HER2+脑转移",
+      "relation": "T-DXd颅内活性",
+      "tail": "DESTINY-Breast03 CNS分析显示颅内PFS改善",
+      "source": "DESTINY-Breast03 CNS分析",
+      "evidence": "II级",
+      "domain": "clinical_trials",
+      "confidence": 0.85,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "TNBC脑转移",
+      "relation": "治疗",
+      "tail": "化疗±局部放疗",
+      "source": "CSCO/NCCN CNS转移指南",
+      "evidence": "I级专家共识",
+      "domain": "treatment",
+      "confidence": 0.85,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "心脏毒性监测",
+      "tail": "曲妥珠单抗/帕妥珠单抗治疗期间每3月监测LVEF",
+      "source": "CSCO/NCCN心血管毒性管理指南",
+      "evidence": "I级",
+      "domain": "support_care",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "蒽环类心脏毒性预防",
+      "tail": "右丙亚胺(dexrazoxane)可用于预防",
+      "source": "CSCO/NCCN心脏毒性管理指南",
+      "evidence": "I级",
+      "domain": "support_care",
+      "confidence": 0.88,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌患者",
+      "relation": "生育咨询时机",
+      "tail": "治疗开始前(化疗/OFS前)完成生育力保存咨询",
+      "source": "CSCO/NCCN生育力保护指南",
+      "evidence": "I级",
+      "domain": "support_care",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌患者",
+      "relation": "妊娠期治疗",
+      "tail": "妊娠中晚期可谨慎使用化疗(不含甲氨蝶呤)",
+      "source": "CSCO/NCCN妊娠期肿瘤指南",
+      "evidence": "II级专家共识",
+      "domain": "treatment",
+      "confidence": 0.82,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "患者报告结局(PRO)",
+      "tail": "推荐在临床试验和临床实践中收集PRO数据",
+      "source": "FDA PRO指南/CSCO指南",
+      "evidence": "II级专家共识",
+      "domain": "support_care",
+      "confidence": 0.8,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "数字健康技术",
+      "tail": "可穿戴设备和APP用于症状监测和康复指导",
+      "source": "NCCN数字健康指南",
+      "evidence": "II级专家共识",
+      "domain": "support_care",
+      "confidence": 0.75,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "新型病理评估指标",
+      "tail": "肿瘤浸润淋巴细胞(TILs)在新辅助治疗后预后价值",
+      "source": "KEYNOTE-522/IMpassion130 TILs分析",
+      "evidence": "II级",
+      "domain": "biomarkers",
+      "confidence": 0.82,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "乳腺癌",
+      "relation": "多基因表达检测",
+      "tail": "Oncotype DX/MammaPrint/EndoPredict/PAM50等",
+      "source": "CSCO/NCCN多基因预后评估指南",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
+    },
+    {
+      "head": "Oncotype DX RS<11",
+      "relation": "临床意义",
+      "tail": "极低危，可免除化疗",
+      "source": "TAILORx研究(RS<11亚组)",
+      "evidence": "I级",
+      "domain": "biomarkers",
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
     },
     {
       "head": "保乳手术",
@@ -493,7 +3568,8 @@
       "source": "CSCO/NCCN指南",
       "evidence": "保乳手术需满足肿瘤可完整切除且切缘阴性",
       "domain": "treatment",
-      "confidence": 0.95
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
     },
     {
       "head": "前哨淋巴结活检",
@@ -502,7 +3578,8 @@
       "source": "CSCO 2024指南",
       "evidence": "临床体检及影像学提示腋窝淋巴结阴性者可行SLNB",
       "domain": "treatment",
-      "confidence": 0.95
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
     },
     {
       "head": "新辅助治疗",
@@ -511,7 +3588,8 @@
       "source": "CSCO 2024指南",
       "evidence": "局部晚期或需要降期的乳腺癌可考虑新辅助治疗",
       "domain": "treatment",
-      "confidence": 0.92
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
     },
     {
       "head": "辅助治疗",
@@ -520,7 +3598,8 @@
       "source": "CSCO 2024指南",
       "evidence": "根据分子分型和分期进行辅助治疗分层决策",
       "domain": "treatment",
-      "confidence": 0.95
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
     },
     {
       "head": "全乳切除术",
@@ -529,7 +3608,8 @@
       "source": "NCCN指南",
       "evidence": "多灶性病变或BRCA突变携带者可能需要全切",
       "domain": "treatment",
-      "confidence": 0.9
+      "confidence": 0.9,
+      "update_date": "2026-05-08"
     },
     {
       "head": "放疗",
@@ -538,7 +3618,8 @@
       "source": "CSCO 2024指南",
       "evidence": "保乳手术后必须进行全乳放疗以降低局部复发",
       "domain": "treatment",
-      "confidence": 0.95
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
     },
     {
       "head": "放疗",
@@ -547,7 +3628,8 @@
       "source": "CSCO 2024指南",
       "evidence": "改良根治术后具有高危因素者应考虑胸壁放疗",
       "domain": "treatment",
-      "confidence": 0.92
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
     },
     {
       "head": "AC方案",
@@ -556,7 +3638,8 @@
       "source": "CSCO 2024指南",
       "evidence": "AC方案为常见蒽环类化疗方案",
       "domain": "treatment",
-      "confidence": 0.95
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
     },
     {
       "head": "TC方案",
@@ -565,7 +3648,8 @@
       "source": "CSCO 2024指南",
       "evidence": "TC方案是常用的不含蒽环类化疗方案",
       "domain": "treatment",
-      "confidence": 0.95
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
     },
     {
       "head": "紫杉醇",
@@ -574,7 +3658,8 @@
       "source": "CSCO 2024指南",
       "evidence": "紫杉醇可采用每周或每三周给药方案",
       "domain": "treatment",
-      "confidence": 0.92
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
     },
     {
       "head": "HR+绝经后早期",
@@ -583,7 +3668,8 @@
       "source": "CSCO 2024指南",
       "evidence": "AI类药物可延长治疗至10年以降低复发风险",
       "domain": "treatment",
-      "confidence": 0.92
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
     },
     {
       "head": "曲妥珠单抗",
@@ -593,6 +3679,7 @@
       "evidence": "曲妥珠单抗标准辅助治疗疗程为1年",
       "domain": "treatment",
       "confidence": 0.95,
+      "update_date": "2026-05-08",
       "pmid": "17452696"
     },
     {
@@ -602,7 +3689,8 @@
       "source": "CSCO 2024指南",
       "evidence": "曲帕双靶联合为HER2+乳腺癌标准治疗方案",
       "domain": "treatment",
-      "confidence": 0.95
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
     },
     {
       "head": "心功能监测",
@@ -611,7 +3699,8 @@
       "source": "CSCO 2024指南",
       "evidence": "蒽环类和曲妥珠单抗均可能引起心脏毒性，需监测LVEF",
       "domain": "treatment",
-      "confidence": 0.95
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
     },
     {
       "head": "戈舍瑞林",
@@ -620,7 +3709,8 @@
       "source": "CSCO 2024指南",
       "evidence": "戈舍瑞林通过抑制卵巢功能发挥去势作用",
       "domain": "treatment",
-      "confidence": 0.92
+      "confidence": 0.92,
+      "update_date": "2026-05-08"
     },
     {
       "head": "OFS",
@@ -630,6 +3720,7 @@
       "evidence": "OFS联合内分泌治疗适用于绝经前高危HR+患者",
       "domain": "treatment",
       "confidence": 0.9,
+      "update_date": "2026-05-08",
       "pmid": "25975048"
     },
     {
@@ -639,7 +3730,8 @@
       "source": "CSCO 2024指南",
       "evidence": "三种CDK4/6抑制剂均已获批用于HR+/HER2-乳腺癌",
       "domain": "treatment",
-      "confidence": 0.95
+      "confidence": 0.95,
+      "update_date": "2026-05-08"
     }
   ]
 }

@@ -1,0 +1,329 @@
+[
+  {
+    "head": "HR+/HER2-",
+    "relation": "新辅助内分泌治疗",
+    "tail": "绝经后患者可选AI类新辅助治疗",
+    "source": "CSCO/NCCN新辅助治疗指南",
+    "evidence": "I级专家共识",
+    "domain": "treatment",
+    "confidence": 0.88
+  },
+  {
+    "head": "TNBC新辅助",
+    "relation": "标准方案",
+    "tail": "dd AC-T（剂量密集蒽环+紫杉）或TAC",
+    "source": "CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.92
+  },
+  {
+    "head": "HER2+新辅助",
+    "relation": "标准方案",
+    "tail": "TCbHP或AC-THP",
+    "source": "CSCO 2025指南 / NCCN",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "保乳手术",
+    "relation": "绝对适应证",
+    "tail": "单发肿瘤、肿瘤/乳房比例适宜、切缘阴性可实现、术后可放疗",
+    "source": "CSCO/NCCN保乳手术指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "保乳手术",
+    "relation": "切缘要求",
+    "tail": "浸润性癌无瘤切缘（no ink on tumor）",
+    "source": "SSO/ASTRO指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "保乳手术",
+    "relation": "相对禁忌证",
+    "tail": "多中心病变、BRCA突变高危、妊娠期（可延期）",
+    "source": "CSCO/NCCN指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.90
+  },
+  {
+    "head": "前哨淋巴结活检",
+    "relation": "适应证",
+    "tail": "临床腋窝淋巴结阴性（cN0）",
+    "source": "CSCO/NCCN SLNB指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "前哨淋巴结阳性",
+    "relation": "SLNB后处理",
+    "tail": "1-2枚宏转移可不行腋窝清扫（ACOSOG Z0011条件）",
+    "source": "ACOSOG Z0011 / CSCO指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.92
+  },
+  {
+    "head": "腋窝淋巴结清扫",
+    "relation": "适应证",
+    "tail": "≥3枚前哨淋巴结阳性或肉眼可见融合",
+    "source": "CSCO/NCCN腋窝处理指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "全乳切除术",
+    "relation": "适应证",
+    "tail": "多中心病变、BRCA突变高危、无法保乳、拒绝保乳",
+    "source": "CSCO/NCCN手术指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.92
+  },
+  {
+    "head": "即刻乳房重建",
+    "relation": "适应证",
+    "tail": "全切且有重建意愿者可考虑",
+    "source": "CSCO/NCCN乳房重建指南",
+    "evidence": "I级专家共识",
+    "domain": "treatment",
+    "confidence": 0.88
+  },
+  {
+    "head": "保乳术后放疗",
+    "relation": "必须性",
+    "tail": "全乳放疗±瘤床加量可降低局部复发",
+    "source": "CSCO/NCCN放疗指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "保乳术后放疗",
+    "relation": "大分割方案",
+    "tail": "40-42.5Gy/15-16次可替代常规分割",
+    "source": "START/IMPORT研究",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.92
+  },
+  {
+    "head": "改良根治术后放疗",
+    "relation": "适应证",
+    "tail": "T3-4或N≥4枚阳性或切缘阳性/近阳性",
+    "source": "CSCO/NCCN放疗指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.92
+  },
+  {
+    "head": "区域淋巴结放疗",
+    "relation": "适应证",
+    "tail": "≥4枚淋巴结阳性或1-3枚高危因素",
+    "source": "MA.20 / EORTC 22922研究",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.90
+  },
+  {
+    "head": "AC-T方案",
+    "relation": "组成与疗程",
+    "tail": "阿霉素60mg/m²+环磷酰胺600mg/m² q3w×4→紫杉醇80mg/m² weekly×12",
+    "source": "CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "TC方案",
+    "relation": "组成与疗程",
+    "tail": "多西他赛75mg/m²+环磷酰胺600mg/m² q3w×4",
+    "source": "CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "CMF方案",
+    "relation": "组成与疗程",
+    "tail": "环磷酰胺+甲氨蝶呤+氟尿嘧啶×4-6周期",
+    "source": "CSCO/NCCN指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.90
+  },
+  {
+    "head": "dd AC-T方案",
+    "relation": "优势",
+    "tail": "剂量密集方案（2周方案）优于3周方案",
+    "source": "CALGB 9741研究",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.92,
+    "pmid": "12860940"
+  },
+  {
+    "head": "TCbHP方案",
+    "relation": "组成",
+    "tail": "多西他赛+卡铂+曲妥珠单抗+帕妥珠单抗",
+    "source": "CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "T-DM1",
+    "relation": "适应证",
+    "tail": "HER2+新辅助后未达pCR的辅助治疗",
+    "source": "CSCO/NCCN指南 / KATHERINE研究",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95,
+    "pmid": "30504463"
+  },
+  {
+    "head": "T-DXd",
+    "relation": "适应证",
+    "tail": "HER2+晚期二线及HER2低表达晚期",
+    "source": "CSCO 2025指南 / DESTINY系列研究",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "戈沙妥珠单抗",
+    "relation": "适应证",
+    "tail": "TNBC或HR+/HER2-经治转移性乳腺癌",
+    "source": "CSCO 2025指南 / TROPiCS-02 / ASCENT",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.92
+  },
+  {
+    "head": "戈舍瑞林",
+    "relation": "OFS代表药物",
+    "tail": "3.6mg q4w或10.8mg q12w皮下注射",
+    "source": "CSCO内分泌治疗指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.92
+  },
+  {
+    "head": "OFS",
+    "relation": "去势方式",
+    "tail": "药物去势（戈舍瑞林/亮丙瑞林）、手术去势、放疗去势",
+    "source": "CSCO/NCCN内分泌治疗指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.92
+  },
+  {
+    "head": "芳香化酶抑制剂",
+    "relation": "代表药物",
+    "tail": "来曲唑2.5mg/阿那曲唑1mg/依西美坦25mg qd",
+    "source": "CSCO内分泌治疗指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "他莫昔芬",
+    "relation": "适应证",
+    "tail": "绝经前/后HR+乳腺癌",
+    "source": "CSCO内分泌治疗指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "氟维司群",
+    "relation": "适应证",
+    "tail": "绝经后HR+绝经后乳腺癌内分泌治疗",
+    "source": "CSCO/NCCN内分泌治疗指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.92
+  },
+  {
+    "head": "CDK4/6抑制剂",
+    "relation": "哌柏西利用法",
+    "tail": "125mg d1-21 q28d，服药3周停1周",
+    "source": "PALOMA系列研究 / CSCO指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "CDK4/6抑制剂",
+    "relation": "瑞波西利用法",
+    "tail": "600mg d1-21 q28d",
+    "source": "MONALEESA系列研究 / CSCO指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "CDK4/6抑制剂",
+    "relation": "阿贝西利用法",
+    "tail": "150mg bid连续服用",
+    "source": "MONARCH系列研究 / CSCO指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "PARP抑制剂",
+    "relation": "奥拉帕利用法",
+    "tail": "300mg bid",
+    "source": "OlympiAD / OlympiA / CSCO指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.92
+  },
+  {
+    "head": "PARP抑制剂",
+    "relation": "Talazoparib用法",
+    "tail": "1mg qd（骨髓抑制较重）",
+    "source": "EMBRACA / CSCO指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.92
+  },
+  {
+    "head": "阿培利司",
+    "relation": "用法",
+    "tail": "300mg qd口服",
+    "source": "SOLAR-1 / CSCO指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.90
+  },
+  {
+    "head": "卡培他滨维持治疗",
+    "relation": "TNBC",
+    "tail": "新辅助后未pCR可辅助强化6-8周期",
+    "source": "CREATE-X研究 / CSCO指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.92,
+    "pmid": "28645999"
+  },
+  {
+    "head": "TNBC免疫治疗",
+    "relation": "PD-1抑制剂",
+    "tail": "帕博利珠单抗200mg q3w或400mg q6w",
+    "source": "KEYNOTE-522/355 / CSCO指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.92
+  }
+]

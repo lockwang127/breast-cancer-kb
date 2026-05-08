@@ -1,0 +1,352 @@
+[
+  {
+    "head": "HR+/HER2-早期高危",
+    "relation": "阿贝西利辅助治疗",
+    "tail": "monarchE研究：浸润性癌无复发生存率提升",
+    "source": "monarchE (NCT03155997) / NEJM",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.95,
+    "pmid": "33196156"
+  },
+  {
+    "head": "HR+/HER2-绝经后晚期",
+    "relation": "哌柏西利一线研究",
+    "tail": "PALOMA-2：中位PFS 24.8月 vs 14.5月",
+    "source": "PALOMA-2 (NCT01740427) / Lancet Oncol",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.95,
+    "pmid": "27406346"
+  },
+  {
+    "head": "HR+/HER2-绝经前晚期",
+    "relation": "瑞波西利一线研究",
+    "tail": "MONALEESA-7：中位OS 58.7月 vs 48.0月",
+    "source": "MONALEESA-7 (NCT02278120) / NEJM",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.95,
+    "pmid": "29658936"
+  },
+  {
+    "head": "HR+/HER2-绝经后晚期",
+    "relation": "阿贝西利+氟维司群研究",
+    "tail": "MONARCH-2：中位PFS 16.4月 vs 9.3月",
+    "source": "MONARCH-2 (NCT02107703) / JCO",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.95,
+    "pmid": "28476741"
+  },
+  {
+    "head": "PIK3CA突变HR+HER2-",
+    "relation": "阿培利司研究",
+    "tail": "SOLAR-1：中位PFS 11.0月 vs 5.7月",
+    "source": "SOLAR-1 (NCT02437318) / NEJM",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.90,
+    "pmid": "31658300"
+  },
+  {
+    "head": "HER2+晚期二线",
+    "relation": "T-DXd vs T-DM1研究",
+    "tail": "DESTINY-Breast03：中位PFS 28.8月 vs 6.8月",
+    "source": "DESTINY-Breast03 (NCT03529110) / NEJM",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.95,
+    "pmid": "34000629"
+  },
+  {
+    "head": "HER2低表达晚期",
+    "relation": "T-DXd研究",
+    "tail": "DESTINY-Breast04：中位OS 23.4月 vs 16.5月",
+    "source": "DESTINY-Breast04 (NCT03734029) / NEJM",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.95,
+    "pmid": "35727979"
+  },
+  {
+    "head": "HR+/HER2-经治晚期",
+    "relation": "戈沙妥珠单抗研究",
+    "tail": "TROPiCS-02：中位PFS 7.4月 vs 4.0月",
+    "source": "TROPiCS-02 (NCT04601351) / JCO",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.88,
+    "pmid": "35636684"
+  },
+  {
+    "head": "TNBC新辅助+辅助",
+    "relation": "帕博利珠单抗研究",
+    "tail": "KEYNOTE-522：pCR率64.8% vs 51.2%，3年EFS 84.5% vs 76.8%",
+    "source": "KEYNOTE-522 (NCT03036488) / NEJM",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.95,
+    "pmid": "33582491"
+  },
+  {
+    "head": "gBRCA突变高危早期",
+    "relation": "奥拉帕利辅助研究",
+    "tail": "OlympiA：3年iDFS 85.9% vs 77.1%",
+    "source": "OlympiA (NCT02032823) / NEJM",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.95,
+    "pmid": "33911091"
+  },
+  {
+    "head": "gBRCA突变HER2-晚期",
+    "relation": "奥拉帕利研究",
+    "tail": "OlympiAD：中位PFS 7.0月 vs 4.2月",
+    "source": "OlympiAD (NCT02000622) / NEJM",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.92,
+    "pmid": "29975758"
+  },
+  {
+    "head": "gBRCA突变HER2-晚期",
+    "relation": "Talazoparib研究",
+    "tail": "EMBRACA：中位PFS 8.6月 vs 5.6月",
+    "source": "EMBRACA (NCT01945775) / NEJM",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.92,
+    "pmid": "30128415"
+  },
+  {
+    "head": "HER2+新辅助后未pCR",
+    "relation": "T-DM1辅助研究",
+    "tail": "KATHERINE：3年iDFS 88.3% vs 77.0%",
+    "source": "KATHERINE (NCT01772472) / NEJM",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.95,
+    "pmid": "30504463"
+  },
+  {
+    "head": "TNBC新辅助后未pCR",
+    "relation": "卡培他滨辅助研究",
+    "tail": "CREATE-X：5年DFS 74.8% vs 70.3%",
+    "source": "CREATE-X (UMIN000001843) / NEJM",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.92,
+    "pmid": "28645999"
+  },
+  {
+    "head": "HER2+辅助双靶",
+    "relation": "APHINITY研究",
+    "tail": "6年iDFS 90.6% vs 87.8%（ITT）",
+    "source": "APHINITY (NCT01358869) / JCO",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.92,
+    "pmid": "28678982"
+  },
+  {
+    "head": "HR+/HER2-绝经后辅助",
+    "relation": "AI辅助疗效",
+    "tail": "ATAC/BIG 1-98：5年DFS改善，绝对获益2.8%",
+    "source": "ATAC/BIG 1-98研究 / Lancet",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.95
+  },
+  {
+    "head": "HR+绝经前高危",
+    "relation": "OFS强化研究",
+    "tail": "SOFT-TEXT：8年无乳腺癌复发率77.0% vs 71.3%",
+    "source": "SOFT-TEXT联合分析 / NEJM",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.92,
+    "pmid": "25975048"
+  },
+  {
+    "head": "HER2+晚期一线",
+    "relation": "CLEOPATRA研究更新",
+    "tail": "中位OS 57.1月 vs 40.8月",
+    "source": "CLEOPATRA (NCT00567190) / Lancet Oncol",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.95,
+    "pmid": "22689808"
+  },
+  {
+    "head": "HR+/HER2-内分泌耐药",
+    "relation": "图卡替尼+卡培他滨+赫赛汀",
+    "tail": "HER2CLIMB：中位OS 24.7月 vs 19.2月",
+    "source": "HER2CLIMB (NCT03104717) / NEJM",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.88,
+    "pmid": "31825569"
+  },
+  {
+    "head": "HR+/HER2-早期高危",
+    "relation": "哌柏西利辅助研究",
+    "tail": "PALLAS：未达iDFS终点",
+    "source": "PALLAS (NCT02513394) / JCO",
+    "evidence": "III级（阴性）",
+    "domain": "clinical_trials",
+    "confidence": 0.78
+  },
+  {
+    "head": "HR+/HER2-早期高危",
+    "relation": "瑞波西利辅助研究",
+    "tail": "NATALEE：3年iDFS 90.4% vs 87.1%",
+    "source": "NATALEE (NCT03701334) / ESMO 2023",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.88
+  },
+  {
+    "head": "TNBC一线",
+    "relation": "阿替利珠单抗+化疗研究",
+    "tail": "IMpassion130：PD-L1阳性中位OS 25.4月 vs 17.9月",
+    "source": "IMpassion130 (NCT03125902) / NEJM",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.90,
+    "pmid": "30865788"
+  },
+  {
+    "head": "TNBC一线",
+    "relation": "帕博利珠单抗+化疗研究",
+    "tail": "KEYNOTE-355：中位OS 23.0月 vs 16.1月（CPS≥10）",
+    "source": "KEYNOTE-355 (NCT02819518) / ESMO 2023",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.90,
+    "pmid": "32846055"
+  },
+  {
+    "head": "HER2+脑转移",
+    "relation": "图卡替尼研究",
+    "tail": "HER2CLIMB脑转移队列：OS改善",
+    "source": "HER2CLIMB (NCT03104717)",
+    "evidence": "II级",
+    "domain": "clinical_trials",
+    "confidence": 0.85,
+    "pmid": "31825569"
+  },
+  {
+    "head": "HR+/HER2-经治晚期",
+    "relation": "戈沙妥珠单抗序贯研究",
+    "tail": "ASCENT：中位OS 11.1月 vs 6.9月（Trop-2高表达TNBC）",
+    "source": "ASCENT (NCT02574455) / NEJM",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.92,
+    "pmid": "33839994"
+  },
+  {
+    "head": "HER2+晚期三线及以后",
+    "relation": "T-DXd研究",
+    "tail": "DESTINY-Breast01：ORR 62%，中位PFS 19.4月",
+    "source": "DESTINY-Breast01 (NCT03248492) / NEJM",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.95,
+    "pmid": "31933894"
+  },
+  {
+    "head": "HR+/HER2-绝经后辅助",
+    "relation": "CDK4/6辅助延长研究",
+    "tail": "MA.17R：来曲唑延长5年vs安慰剂，DFS改善",
+    "source": "MA.17R (NCT008540309)",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.88
+  },
+  {
+    "head": "BRCA突变乳腺癌",
+    "relation": "对侧预防性手术",
+    "tail": "BRCA1/2突变者对侧乳腺癌风险显著降低",
+    "source": "多项大型回顾性研究",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.90,
+    "pmid": "24788364"
+  },
+  {
+    "head": "HR+/HER2-绝经前",
+    "relation": "CDK4/6抑制剂一线",
+    "tail": "MONALEESA-3：中位OS 53.7月 vs 41.5月",
+    "source": "MONALEESA-3 (NCT02422615) / JCO",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.92,
+    "pmid": "31577366"
+  },
+  {
+    "head": "HER2低表达",
+    "relation": "戈沙妥珠单抗研究",
+    "tail": "TROPiCS-02 HER2低表达亚组获益",
+    "source": "TROPiCS-02 (NCT04601351)",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.88
+  },
+  {
+    "head": "三阴性乳腺癌",
+    "relation": "SGARDI研究",
+    "tail": "戈沙妥珠单抗+ pembrolizumab一线显示活性",
+    "source": "NCT04448856",
+    "evidence": "II级",
+    "domain": "clinical_trials",
+    "confidence": 0.82
+  },
+  {
+    "head": "HR+/HER2-",
+    "relation": "elacestrant研究",
+    "tail": "EMERALD：中位PFS 2.8月 vs 1.9月（既往CDK4/6i）",
+    "source": "EMERALD (NCT03778931) / JCO",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.85,
+    "pmid": "36637204"
+  },
+  {
+    "head": "HER2+晚期",
+    "relation": "图卡替尼一线研究",
+    "tail": "HER2CLIMB-002：图卡替尼+化疗+赫赛汀",
+    "source": "HER2CLIMB-002 (NCT03975647)",
+    "evidence": "II级",
+    "domain": "clinical_trials",
+    "confidence": 0.82
+  },
+  {
+    "head": "BRCA突变HER2-/HR+",
+    "relation": "PARP抑制剂联合",
+    "tail": "BROCADE3：维利帕尼+化疗",
+    "source": "BROCADE3 (NCT01506609)",
+    "evidence": "II级",
+    "domain": "clinical_trials",
+    "confidence": 0.80
+  },
+  {
+    "head": "HR+/HER2-晚期",
+    "relation": "PI3K/AKT通路抑制",
+    "tail": "BYL719+氟维司群（AKT抑制剂在研）",
+    "source": "NCT02423603",
+    "evidence": "II级",
+    "domain": "clinical_trials",
+    "confidence": 0.80
+  },
+  {
+    "head": "HER2+新辅助",
+    "relation": "T-DXd vs THP研究",
+    "tail": "DESTINY-Breast11：T-DXd vs HP+pCR率比较",
+    "source": "DESTINY-Breast11 (NCT05113290)",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.85
+  }
+]

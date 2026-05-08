@@ -1,0 +1,434 @@
+[
+  {
+    "head": "乳腺癌患者",
+    "relation": "支持性护理需求",
+    "tail": "疼痛管理/心理支持/淋巴水肿管理/生育咨询",
+    "source": "CSCO支持治疗指南/NCCN Survivorship指南",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.90
+  },
+  {
+    "head": "乳腺癌术后",
+    "relation": "淋巴水肿风险",
+    "tail": "腋窝淋巴结清扫后约20-30%发生淋巴水肿",
+    "source": "CSCO/NCCN survivorship指南",
+    "evidence": "I级",
+    "domain": "support_care",
+    "confidence": 0.88
+  },
+  {
+    "head": "乳腺癌术后淋巴水肿",
+    "relation": "管理",
+    "tail": "综合消肿治疗(CDT)：手法淋巴引流+加压包扎+功能锻炼",
+    "source": "CSCO/NCCN survivorship指南",
+    "evidence": "I级",
+    "domain": "support_care",
+    "confidence": 0.90
+  },
+  {
+    "head": "化疗后",
+    "relation": "认知功能障碍",
+    "tail": "约30-70%患者出现化疗相关认知功能障碍",
+    "source": "CSCO/NCCN survivorship指南",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.85
+  },
+  {
+    "head": "乳腺癌治疗",
+    "relation": "骨质疏松风险",
+    "tail": "内分泌治疗(尤其是OFS+AI)显著增加骨质疏松风险",
+    "source": "CSCO/NCCN survivorship指南",
+    "evidence": "I级",
+    "domain": "support_care",
+    "confidence": 0.90
+  },
+  {
+    "head": "乳腺癌患者",
+    "relation": "骨密度监测",
+    "tail": "内分泌治疗期间每年监测BMD",
+    "source": "CSCO/NCCN survivorship指南",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.92
+  },
+  {
+    "head": "乳腺癌治疗后",
+    "relation": "性功能影响",
+    "tail": "手术/内分泌治疗/化疗可导致性功能障碍",
+    "source": "CSCO/NCCN survivorship指南",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.88
+  },
+  {
+    "head": "乳腺癌患者",
+    "relation": "心理支持需求",
+    "tail": "约30-40%患者出现焦虑/抑郁症状",
+    "source": "CSCO/NCCN survivorship指南",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.88
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "体力活动推荐",
+    "tail": "每周至少150分钟中等强度有氧运动",
+    "source": "WCRF/AICR / ACS指南",
+    "evidence": "I级",
+    "domain": "support_care",
+    "confidence": 0.90
+  },
+  {
+    "head": "乳腺癌患者",
+    "relation": "体重管理",
+    "tail": "维持BMI 18.5-25，避免肥胖",
+    "source": "WCRF/AICR / ACS指南",
+    "evidence": "I级",
+    "domain": "support_care",
+    "confidence": 0.88
+  },
+  {
+    "head": "乳腺癌患者",
+    "relation": "戒烟建议",
+    "tail": "确诊后戒烟可降低复发风险和死亡率",
+    "source": "ACS/ESMO survivorship指南",
+    "evidence": "I级",
+    "domain": "support_care",
+    "confidence": 0.90
+  },
+  {
+    "head": "乳腺癌治疗",
+    "relation": "更年期症状管理",
+    "tail": "非激素治疗优先，必要时在严格监测下使用激素治疗",
+    "source": "CSCO/NCCN survivorship指南",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.85
+  },
+  {
+    "head": "乳腺癌患者",
+    "relation": "随访频率",
+    "tail": "前2-3年每3-6个月，之后每6-12个月",
+    "source": "CSCO/NCCN随访指南",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.92
+  },
+  {
+    "head": "乳腺癌患者",
+    "relation": "随访检查",
+    "tail": "病史+体格检查±影像学检查(根据分期和症状)",
+    "source": "CSCO/NCCN随访指南",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.90
+  },
+  {
+    "head": "乳腺癌患者",
+    "relation": "肿瘤标志物监测",
+    "tail": "CA15-3/CEA可辅助监测，但不能替代影像学",
+    "source": "CSCO/NCCN随访指南",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.85
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "遗传咨询指征",
+    "tail": "≤50岁发病/双侧/男性/家族史/BRCA相关肿瘤史",
+    "source": "NCCN遗传性乳腺癌指南",
+    "evidence": "I级",
+    "domain": "genetic_counseling",
+    "confidence": 0.92
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "遗传检测前咨询",
+    "tail": "应充分告知检测意义、局限性和潜在心理影响",
+    "source": "NCCN遗传性乳腺癌指南",
+    "evidence": "I级专家共识",
+    "domain": "genetic_counseling",
+    "confidence": 0.90
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "多学科团队(MDT)",
+    "tail": "推荐所有乳腺癌患者经MDT讨论后制定治疗方案",
+    "source": "CSCO/NCCN指南",
+    "evidence": "I级专家共识",
+    "domain": "multidisciplinary",
+    "confidence": 0.92
+  },
+  {
+    "head": "乳腺癌MDT",
+    "relation": "参与学科",
+    "tail": "乳腺外科/肿瘤内科/放疗科/病理科/影像科/心理科等",
+    "source": "CSCO/NCCN指南",
+    "evidence": "I级专家共识",
+    "domain": "multidisciplinary",
+    "confidence": 0.90
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "生活质量评估工具",
+    "tail": "EORTC QLQ-BR23/FACT-B等",
+    "source": "CSCO/NCCN QoL评估指南",
+    "evidence": "II级专家共识",
+    "domain": "support_care",
+    "confidence": 0.82
+  },
+  {
+    "head": "TNBC",
+    "relation": "PD-L1检测",
+    "tail": "CPS≥10可考虑免疫治疗(KEYNOTE-522/355)",
+    "source": "CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.90
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "钆塞健(Goserelin)用法",
+    "tail": "3.6mg皮下注射，每28天一次",
+    "source": "CSCO内分泌治疗指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "化疗相关恶心呕吐预防",
+    "tail": "5-HT3拮抗剂+地塞米松+NK-1拮抗剂等",
+    "source": "CSCO/NCCN止吐指南",
+    "evidence": "I级",
+    "domain": "support_care",
+    "confidence": 0.92
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "化疗相关骨髓抑制",
+    "tail": "粒细胞集落刺激因子(G-CSF)预防性使用",
+    "source": "CSCO/NCCN骨髓抑制管理指南",
+    "evidence": "I级",
+    "domain": "support_care",
+    "confidence": 0.90
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "免疫治疗相关不良反应",
+    "tail": "肺炎/肝炎/结肠炎/内分泌疾病等",
+    "source": "CSCO/NCCN免疫治疗毒性管理指南",
+    "evidence": "I级",
+    "domain": "support_care",
+    "confidence": 0.90
+  },
+  {
+    "head": "乳腺癌ADC药物治疗",
+    "relation": "间质性肺病风险",
+    "tail": "T-DXd可引起间质性肺病(ILD)，需密切监测",
+    "source": "DESTINY系列研究安全性数据",
+    "evidence": "I级",
+    "domain": "support_care",
+    "confidence": 0.88
+  },
+  {
+    "head": "乳腺癌ADC药物治疗",
+    "relation": "中性粒细胞减少症",
+    "tail": "戈沙妥珠单抗可引起3-4级中性粒细胞减少",
+    "source": "TROPiCS-02/ASCENT研究",
+    "evidence": "I级",
+    "domain": "support_care",
+    "confidence": 0.88
+  },
+  {
+    "head": "乳腺癌ADC药物治疗",
+    "relation": "腹泻不良反应",
+    "tail": "戈沙妥珠单抗可引起中重度腹泻，需预处理用药",
+    "source": "TROPiCS-02/ASCENT研究",
+    "evidence": "I级",
+    "domain": "support_care",
+    "confidence": 0.85
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "中医中药治疗",
+    "tail": "可辅助改善症状、减轻放化疗不良反应",
+    "source": "CSCO中西医结合指南",
+    "evidence": "II级专家共识",
+    "domain": "support_care",
+    "confidence": 0.75
+  },
+  {
+    "head": "乳腺癌远处转移",
+    "relation": "常见转移部位",
+    "tail": "骨(约70%)>肺>肝>脑>远处淋巴结",
+    "source": "CSCO/NCCN MBC指南",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.92
+  },
+  {
+    "head": "乳腺癌骨转移",
+    "relation": "治疗",
+    "tail": "骨改良药物每3-6月一次，持续至疾病进展或不可耐受毒性",
+    "source": "CSCO/NCCN骨转移指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.92
+  },
+  {
+    "head": "乳腺癌骨转移",
+    "relation": "骨相关事件(SRE)",
+    "tail": "病理性骨折/脊髓压迫/骨放疗/骨手术",
+    "source": "CSCO/NCCN骨转移指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.90
+  },
+  {
+    "head": "乳腺癌肺转移",
+    "relation": "治疗原则",
+    "tail": "根据分子分型和既往治疗史制定全身治疗方案",
+    "source": "CSCO/NCCN MBC指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.92
+  },
+  {
+    "head": "乳腺癌肝转移",
+    "relation": "预后",
+    "tail": "中位OS约6-12月(HR+)，TNBC约3-6月",
+    "source": "CSCO/NCCN MBC指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.85
+  },
+  {
+    "head": "乳腺癌脑转移",
+    "relation": "治疗",
+    "tail": "局部治疗(手术/放疗)+全身治疗",
+    "source": "CSCO/NCCN CNS转移指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.90
+  },
+  {
+    "head": "HR+/HER2-晚期",
+    "relation": "CDK4/6抑制剂耐药后",
+    "tail": "换用另一种CDK4/6抑制剂可能获益(CDK4/6i rechallenge)",
+    "source": "MAINTAIN/PACE研究",
+    "evidence": "II级",
+    "domain": "clinical_trials",
+    "confidence": 0.82
+  },
+  {
+    "head": "HR+/HER2-晚期",
+    "relation": "CDK4/6抑制剂耐药后",
+    "tail": "可选化疗/内分泌单药/ADC类药物",
+    "source": "CSCO 2025指南",
+    "evidence": "I级专家共识",
+    "domain": "treatment",
+    "confidence": 0.88
+  },
+  {
+    "head": "HER2+脑转移",
+    "relation": "T-DXd颅内活性",
+    "tail": "DESTINY-Breast03 CNS分析显示颅内PFS改善",
+    "source": "DESTINY-Breast03 CNS分析",
+    "evidence": "II级",
+    "domain": "clinical_trials",
+    "confidence": 0.85
+  },
+  {
+    "head": "TNBC脑转移",
+    "relation": "治疗",
+    "tail": "化疗±局部放疗",
+    "source": "CSCO/NCCN CNS转移指南",
+    "evidence": "I级专家共识",
+    "domain": "treatment",
+    "confidence": 0.85
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "心脏毒性监测",
+    "tail": "曲妥珠单抗/帕妥珠单抗治疗期间每3月监测LVEF",
+    "source": "CSCO/NCCN心血管毒性管理指南",
+    "evidence": "I级",
+    "domain": "support_care",
+    "confidence": 0.92
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "蒽环类心脏毒性预防",
+    "tail": "右丙亚胺(dexrazoxane)可用于预防",
+    "source": "CSCO/NCCN心脏毒性管理指南",
+    "evidence": "I级",
+    "domain": "support_care",
+    "confidence": 0.88
+  },
+  {
+    "head": "乳腺癌患者",
+    "relation": "生育咨询时机",
+    "tail": "治疗开始前(化疗/OFS前)完成生育力保存咨询",
+    "source": "CSCO/NCCN生育力保护指南",
+    "evidence": "I级",
+    "domain": "support_care",
+    "confidence": 0.92
+  },
+  {
+    "head": "乳腺癌患者",
+    "relation": "妊娠期治疗",
+    "tail": "妊娠中晚期可谨慎使用化疗(不含甲氨蝶呤)",
+    "source": "CSCO/NCCN妊娠期肿瘤指南",
+    "evidence": "II级专家共识",
+    "domain": "treatment",
+    "confidence": 0.82
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "患者报告结局(PRO)",
+    "tail": "推荐在临床试验和临床实践中收集PRO数据",
+    "source": "FDA PRO指南/CSCO指南",
+    "evidence": "II级专家共识",
+    "domain": "support_care",
+    "confidence": 0.80
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "数字健康技术",
+    "tail": "可穿戴设备和APP用于症状监测和康复指导",
+    "source": "NCCN数字健康指南",
+    "evidence": "II级专家共识",
+    "domain": "support_care",
+    "confidence": 0.75
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "新型病理评估指标",
+    "tail": "肿瘤浸润淋巴细胞(TILs)在新辅助治疗后预后价值",
+    "source": "KEYNOTE-522/IMpassion130 TILs分析",
+    "evidence": "II级",
+    "domain": "biomarkers",
+    "confidence": 0.82
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "多基因表达检测",
+    "tail": "Oncotype DX/MammaPrint/EndoPredict/PAM50等",
+    "source": "CSCO/NCCN多基因预后评估指南",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.90
+  },
+  {
+    "head": "Oncotype DX RS<11",
+    "relation": "临床意义",
+    "tail": "极低危，可免除化疗",
+    "source": "TAILORx研究(RS<11亚组)",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.92
+  }
+]

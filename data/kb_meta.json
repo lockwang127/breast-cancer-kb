@@ -1,39 +1,31 @@
 {
-  "name": "乳腺癌知识库",
-  "name_en": "Breast Cancer Knowledge Base",
   "version": "1.0.0",
-  "build_date": "2026-05-08T11:09:16.896756",
-  "total_triplets": 68,
-  "total_domains": 4,
-  "domains": [
-    {
-      "id": "epidemiology",
-      "name": "流行病学",
-      "triplet_count": 17
-    },
-    {
-      "id": "biomarkers",
-      "name": "分子分型与生物标志物",
-      "triplet_count": 17
-    },
-    {
-      "id": "csco_2024",
-      "name": "CSCO 2024指南推荐",
-      "triplet_count": 17
-    },
-    {
-      "id": "treatment",
-      "name": "治疗方案",
-      "triplet_count": 17
-    }
-  ],
-  "confidence_stats": {
-    "average": 0.917,
-    "min": 0.85,
-    "max": 0.95
+  "update_date": "2026-05-08",
+  "total_entries": 364,
+  "duplicates_removed": 0,
+  "source_files": {
+    "biomarkers.json": 17,
+    "csco_2024.json": 17,
+    "epidemiology.json": 17,
+    "extra_batch.json": 38,
+    "extra_batch2.json": 30,
+    "literature_batch_csco_2025.json": 37,
+    "literature_batch_molecular.json": 36,
+    "literature_batch_nccn_esmo.json": 36,
+    "literature_batch_new_targets.json": 36,
+    "literature_batch_rwe.json": 35,
+    "literature_batch_support_care.json": 48,
+    "treatment.json": 17
   },
-  "citation_stats": {
-    "total_papers": 21,
-    "papers_with_pmid": 29
+  "domains": {
+    "biomarkers": 68,
+    "csco_2024": 17,
+    "epidemiology": 57,
+    "treatment": 94,
+    "clinical_trials": 45,
+    "support_care": 38,
+    "genetic_counseling": 6,
+    "csco_2025": 37,
+    "multidisciplinary": 2
   }
 }

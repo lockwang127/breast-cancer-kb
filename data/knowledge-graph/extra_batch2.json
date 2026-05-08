@@ -1,0 +1,273 @@
+[
+  {
+    "head": "乳腺癌",
+    "relation": "HR阳性定义",
+    "tail": "ER≥1%或PR≥1%即为HR阳性",
+    "source": "ASCO/CAP ER/PR指南",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.95
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "HER2阳性定义",
+    "tail": "IHC 3+或IHC 2+且FISH扩增",
+    "source": "ASCO/CAP HER2指南",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.95
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "Ki-67评估要求",
+    "tail": "报告hot spot区域的平均阳性率",
+    "source": "St. Gallen共识",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.92
+  },
+  {
+    "head": "BRCA1突变",
+    "relation": "乳腺癌风险",
+    "tail": "终生风险约55-72%",
+    "source": "BCNC / NCCN遗传性乳腺癌指南",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.92
+  },
+  {
+    "head": "BRCA2突变",
+    "relation": "乳腺癌风险",
+    "tail": "终生风险约45-69%",
+    "source": "BCNC / NCCN遗传性乳腺癌指南",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.92
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "BRCA突变携带者",
+    "relation_detail": "生育计划",
+    "tail": "建议生育前完成遗传咨询",
+    "source": "NCCN遗传性乳腺癌指南",
+    "evidence": "I级专家共识",
+    "domain": "genetic_counseling",
+    "confidence": 0.90
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "基因检测时机",
+    "tail": "初诊时即应评估是否需要遗传咨询",
+    "source": "CSCO/NCCN遗传性乳腺癌指南",
+    "evidence": "I级专家共识",
+    "domain": "genetic_counseling",
+    "confidence": 0.92
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "HR+/HER2-高危定义",
+    "tail": "≥4枚淋巴结阳性或1-3枚伴高危因素",
+    "source": "CSCO 2025指南 / monarchE研究",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "CDK4/6i辅助治疗",
+    "tail": "阿贝西利150mg bid持续2年",
+    "source": "monarchE研究 / CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "TNBC",
+    "relation": "新辅助治疗标准方案",
+    "tail": "帕博利珠单抗+紫杉醇+卡铂→AC（KEYNOTE-522）",
+    "source": "KEYNOTE-522 / CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "TNBC",
+    "relation": "PD-L1检测",
+    "tail": "CPS≥10为免疫治疗优势人群",
+    "source": "KEYNOTE-522/355 / CSCO指南",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.90
+  },
+  {
+    "head": "HER2+",
+    "relation": "新辅助治疗",
+    "tail": "TCbHP方案（多西他赛+卡铂+曲帕双靶）",
+    "source": "CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "HER2+新辅助后",
+    "relation": "未达pCR",
+    "tail": "T-DM1辅助强化14周期",
+    "source": "KATHERINE研究 / CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "HER2+",
+    "relation": "辅助靶向治疗",
+    "tail": "紫杉类+曲妥珠单抗1年(AC-TH)或TCbH",
+    "source": "CSCO/NCCN 2025指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "BRCA突变HER2-",
+    "relation": "辅助奥拉帕利",
+    "tail": "gBRCA1/2突变高危患者可获益",
+    "source": "OlympiA研究 / CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "HR+/HER2-绝经后",
+    "relation": "辅助内分泌",
+    "tail": "AI类5年，高危可延长至10年",
+    "source": "CSCO 2025指南 / MA.17R",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "HR+绝经前高危",
+    "relation": "OFS+内分泌",
+    "tail": "SOFT-TEXT研究支持",
+    "source": "SOFT-TEXT / CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "BRCA突变HER2-晚期",
+    "relation": "PARP抑制剂",
+    "tail": "奥拉帕利或talazoparib",
+    "source": "OlympiAD/EMBRACA / CSCO指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "PIK3CA突变HR+",
+    "relation": "靶向治疗",
+    "tail": "阿培利司+氟维司群",
+    "source": "SOLAR-1 / CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.90
+  },
+  {
+    "head": "HER2低表达",
+    "relation": "ADC治疗",
+    "tail": "T-DXd（DESTINY-Breast04）",
+    "source": "DESTINY-Breast04 / CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "TNBC经治晚期",
+    "relation": "戈沙妥珠单抗",
+    "tail": "SG用于≥2线化疗后",
+    "source": "ASCENT / CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.92
+  },
+  {
+    "head": "HER2+晚期二线",
+    "relation": "T-DXd",
+    "tail": "DB-03研究支持",
+    "source": "DESTINY-Breast03 / CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "HR+/HER2-",
+    "relation": "CDK4/6i一线",
+    "tail": "哌柏西利/瑞波西利/阿贝西利均可选",
+    "source": "PALOMA/MONALEESA/monarchE / CSCO指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "乳腺癌骨转移",
+    "relation": "骨改良药",
+    "tail": "地舒单抗120mg SC q4w或唑来膦酸4mg q3-4w",
+    "source": "CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.92
+  },
+  {
+    "head": "乳腺癌脑转移",
+    "relation": "治疗原则",
+    "tail": "寡转移可SRS，多发考虑WBRT",
+    "source": "NCCN CNS / CSCO指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.90
+  },
+  {
+    "head": "HER2+脑转移",
+    "relation": "图卡替尼",
+    "tail": "HER2CLIMB研究支持颅内获益",
+    "source": "HER2CLIMB / CSCO指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.88
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "保乳手术",
+    "tail": "切缘无瘤（no ink on tumor）",
+    "source": "SSO/ASTRO指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "前哨淋巴结活检",
+    "tail": "cN0患者可行SLNB",
+    "source": "CSCO/NCCN指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "保乳术后放疗",
+    "tail": "全乳放疗±瘤床加量",
+    "source": "CSCO/NCCN放疗指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "大分割放疗",
+    "tail": "40-42.5Gy/15-16次可替代常规分割",
+    "source": "START/IMPORT研究",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.92
+  }
+]

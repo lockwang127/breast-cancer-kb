@@ -1,0 +1,337 @@
+[
+  {
+    "head": "HR+/HER2-",
+    "relation": "分子分型参考",
+    "tail": "Luminal A型：ER+/PR≥20%，HER2-，Ki-67低",
+    "source": "St. Gallen 2023共识",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.92
+  },
+  {
+    "head": "HR+/HER2-",
+    "relation": "分子分型参考",
+    "tail": "Luminal B型：ER+/HER2-，Ki-67高或PR低",
+    "source": "St. Gallen 2023共识",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.92
+  },
+  {
+    "head": "HR+/HER2+",
+    "relation": "分子分型参考",
+    "tail": "Luminal HER2型：ER+，HER2+",
+    "source": "St. Gallen共识",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.90
+  },
+  {
+    "head": "HER2低表达",
+    "relation": "定义",
+    "tail": "IHC 1+或IHC 2+/FISH-",
+    "source": "ASCO/CAP HER2检测指南更新",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.95,
+    "pmid": "27535145"
+  },
+  {
+    "head": "HER2零表达",
+    "relation": "定义",
+    "tail": "IHC 0",
+    "source": "ASCO/CAP HER2检测指南",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.95
+  },
+  {
+    "head": "Ki-67",
+    "relation": "中表达阈值",
+    "tail": "14-30%为中间表达",
+    "source": "St. Gallen 2023",
+    "evidence": "I级专家共识",
+    "domain": "biomarkers",
+    "confidence": 0.85
+  },
+  {
+    "head": "BRCA1突变",
+    "relation": "相关乳腺癌亚型",
+    "tail": "三阴性/基底样型为主（60-80%）",
+    "source": "流行病学研究 / NCCN指南",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.92,
+    "pmid": "24788364"
+  },
+  {
+    "head": "BRCA2突变",
+    "relation": "相关乳腺癌亚型",
+    "tail": "Luminal型为主（70-80%）",
+    "source": "流行病学研究 / NCCN指南",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.90,
+    "pmid": "24788364"
+  },
+  {
+    "head": "PALB2突变",
+    "relation": "乳腺癌终生风险",
+    "tail": "约33-58%",
+    "source": "NCCN遗传性乳腺癌指南",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.88,
+    "pmid": "24788364"
+  },
+  {
+    "head": "CHEK2突变",
+    "relation": "乳腺癌终生风险",
+    "tail": "约20-40%",
+    "source": "NCCN遗传性乳腺癌指南",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.88,
+    "pmid": "24788364"
+  },
+  {
+    "head": "ATM突变",
+    "relation": "乳腺癌终生风险",
+    "tail": "约15-40%",
+    "source": "NCCN遗传性乳腺癌指南",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.88,
+    "pmid": "24788364"
+  },
+  {
+    "head": "TP53突变",
+    "relation": "Li-Fraumeni综合征",
+    "tail": "乳腺癌终生风险约50-80%",
+    "source": "NCCN/ASCO指南",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.88,
+    "pmid": "24788364"
+  },
+  {
+    "head": "NGS基因检测",
+    "relation": "遗传性乳腺癌检测",
+    "tail": "多基因panel包括BRCA1/2、PALB2、CHEK2等",
+    "source": "CSCO/NCCN遗传性乳腺癌指南",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.92
+  },
+  {
+    "head": "BRCA1突变相关TNBC",
+    "relation": "分子特征",
+    "tail": "基底样型、BRCA1甲基化相关",
+    "source": "TCGA数据 / 分子病理研究",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.88
+  },
+  {
+    "head": "Claudin-low型",
+    "relation": "分子特征",
+    "tail": "间质样型，预后较差，免疫浸润高",
+    "source": "TCGA / Perou教授分型",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.85
+  },
+  {
+    "head": "Claudin-low型",
+    "relation": "常见于",
+    "tail": "TNBC亚型",
+    "source": "TCGA分子分型",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.85
+  },
+  {
+    "head": "PD-L1检测",
+    "relation": "三阴性乳腺癌",
+    "tail": "CPS评分≥10可考虑免疫治疗",
+    "source": "KEYNOTE-522/355定义",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.90
+  },
+  {
+    "head": "Trop-2",
+    "relation": "表达与戈沙妥珠单抗疗效",
+    "tail": "Trop-2高表达患者获益更大",
+    "source": "ASCENT / TROPiCS-02研究",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.88,
+    "pmid": "33839994"
+  },
+  {
+    "head": "ctDNA",
+    "relation": "在转移性乳腺癌中应用",
+    "tail": "可辅助动态监测和耐药机制分析",
+    "source": "CSCO ctDNA专家共识",
+    "evidence": "II级专家共识",
+    "domain": "biomarkers",
+    "confidence": 0.82
+  },
+  {
+    "head": "CTC",
+    "relation": "在乳腺癌中预后价值",
+    "tail": "转移性乳腺癌CTC≥5/7.5ml预后不良",
+    "source": "CSCO/CTCs专家共识",
+    "evidence": "I级专家共识",
+    "domain": "biomarkers",
+    "confidence": 0.85
+  },
+  {
+    "head": "Oncotype DX",
+    "relation": "21基因复发评分",
+    "tail": "RS<26低危，26-30中危，≥31高危",
+    "source": "TAILORx研究 (NCT00310180)",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.92,
+    "pmid": "29438927"
+  },
+  {
+    "head": "MammaPrint",
+    "relation": "70基因标签",
+    "tail": "可评估早期乳腺癌复发风险",
+    "source": "MINDACT研究",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.90
+  },
+  {
+    "head": "Ki-67",
+    "relation": "预后标志物",
+    "tail": "高Ki-67提示预后较差、化疗可能获益",
+    "source": "St. Gallen共识 / CSCO指南",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.88
+  },
+  {
+    "head": "HR+乳腺癌",
+    "relation": "ESR1突变",
+    "tail": "AI治疗耐药机制之一",
+    "source": "PALOMA-3 / CSCO指南",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.88
+  },
+  {
+    "head": "HER2+乳腺癌",
+    "relation": "PIK3CA突变率",
+    "tail": "约15-30%",
+    "source": "SOLAR-1等研究",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.85
+  },
+  {
+    "head": "TNBC",
+    "relation": "分子分型",
+    "tail": "BL1(免疫激活)/BL2(基底免疫抑制)/M(间质)/LAR(管腔雄激素)",
+    "source": "Lehmann's TNBC分类",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.88
+  },
+  {
+    "head": "TNBC BL1亚型",
+    "relation": "特点",
+    "tail": "免疫浸润高，PD-L1表达高，对免疫治疗敏感",
+    "source": "Lehmann分类 / TNBC研究",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.88
+  },
+  {
+    "head": "TNBC LAR亚型",
+    "relation": "特点",
+    "tail": "AR阳性，可能从AR靶向治疗获益",
+    "source": "Lehmann分类 / TNBC研究",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.85
+  },
+  {
+    "head": "ER",
+    "relation": "低表达阈值",
+    "tail": "1-9%为低表达，需综合考虑治疗决策",
+    "source": "ASCO/CAP指南更新",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.90,
+    "pmid": "24523737"
+  },
+  {
+    "head": "PR",
+    "relation": "判定标准",
+    "tail": "≥1%阳性为HR阳性，但PR<20%可能预后较差",
+    "source": "St. Gallen共识 / CSCO指南",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.88
+  },
+  {
+    "head": "HR+HER2-",
+    "relation": "CDK4/6抑制剂耐药机制",
+    "tail": "RB1突变/失活、CCNE1扩增、PIK3CA/AKT通路激活",
+    "source": "CDK4/6i耐药研究",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.85
+  },
+  {
+    "head": "gBRCA突变",
+    "relation": "检测指征",
+    "tail": "家族史/早发/双侧/男性乳腺癌等",
+    "source": "CSCO/NCCN遗传咨询指南",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.92
+  },
+  {
+    "head": "HR+/HER2-",
+    "relation": "PIK3CA突变",
+    "tail": "约40%患者存在突变",
+    "source": "SOLAR-1 / TCGA数据",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.88,
+    "pmid": "31658300"
+  },
+  {
+    "head": "HER2低表达",
+    "relation": "比例",
+    "tail": "占全部乳腺癌约45-55%",
+    "source": "DESTINY-Breast04研究数据",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.88
+  },
+  {
+    "head": "TILs",
+    "relation": "在三阴性乳腺癌中预后价值",
+    "tail": "高TILs提示预后较好、免疫治疗可能获益",
+    "source": "KEYNOTE-522 / 免疫治疗研究",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.88
+  },
+  {
+    "head": "NGS",
+    "relation": "晚期乳腺癌应用",
+    "tail": "可发现可靶向治疗突变，指导后线治疗",
+    "source": "CSCO指南 / NCCN 2025",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.88
+  }
+]

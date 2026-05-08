@@ -1,0 +1,329 @@
+[
+  {
+    "head": "中国女性乳腺癌",
+    "relation": "发病趋势",
+    "tail": "发病率持续上升，年均增长3-4%",
+    "source": "国家癌症中心数据",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.92
+  },
+  {
+    "head": "中国女性乳腺癌",
+    "relation": "死亡率趋势",
+    "tail": "城市略有下降，农村仍在上升",
+    "source": "国家癌症中心数据",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.88
+  },
+  {
+    "head": "中国女性乳腺癌",
+    "relation": "5年生存率",
+    "tail": "83.2%（CONCORD-3），部分发达地区达90%以上",
+    "source": "CONCORD-3研究",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.92,
+    "pmid": "30527443"
+  },
+  {
+    "head": "中国女性乳腺癌",
+    "relation": "10年生存率",
+    "tail": "约70%",
+    "source": "中国癌症生存数据",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.88
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "遗传性比例",
+    "tail": "约5-10%",
+    "source": "NCCN/CSCO指南",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.92
+  },
+  {
+    "head": "BRCA1/2突变携带者",
+    "relation": "乳腺癌终生风险",
+    "tail": "BRCA1约55-72%，BRCA2约45-69%",
+    "source": "BCNC / NCCN指南",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.92,
+    "pmid": "24788364"
+  },
+  {
+    "head": "BRCA1/2突变携带者",
+    "relation": "卵巢癌终生风险",
+    "tail": "BRCA1约36-53%，BRCA2约11-23%",
+    "source": "BCNC / NCCN指南",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.92,
+    "pmid": "24788364"
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "BRCA突变携带者对侧风险",
+    "tail": "BRCA1约33%，BRCA2约27%",
+    "source": "大型前瞻性队列研究",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.90,
+    "pmid": "24788364"
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "月经初潮年龄",
+    "relation_detail": "月经初潮<12岁风险增加",
+    "tail": "初潮年龄越早，发病风险越高",
+    "source": "流行病学研究",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.88
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "绝经年龄",
+    "relation_detail": "晚绝经>55岁风险增加",
+    "tail": "绝经年龄越晚，发病风险越高",
+    "source": "流行病学研究",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.85
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "生育因素",
+    "tail": "未育/首胎>30岁风险增加",
+    "source": "流行病学研究",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.88
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "哺乳",
+    "relation_detail": "哺乳是保护因素",
+    "tail": "每哺乳12月，风险降低约4.3%",
+    "source": "Lancet 2022",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.88,
+    "pmid": "35394189"
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "肥胖",
+    "relation_detail": "绝经后BMI增加风险",
+    "tail": "绝经后BMI>30风险约1.5-2倍",
+    "source": "WHO/IARC",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.88
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "饮酒",
+    "relation_detail": "饮酒是危险因素",
+    "tail": "每日饮酒10g，风险增加约7-10%",
+    "source": "IARC / WCRF",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.88
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "吸烟",
+    "relation_detail": "吸烟增加风险",
+    "tail": "长期吸烟者风险增加约1.1-1.3倍",
+    "source": "IARC / WCRF",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.85
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "体力活动",
+    "relation_detail": "运动是保护因素",
+    "tail": "每周中等强度运动150分钟可降低风险",
+    "source": "WCRF/AICR",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.85
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "地区差异",
+    "tail": "东部沿海>中部>西部",
+    "source": "中国肿瘤登记数据",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.88
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "城市vs农村",
+    "tail": "城市发病率约为农村1.5-2倍",
+    "source": "中国肿瘤登记年报",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.88
+  },
+  {
+    "head": "年轻乳腺癌",
+    "relation": "定义",
+    "tail": "发病年龄<35岁或<40岁",
+    "source": "CSCO/ESMO指南",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.92
+  },
+  {
+    "head": "年轻乳腺癌",
+    "relation": "特点",
+    "tail": "分化差、Ki-67高、BRCA突变比例高",
+    "source": "CSCO年轻乳腺癌专家共识",
+    "evidence": "I级专家共识",
+    "domain": "epidemiology",
+    "confidence": 0.88
+  },
+  {
+    "head": "老年乳腺癌",
+    "relation": "特点",
+    "tail": "HR阳性比例高、HER2阳性比例低、生物学行为相对惰性",
+    "source": "CSCO老年肿瘤指南",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.88
+  },
+  {
+    "head": "男性乳腺癌",
+    "relation": "比例",
+    "tail": "约占全部乳腺癌<1%",
+    "source": "SEER数据库",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.95
+  },
+  {
+    "head": "男性乳腺癌",
+    "relation": "BRCA2突变比例",
+    "tail": "约10-15%",
+    "source": "NCCN遗传性乳腺癌指南",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.88
+  },
+  {
+    "head": "男性乳腺癌",
+    "relation": "HR阳性比例",
+    "tail": "约90%为ER阳性",
+    "source": "SEER / 流行病学研究",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.90
+  },
+  {
+    "head": "TNBC",
+    "relation": "比例",
+    "tail": "占全部乳腺癌约10-15%",
+    "source": "GLOBOCAN / NCCN",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.95
+  },
+  {
+    "head": "TNBC",
+    "relation": "特点",
+    "tail": "侵袭性强、预后差、易复发转移",
+    "source": "NCCN/CSCO TNBC指南",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.92
+  },
+  {
+    "head": "TNBC",
+    "relation": "脑转移风险",
+    "tail": "高于非TNBC",
+    "source": "NCCN脑转移指南",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.88
+  },
+  {
+    "head": "TNBC",
+    "relation": "肺/肝转移风险",
+    "tail": "高于Luminal型",
+    "source": "临床研究数据",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.88
+  },
+  {
+    "head": "早期乳腺癌",
+    "relation": "局部复发率",
+    "tail": "规范治疗后5年局部复发率<5%",
+    "source": "EBCTCG meta分析",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.92
+  },
+  {
+    "head": "早期乳腺癌",
+    "relation": "远处转移率",
+    "tail": "约20-30%最终出现远处转移",
+    "source": "EBCTCG / 临床研究",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.88
+  },
+  {
+    "head": "转移性乳腺癌",
+    "relation": "中位OS",
+    "tail": "约2-3年（HR+/HER2-），TNBC约1-2年",
+    "source": "CSCO/ESMO转移性乳腺癌指南",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.85
+  },
+  {
+    "head": "中国乳腺癌筛查",
+    "relation": "推荐年龄",
+    "tail": "40-69岁女性每1-2年钼靶筛查",
+    "source": "国家卫健委两癌筛查方案",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.90
+  },
+  {
+    "head": "高危女性",
+    "relation": "筛查方式",
+    "tail": "每年钼靶+乳腺超声，必要时MRI",
+    "source": "CSCO/NCCN高危筛查指南",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.92
+  },
+  {
+    "head": "BRCA突变携带者",
+    "relation": "乳腺癌筛查起始年龄",
+    "tail": "25岁或家族最早发病年龄前5年",
+    "source": "NCCN遗传性乳腺癌指南",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.92
+  },
+  {
+    "head": "BRCA突变携带者",
+    "relation": "预防性输卵管卵巢切除",
+    "tail": "BRCA1建议35-40岁，BRCA2建议40-45岁",
+    "source": "NCCN/ESMO预防指南",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.90
+  }
+]

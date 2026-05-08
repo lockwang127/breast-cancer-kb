@@ -1,0 +1,345 @@
+[
+  {
+    "head": "HR+/HER2-",
+    "relation": "氟维司群用法",
+    "tail": "500mg d1, d15, 之后每月1次",
+    "source": "CSCO 2025指南 / CONFIRM研究",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "HR+HER2-晚期",
+    "relation": "CDK4/6i经治后",
+    "tail": "可选elacestrant或化疗",
+    "source": "CSCO 2025指南 / EMERALD研究",
+    "evidence": "II级",
+    "domain": "clinical_trials",
+    "confidence": 0.85
+  },
+  {
+    "head": "HER2+晚期",
+    "relation": "马吉妥昔单抗",
+    "tail": "SOPHIA研究显示OS改善趋势",
+    "source": "SOPHIA (NCT02492711) / JCO",
+    "evidence": "II级",
+    "domain": "clinical_trials",
+    "confidence": 0.82,
+    "pmid": "34647974"
+  },
+  {
+    "head": "HR+/HER2-",
+    "relation": "SHR6390（瑞波西利类似物）",
+    "tail": "DAWNA-1研究显示PFS改善",
+    "source": "DAWNA-1 (NCT03971440)",
+    "evidence": "II级",
+    "domain": "clinical_trials",
+    "confidence": 0.80
+  },
+  {
+    "head": "PARP抑制剂",
+    "relation": "血液学毒性监测",
+    "tail": "每周期前监测血常规，必要时减量",
+    "source": "CSCO/NCCN PARP抑制剂安全指南",
+    "evidence": "I级",
+    "domain": "support_care",
+    "confidence": 0.92
+  },
+  {
+    "head": "CDK4/6抑制剂",
+    "relation": "不良反应",
+    "tail": "中性粒细胞减少/肝毒性/QT间期延长（哌柏西利）",
+    "source": "CSCO/NCCN CDK4/6i安全指南",
+    "evidence": "I级",
+    "domain": "support_care",
+    "confidence": 0.90
+  },
+  {
+    "head": "ADC药物治疗",
+    "relation": "输注反应预防",
+    "tail": "T-DM1/T-DXd输注前预用药",
+    "source": "CSCO/NCCN ADC安全指南",
+    "evidence": "I级",
+    "domain": "support_care",
+    "confidence": 0.88
+  },
+  {
+    "head": "乳腺癌患者",
+    "relation": "癌症疲劳管理",
+    "tail": "运动疗法/心理治疗/必要时药物干预",
+    "source": "NCCN癌因性疲劳指南",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.85
+  },
+  {
+    "head": "乳腺癌术后",
+    "relation": "肩关节功能锻炼",
+    "tail": "术后第1天开始渐进式上肢功能锻炼",
+    "source": "CSCO康复指南",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.88
+  },
+  {
+    "head": "乳腺癌患者",
+    "relation": "性健康咨询",
+    "tail": "推荐转诊至性健康专科",
+    "source": "NCCN survivorship指南",
+    "evidence": "II级专家共识",
+    "domain": "support_care",
+    "confidence": 0.80
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "肿瘤突变负荷(TMB)",
+    "tail": "TMB-H（≥10 mut/Mb）可考虑免疫治疗",
+    "source": "KEYNOTE-158",
+    "evidence": "II级",
+    "domain": "biomarkers",
+    "confidence": 0.78
+  },
+  {
+    "head": "乳腺癌预后",
+    "relation": "肿瘤浸润淋巴细胞(TILs)",
+    "tail": "TNBC中TILs高提示预后较好、对免疫治疗敏感",
+    "source": "KEYNOTE-522 TILs分析",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.88
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "液体活检临床应用",
+    "tail": "可辅助早期复发监测、晚期耐药机制分析",
+    "source": "NCCN液体活检专家共识",
+    "evidence": "II级专家共识",
+    "domain": "biomarkers",
+    "confidence": 0.82
+  },
+  {
+    "head": "乳腺癌脑转移",
+    "relation": "HER2+脑转移预后",
+    "tail": "T-DXd和图卡替尼显示颅内活性",
+    "source": "DESTINY-Breast12 / HER2CLIMB研究",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.88
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "炎性乳腺癌特点",
+    "tail": "病程进展快、预后差、多为HR-/HER2-",
+    "source": "NCCN炎性乳腺癌指南",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.90
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "妊娠期乳腺癌发病率",
+    "tail": "约1/3000妊娠",
+    "source": "NCCN妊娠期肿瘤指南",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.95
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "BRCA1/2突变家族史",
+    "tail": "建议进行遗传咨询和多基因检测",
+    "source": "NCCN遗传性乳腺癌指南",
+    "evidence": "I级专家共识",
+    "domain": "genetic_counseling",
+    "confidence": 0.92
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "PALB2突变筛查指征",
+    "tail": "有家族史/FDR有BRCA阴性但有多例乳腺癌",
+    "source": "NCCN遗传性乳腺癌指南",
+    "evidence": "I级专家共识",
+    "domain": "genetic_counseling",
+    "confidence": 0.88
+  },
+  {
+    "head": "HER2+乳腺癌",
+    "relation": "曲妥珠单抗清除率",
+    "tail": "与体重相关，需按 loading dose 8mg/kg, 维持 6mg/kg Q3W",
+    "source": "CSCO 2025指南 / 赫赛汀说明书",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "HER2+乳腺癌",
+    "relation": "帕妥珠单抗用法",
+    "tail": "负荷剂量840mg, 维持420mg Q3W",
+    "source": "CSCO 2025指南 / 帕捷特说明书",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "乳腺癌辅助放疗",
+    "relation": "中度分割方案",
+    "tail": "40Gy/15次/3周 可替代常规分割",
+    "source": "START B / FAST研究",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.92
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "大分割放疗适应证",
+    "tail": "适用于保乳术后和全切术后大部分患者",
+    "source": "ASTRO保乳放疗指南更新",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.90
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "术中放疗(IORT)",
+    "tail": "特定低危患者可考虑",
+    "source": "ELIOT/TARGIT-A研究",
+    "evidence": "II级",
+    "domain": "treatment",
+    "confidence": 0.80
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "部分乳腺照射(APBI)",
+    "tail": "经选择的低危患者可接受APBI",
+    "source": "RTOG 0413 / NSABP B-39",
+    "evidence": "II级",
+    "domain": "treatment",
+    "confidence": 0.82
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "放射野设计原则",
+    "tail": "保乳术后包括全部乳腺实质，全切术后包括胸壁和锁骨上区",
+    "source": "CSCO/NCCN放疗指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.92
+  },
+  {
+    "head": "HER2低表达",
+    "relation": "T-DXd颅内活性",
+    "tail": "DESTINY-Breast03/04 CNS分析显示颅内活性",
+    "source": "DESTINY-Breast CNS分析",
+    "evidence": "II级",
+    "domain": "clinical_trials",
+    "confidence": 0.85
+  },
+  {
+    "head": "HR+/HER2-晚期",
+    "relation": "CAPltello研究",
+    "tail": "卡皮伐他汀+氟维司群",
+    "source": "CAPltello (NCT03128614)",
+    "evidence": "II级",
+    "domain": "clinical_trials",
+    "confidence": 0.80
+  },
+  {
+    "head": "三阴性乳腺癌",
+    "relation": "Sacituzumab govitecan耐药后",
+    "tail": "可选化疗或参加临床试验",
+    "source": "CSCO 2025指南",
+    "evidence": "II级专家共识",
+    "domain": "treatment",
+    "confidence": 0.82
+  },
+  {
+    "head": "HER2+乳腺癌",
+    "relation": "Margetuximab",
+    "tail": "SOPHIA研究，用于抗HER2治疗经治患者",
+    "source": "SOPHIA (NCT02492711)",
+    "evidence": "II级",
+    "domain": "clinical_trials",
+    "confidence": 0.80
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "pet-ct在 staging中的应用",
+    "tail": "可用于评估远处转移，优于常规影像",
+    "source": "NCCN staging指南",
+    "evidence": "II级",
+    "domain": "epidemiology",
+    "confidence": 0.85
+  },
+  {
+    "head": "乳腺癌骨转移",
+    "relation": "地舒单抗 vs 唑来膦酸",
+    "tail": "地舒单抗推迟SRE发生时间优于唑来膦酸",
+    "source": "NCCN骨转移指南 / 地舒单抗说明书",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.92
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "免疫组化质控要求",
+    "tail": "每批次需有阳性和阴性对照",
+    "source": "ASCO/CAP指南更新",
+    "evidence": "I级",
+    "domain": "biomarkers",
+    "confidence": 0.95
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "多基因风险评分(PRS)",
+    "tail": "可用于评估健康女性乳腺癌风险",
+    "source": "NCCN预防指南 / Nature Genetics 2021",
+    "evidence": "II级",
+    "domain": "biomarkers",
+    "confidence": 0.78
+  },
+  {
+    "head": "乳腺癌患者",
+    "relation": "康复运动推荐",
+    "tail": "术后即可开始上肢功能锻炼+有氧运动",
+    "source": "ACS运动指南",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.88
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "COPD/心血管病风险",
+    "tail": "蒽环类和曲妥珠单抗增加心血管事件风险",
+    "source": "CSCO/NCCN心血管毒性指南",
+    "evidence": "I级",
+    "domain": "support_care",
+    "confidence": 0.92
+  },
+  {
+    "head": "乳腺癌患者",
+    "relation": "焦虑/抑郁筛查",
+    "tail": "推荐使用PHQ-9/GAD-7等工具进行筛查",
+    "source": "NCCN心理痛苦管理指南",
+    "evidence": "II级专家共识",
+    "domain": "support_care",
+    "confidence": 0.85
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "继发恶性肿瘤风险",
+    "tail": "放疗可增加对侧乳腺癌/肉瘤风险",
+    "source": "NCCN survivorship指南",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.90
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "随访中肿瘤标志物意义",
+    "tail": "仅在有症状或影像学怀疑复发时使用",
+    "source": "NCCN随访指南",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.92
+  }
+]

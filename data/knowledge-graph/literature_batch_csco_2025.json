@@ -1,0 +1,353 @@
+[
+  {
+    "head": "HR+/HER2-早期高危乳腺癌",
+    "relation": "辅助CDK4/6抑制剂推荐",
+    "tail": "阿贝西利1年辅助治疗（monarchE研究）",
+    "source": "CSCO 2025指南 / monarchE研究 (NCT03155997)",
+    "evidence": "I级",
+    "domain": "csco_2025",
+    "confidence": 0.95,
+    "pmid": "33196156"
+  },
+  {
+    "head": "HR+/HER2-绝经后晚期",
+    "relation": "一线标准治疗",
+    "tail": "AI类+CDK4/6抑制剂（哌柏西利/瑞波西利/阿贝西利）",
+    "source": "CSCO 2025指南 / PALOMA-2等研究",
+    "evidence": "I级",
+    "domain": "csco_2025",
+    "confidence": 0.95,
+    "pmid": "27406346"
+  },
+  {
+    "head": "HR+/HER2-绝经前晚期",
+    "relation": "一线推荐",
+    "tail": "OFS+AI/TAM+CDK4/6抑制剂",
+    "source": "CSCO 2025指南 / MONALEESA-7研究",
+    "evidence": "I级",
+    "domain": "csco_2025",
+    "confidence": 0.92,
+    "pmid": "29658936"
+  },
+  {
+    "head": "HR+/HER2-内分泌耐药",
+    "relation": "后续治疗选择",
+    "tail": "氟维司群±阿培利司（SOLAR-1）",
+    "source": "CSCO 2025指南 / SOLAR-1研究",
+    "evidence": "I级",
+    "domain": "csco_2025",
+    "confidence": 0.88,
+    "pmid": "31658300"
+  },
+  {
+    "head": "HER2+晚期乳腺癌",
+    "relation": "一线标准治疗",
+    "tail": "曲妥珠单抗+帕妥珠单抗+紫杉类",
+    "source": "CSCO 2025指南 / CLEOPATRA研究",
+    "evidence": "I级",
+    "domain": "csco_2025",
+    "confidence": 0.95,
+    "pmid": "22689808"
+  },
+  {
+    "head": "HER2+晚期乳腺癌",
+    "relation": "二线标准治疗",
+    "tail": "T-DXd（德曲妥珠单抗）",
+    "source": "CSCO 2025指南 / DESTINY-Breast03",
+    "evidence": "I级",
+    "domain": "csco_2025",
+    "confidence": 0.95,
+    "pmid": "34000629"
+  },
+  {
+    "head": "HER2低表达晚期乳腺癌",
+    "relation": "ADC治疗推荐",
+    "tail": "T-DXd（DESTINY-Breast04）",
+    "source": "CSCO 2025指南 / DESTINY-Breast04 (NCT03734029)",
+    "evidence": "I级",
+    "domain": "csco_2025",
+    "confidence": 0.92,
+    "pmid": "35727979"
+  },
+  {
+    "head": "三阴性乳腺癌晚期",
+    "relation": "ADC治疗推荐",
+    "tail": "戈沙妥珠单抗（Sacituzumab govitecan）",
+    "source": "CSCO 2025指南 / TROPiCS-02研究",
+    "evidence": "I级",
+    "domain": "csco_2025",
+    "confidence": 0.88,
+    "pmid": "35636684"
+  },
+  {
+    "head": "三阴性乳腺癌",
+    "relation": "新辅助/辅助免疫治疗",
+    "tail": "帕博利珠单抗+化疗（KEYNOTE-522）",
+    "source": "CSCO 2025指南 / KEYNOTE-522 (NCT03036488)",
+    "evidence": "I级",
+    "domain": "csco_2025",
+    "confidence": 0.92,
+    "pmid": "33582491"
+  },
+  {
+    "head": "TNBC新辅助后未达pCR",
+    "relation": "强化治疗",
+    "tail": "卡培他滨6-8周期辅助治疗",
+    "source": "CSCO 2025指南 / CREATE-X研究",
+    "evidence": "I级",
+    "domain": "csco_2025",
+    "confidence": 0.92,
+    "pmid": "28645999"
+  },
+  {
+    "head": "HER2+新辅助后未达pCR",
+    "relation": "强化治疗",
+    "tail": "T-DM1 14周期辅助治疗",
+    "source": "CSCO 2025指南 / KATHERINE研究",
+    "evidence": "I级",
+    "domain": "csco_2025",
+    "confidence": 0.95,
+    "pmid": "30504463"
+  },
+  {
+    "head": "gBRCA1/2突变高危早期HER2-",
+    "relation": "辅助靶向治疗",
+    "tail": "奥拉帕利1年辅助治疗",
+    "source": "CSCO 2025指南 / OlympiA研究 (NCT02032823)",
+    "evidence": "I级",
+    "domain": "csco_2025",
+    "confidence": 0.92,
+    "pmid": "33911091"
+  },
+  {
+    "head": "gBRCA突变HER2-晚期",
+    "relation": "靶向治疗",
+    "tail": "奥拉帕利或talazoparib（PARP抑制剂）",
+    "source": "CSCO 2025指南 / OlympiAD / EMBRACA研究",
+    "evidence": "I级",
+    "domain": "csco_2025",
+    "confidence": 0.92,
+    "pmid": "29975758"
+  },
+  {
+    "head": "HR+/HER2-绝经后",
+    "relation": "5年辅助内分泌治疗",
+    "tail": "AI类（来曲唑/阿那曲唑/依西美坦）",
+    "source": "CSCO 2025指南 / ATAC/BIG 1-98研究",
+    "evidence": "I级",
+    "domain": "csco_2025",
+    "confidence": 0.95
+  },
+  {
+    "head": "HR+/HER2-高危",
+    "relation": "延长内分泌治疗",
+    "tail": "可延长AI至7-10年",
+    "source": "CSCO 2025指南 / MA.17R等研究",
+    "evidence": "I级",
+    "domain": "csco_2025",
+    "confidence": 0.88
+  },
+  {
+    "head": "HR+绝经前高危",
+    "relation": "强化内分泌治疗",
+    "tail": "OFS+AI或OFS+TAM（SOFT/TEXT研究）",
+    "source": "CSCO 2025指南 / SOFT-TEXT联合分析",
+    "evidence": "I级",
+    "domain": "csco_2025",
+    "confidence": 0.92,
+    "pmid": "25975048"
+  },
+  {
+    "head": "HER2+绝经前",
+    "relation": "辅助靶向治疗",
+    "tail": "AC-TH或TCbH方案1年曲妥珠单抗",
+    "source": "CSCO 2025指南 / HERA/NCCTG N9831/NSABP B-31",
+    "evidence": "I级",
+    "domain": "csco_2025",
+    "confidence": 0.95,
+    "pmid": "17452696"
+  },
+  {
+    "head": "HER2+绝经前高危",
+    "relation": "双靶辅助治疗",
+    "tail": "TCbHP方案（曲帕双靶）",
+    "source": "CSCO 2025指南 / APHINITY研究",
+    "evidence": "I级",
+    "domain": "csco_2025",
+    "confidence": 0.92,
+    "pmid": "28678982"
+  },
+  {
+    "head": "BRCA1/2突变携带者",
+    "relation": "预防性乳腺切除",
+    "tail": "可降低约90-95%乳腺癌风险",
+    "source": "NCCN遗传性乳腺癌指南",
+    "evidence": "I级",
+    "domain": "csco_2025",
+    "confidence": 0.90,
+    "pmid": "24788364"
+  },
+  {
+    "head": "BRCA突变携带者",
+    "relation": "监测筛查",
+    "tail": "每年乳腺MRI+钼靶（6月交替）",
+    "source": "NCCN遗传性乳腺癌指南 / CSCO指南",
+    "evidence": "I级",
+    "domain": "csco_2025",
+    "confidence": 0.92
+  },
+  {
+    "head": "PIK3CA突变HR+HER2-",
+    "relation": "靶向治疗",
+    "tail": "阿培利司+氟维司群",
+    "source": "SOLAR-1研究 / CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "csco_2025",
+    "confidence": 0.88,
+    "pmid": "31658300"
+  },
+  {
+    "head": "HR+HER2-晚期",
+    "relation": "内脏危象定义",
+    "tail": "肝/肺等多器官转移伴症状",
+    "source": "CSCO 2025指南",
+    "evidence": "I级专家共识",
+    "domain": "csco_2025",
+    "confidence": 0.90
+  },
+  {
+    "head": "HR+HER2-内脏危象",
+    "relation": "治疗选择",
+    "tail": "化疗±靶向，非单纯内分泌治疗",
+    "source": "CSCO 2025指南",
+    "evidence": "I级专家共识",
+    "domain": "csco_2025",
+    "confidence": 0.90
+  },
+  {
+    "head": "乳腺癌骨转移",
+    "relation": "骨改良药物",
+    "tail": "唑来膦酸或地舒单抗（每3-6月）",
+    "source": "CSCO 2025指南 / NCCN指南",
+    "evidence": "I级",
+    "domain": "csco_2025",
+    "confidence": 0.92
+  },
+  {
+    "head": "乳腺癌脑转移",
+    "relation": "治疗原则",
+    "tail": "手术/SRS/WBRT±全身治疗",
+    "source": "CSCO/NCCN指南",
+    "evidence": "I级",
+    "domain": "csco_2025",
+    "confidence": 0.88
+  },
+  {
+    "head": "HER2+脑转移",
+    "relation": "全身治疗",
+    "tail": "T-DXd和图卡替尼显示脑部活性",
+    "source": "DESTINY-Breast12 / HER2CLIMB研究",
+    "evidence": "II级",
+    "domain": "csco_2025",
+    "confidence": 0.85
+  },
+  {
+    "head": "乳腺癌",
+    "relation": "生育力保护",
+    "tail": "化疗前OFS或卵母细胞/胚胎冻存",
+    "source": "CSCO 2025指南 / NCCN Fertility Preservation",
+    "evidence": "I级",
+    "domain": "csco_2025",
+    "confidence": 0.90
+  },
+  {
+    "head": "妊娠期乳腺癌",
+    "relation": "治疗原则",
+    "tail": "根据孕周制定个体化方案",
+    "source": "CSCO/NCCN妊娠期乳腺癌指南",
+    "evidence": "I级专家共识",
+    "domain": "csco_2025",
+    "confidence": 0.88
+  },
+  {
+    "head": "老年乳腺癌",
+    "relation": "治疗决策",
+    "tail": "根据体能状态和合并症综合考虑",
+    "source": "CSCO 2025指南 / NCCN Senior Adult Oncology",
+    "evidence": "I级专家共识",
+    "domain": "csco_2025",
+    "confidence": 0.88
+  },
+  {
+    "head": "炎性乳腺癌",
+    "relation": "治疗原则",
+    "tail": "新辅助化疗为主，多学科综合治疗",
+    "source": "CSCO/NCCN指南",
+    "evidence": "I级",
+    "domain": "csco_2025",
+    "confidence": 0.88
+  },
+  {
+    "head": "Paget病",
+    "relation": "治疗原则",
+    "tail": "根据underlying tumor制定治疗方案",
+    "source": "CSCO/NCCN指南",
+    "evidence": "I级",
+    "domain": "csco_2025",
+    "confidence": 0.85
+  },
+  {
+    "head": "双侧乳腺癌",
+    "relation": "治疗原则",
+    "tail": "可同时或分期手术，全身治疗根据分期",
+    "source": "CSCO指南",
+    "evidence": "I级专家共识",
+    "domain": "csco_2025",
+    "confidence": 0.85
+  },
+  {
+    "head": "隐匿性乳腺癌",
+    "relation": "定义",
+    "tail": "腋窝淋巴结转移为首发，乳腺影像学未发现原发灶",
+    "source": "CSCO指南",
+    "evidence": "I级",
+    "domain": "csco_2025",
+    "confidence": 0.90
+  },
+  {
+    "head": "隐匿性乳腺癌",
+    "relation": "治疗原则",
+    "tail": "腋窝清扫+全乳放疗±化疗/内分泌治疗",
+    "source": "CSCO/NCCN指南",
+    "evidence": "I级专家共识",
+    "domain": "csco_2025",
+    "confidence": 0.85
+  },
+  {
+    "head": "叶状肿瘤",
+    "relation": "治疗原则",
+    "tail": "广泛局部切除，切缘≥1cm",
+    "source": "CSCO/NCCN指南",
+    "evidence": "I级",
+    "domain": "csco_2025",
+    "confidence": 0.88
+  },
+  {
+    "head": "叶状肿瘤恶性",
+    "relation": "辅助治疗",
+    "tail": "根据分期和危险因素决定",
+    "source": "CSCO指南",
+    "evidence": "I级专家共识",
+    "domain": "csco_2025",
+    "confidence": 0.82
+  },
+  {
+    "head": "小叶癌",
+    "relation": "特点",
+    "tail": "多灶/双侧常见，ER阳性多见",
+    "source": "WHO乳腺肿瘤分类",
+    "evidence": "I级",
+    "domain": "csco_2025",
+    "confidence": 0.90
+  }
+]
